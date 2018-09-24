@@ -65,37 +65,46 @@ class Application(Frame):
         补0数 = 6 - len(self.当前字符[0])
         大写Unicode码 = "0" * 补0数 + self.当前字符[0].upper()
 
+        图片区 = Frame(self)
+        图片区.pack(side = "left")
+        大陆字体区 = Frame(图片区)
+        大陆字体区.pack()
         # TODO: 如图片不存在, 不应抛错
-        # TODO: 其他图片; 界面排版
         # TODO: 重构
         # 显示图片, 参考: https://stackoverflow.com/questions/35024118/how-to-load-an-image-into-a-python-3-4-tkinter-window
         中易宋体图片 = PhotoImage(file=常量_图片路径_中易宋体 + 大写Unicode码 + 常量_图片扩展名)
-        self.图片显示1 = Label(self, image=中易宋体图片)
+        self.图片显示1 = Label(大陆字体区, image=中易宋体图片)
         self.图片显示1.image = 中易宋体图片
-        self.图片显示1.pack()
+        self.图片显示1.pack(side = "left")
 
         中华书局宋体图片 = PhotoImage(file=常量_图片路径_中华书局宋体 + 大写Unicode码 + 常量_图片扩展名)
-        self.图片显示2 = Label(self, image=中华书局宋体图片)
+        self.图片显示2 = Label(大陆字体区, image=中华书局宋体图片)
         self.图片显示2.image = 中华书局宋体图片
-        self.图片显示2.pack()
+        self.图片显示2.pack(side = "right")
 
+        港台字体区 = Frame(图片区)
+        港台字体区.pack()
         细明体_HKSCS图片 = PhotoImage(file=常量_图片路径_细明体_HKSCS + 大写Unicode码 + 常量_图片扩展名)
-        self.图片显示3 = Label(self, image=细明体_HKSCS图片)
+        self.图片显示3 = Label(港台字体区, image=细明体_HKSCS图片)
         self.图片显示3.image = 细明体_HKSCS图片
-        self.图片显示3.pack()
+        self.图片显示3.pack(side = "left")
 
         细明体图片 = PhotoImage(file=常量_图片路径_细明体 + 大写Unicode码 + 常量_图片扩展名)
-        self.图片显示4 = Label(self, image=细明体图片)
+        self.图片显示4 = Label(港台字体区, image=细明体图片)
         self.图片显示4.image = 细明体图片
-        self.图片显示4.pack()
+        self.图片显示4.pack(side = "right")
 
+        日本字体区 = Frame(图片区)
+        日本字体区.pack()
         花园明朝图片 = PhotoImage(file=常量_图片路径_花园明朝 + 大写Unicode码 + 常量_图片扩展名)
-        self.图片显示5 = Label(self, image=花园明朝图片)
+        self.图片显示5 = Label(日本字体区, image=花园明朝图片)
         self.图片显示5.image = 花园明朝图片
         self.图片显示5.pack()
 
+        细节区 = Frame(self)
+        细节区.pack(side = "right")
         # 显示文本, 参考https://www.python-course.eu/tkinter_labels.php
-        self.Unicode编码区 = Frame(self)
+        self.Unicode编码区 = Frame(细节区)
         self.Unicode编码区.pack()
         self.Unicode编码显示提示 = Label(self.Unicode编码区, text = "Unicode编码")
         self.Unicode编码显示提示.pack( side = "left")
@@ -103,7 +112,7 @@ class Application(Frame):
         self.Unicode编码显示 = Label(self.Unicode编码区, textvariable=self.Unicode编码值)
         self.Unicode编码显示.pack(side = "right")
 
-        self.笔顺区 = Frame(self)
+        self.笔顺区 = Frame(细节区)
         self.笔顺区.pack()
         self.笔顺提示 = Label(self.笔顺区, text = "笔顺")
         self.笔顺提示.pack( side = "left")
@@ -112,7 +121,11 @@ class Application(Frame):
         self.笔顺 = Label(self.笔顺区, textvariable=self.笔顺值)
         self.笔顺.pack(side = "right")
 
-        self.编码86版区 = Frame(self)
+        修改区 = Frame(细节区)
+        修改区.pack()
+        可改编码区 = Frame(修改区)
+        可改编码区.pack(side = "left")
+        self.编码86版区 = Frame(可改编码区)
         self.编码86版区.pack()
         self.编码86版提示 = Label(self.编码86版区, text = "编码86版")
         self.编码86版提示.pack( side = "left")
@@ -121,7 +134,7 @@ class Application(Frame):
         self.编码86版 = Entry(self.编码86版区, textvariable=self.编码86版值)
         self.编码86版.pack(side = "right")
 
-        self.编码98版区 = Frame(self)
+        self.编码98版区 = Frame(可改编码区)
         self.编码98版区.pack()
         self.编码98版提示 = Label(self.编码98版区, text = "编码98版")
         self.编码98版提示.pack( side = "left")
@@ -129,7 +142,7 @@ class Application(Frame):
         self.编码98版 = Entry(self.编码98版区, textvariable=self.编码98版值)
         self.编码98版.pack(side = "right")
 
-        self.编码06版区 = Frame(self)
+        self.编码06版区 = Frame(可改编码区)
         self.编码06版区.pack()
         self.编码06版提示 = Label(self.编码06版区, text = "编码06版")
         self.编码06版提示.pack( side = "left")
@@ -137,10 +150,10 @@ class Application(Frame):
         self.编码06版 = Entry(self.编码06版区, textvariable=self.编码06版值)
         self.编码06版.pack(side = "right")
 
-        self.修改按钮 = Button(self, text = "修改", command = self.修改当前条目)
-        self.修改按钮.pack()
+        self.修改按钮 = Button(修改区, text = "修改", command = self.修改当前条目)
+        self.修改按钮.pack(side = "right")
 
-        self.遍历区 = Frame(self)
+        self.遍历区 = Frame(细节区)
         self.遍历区.pack()
         self.上一个 = Button(self.遍历区, text = "上一个", command = self.上一个字符)
         self.上一个.pack( side = "left")
@@ -148,7 +161,9 @@ class Application(Frame):
         self.下一个 = Button(self.遍历区, text = "下一个", command = self.下一个字符)
         self.下一个.pack(side = "right")
 
-        self.导出按钮 = Button(self, text = "导出文件", command = self.导出文件)
+        # TODO: 搜索/浏览功能
+
+        self.导出按钮 = Button(细节区, text = "导出文件", command = self.导出文件)
         self.导出按钮.pack()
 
     def 刷新控件(self):
