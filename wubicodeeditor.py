@@ -1,6 +1,20 @@
 from tkinter import *
 import csv
 
+常量_源数据文件 = "CJK-A.txt"
+
+# TODO: 如果Unicode编码为2xxxx, 图片在Plane02中
+# 文件名格式统一为 U_xxxxxx.png （ xxxxxx 为 6 位 Unicode 编码，不足 6 位则前面补 0 ）
+常量_图片路径_花园明朝 = "FontGlyphs/HanaMin/Plane00/U_"
+常量_图片路径_汉仪仿宋 = "FontGlyphs/HYFangSong/Plane00/U_"
+常量_图片路径_汉仪字典宋 = "FontGlyphs/HYZiDianSong/Plane00/U_"
+常量_图片路径_细明体 = "FontGlyphs/MingLiU/Plane00/U_"
+常量_图片路径_细明体_HKSCS = "FontGlyphs/MingLiU_HKSCS/Plane00/U_"
+常量_图片路径_中易宋体 = "FontGlyphs/SimSun/Plane00/U_"
+常量_图片路径_中华书局宋体 = "FontGlyphs/ZhongHuaSong/Plane00/U_"
+
+常量_图片扩展名 = ".png"
+
 class Application(Frame):
     def __init__(self, master=None):
         super().__init__(master)
@@ -21,25 +35,47 @@ class Application(Frame):
         self.当前字符序号 = 0
         self.字符列表 = []
 
-        # 显示图片, 参考: https://stackoverflow.com/questions/35024118/how-to-load-an-image-into-a-python-3-4-tkinter-window
-        图片1 = PhotoImage(file="images/test1.png")
-        self.图片显示1 = Label(self, image=图片1)
-        self.图片显示1.image = 图片1
-        self.图片显示1.pack()
-
-        图片2 = PhotoImage(file="images/test2.png")
-        self.图片显示2 = Label(self, image=图片2)
-        self.图片显示2.image = 图片2
-        self.图片显示2.pack()
-
         # 官方文档参考: https://docs.python.org/3/library/csv.html#module-contents
-        with open('CJK-test.txt', newline='') as 源数据文件:
+        with open(常量_源数据文件, newline='') as 源数据文件:
             源数据读取器 = csv.reader(源数据文件, delimiter='\t')
             for 行 in 源数据读取器:
                 print(';'.join(行))
                 self.字符列表.append(行)
-        
+
         self.当前字符 = self.字符列表[self.当前字符序号]
+
+        补0数 = 6 - len(self.当前字符[0])
+        大写Unicode码 = "0" * 补0数 + self.当前字符[0].upper()
+
+        # TODO: 如图片不存在, 不应抛错
+        # TODO: 其他图片; 界面排版
+        # TODO: 重构
+        # 显示图片, 参考: https://stackoverflow.com/questions/35024118/how-to-load-an-image-into-a-python-3-4-tkinter-window
+        中易宋体图片 = PhotoImage(file=常量_图片路径_中易宋体 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示1 = Label(self, image=中易宋体图片)
+        self.图片显示1.image = 中易宋体图片
+        self.图片显示1.pack()
+
+        中易宋体图片 = PhotoImage(file=常量_图片路径_中易宋体 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示2 = Label(self, image=中易宋体图片)
+        self.图片显示2.image = 中易宋体图片
+        self.图片显示2.pack()
+
+        细明体_HKSCS图片 = PhotoImage(file=常量_图片路径_细明体_HKSCS + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示3 = Label(self, image=细明体_HKSCS图片)
+        self.图片显示3.image = 细明体_HKSCS图片
+        self.图片显示3.pack()
+
+        细明体图片 = PhotoImage(file=常量_图片路径_细明体 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示4 = Label(self, image=细明体图片)
+        self.图片显示4.image = 细明体图片
+        self.图片显示4.pack()
+
+        花园明朝图片 = PhotoImage(file=常量_图片路径_花园明朝 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示5 = Label(self, image=花园明朝图片)
+        self.图片显示5.image = 花园明朝图片
+        self.图片显示5.pack()
+
         # 显示文本, 参考https://www.python-course.eu/tkinter_labels.php
         self.Unicode编码区 = Frame(self)
         self.Unicode编码区.pack()
