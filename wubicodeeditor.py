@@ -2,6 +2,7 @@ from tkinter import *
 import csv
 
 常量_源数据文件 = "CJK-A.txt"
+常量_修改后文件 = "修改" + 常量_源数据文件
 
 # TODO: 如果Unicode编码为2xxxx, 图片在Plane02中
 # 文件名格式统一为 U_xxxxxx.png （ xxxxxx 为 6 位 Unicode 编码，不足 6 位则前面补 0 ）
@@ -15,6 +16,8 @@ import csv
 
 常量_图片扩展名 = ".png"
 
+常量_无 = "无"
+
 class Application(Frame):
     def __init__(self, master=None):
         super().__init__(master)
@@ -23,10 +26,12 @@ class Application(Frame):
 
     def 修改当前条目(self):
         self.当前字符[2] = self.编码86版值.get()
+        self.当前字符[3] = self.编码98版值.get()
+        # TODO: 置06版值
         print(str(self.字符列表))
 
     def 导出文件(self):
-        with open('CJK-修改.csv', 'w', newline='') as 目标文件:
+        with open(常量_修改后文件, 'w', newline='') as 目标文件:
             写文件 = csv.writer(目标文件, delimiter='\t')
             for 字符 in self.字符列表:
                 写文件.writerow(字符)
@@ -89,30 +94,48 @@ class Application(Frame):
         self.图片显示5.image = 花园明朝图片
         self.图片显示5.pack()
 
-        # TODO: 改为StringVar, 便于set
         # 显示文本, 参考https://www.python-course.eu/tkinter_labels.php
         self.Unicode编码区 = Frame(self)
         self.Unicode编码区.pack()
         self.Unicode编码显示提示 = Label(self.Unicode编码区, text = "Unicode编码")
         self.Unicode编码显示提示.pack( side = "left")
-        self.Unicode编码显示 = Label(self.Unicode编码区, text=self.当前字符[0])
+        self.Unicode编码值 = StringVar(value=self.当前字符[0])
+        self.Unicode编码显示 = Label(self.Unicode编码区, textvariable=self.Unicode编码值)
         self.Unicode编码显示.pack(side = "right")
 
-        self.Unicode字符区 = Frame(self)
-        self.Unicode字符区.pack()
-        self.Unicode字符提示 = Label(self.Unicode字符区, text = "Unicode字符")
-        self.Unicode字符提示.pack( side = "left")
-        self.Unicode字符 = Label(self.Unicode字符区, text=self.当前字符[1])
-        self.Unicode字符.pack(side = "right")
+        self.笔顺区 = Frame(self)
+        self.笔顺区.pack()
+        self.笔顺提示 = Label(self.笔顺区, text = "笔顺")
+        self.笔顺提示.pack( side = "left")
+        # TODO: 读取实际数据
+        self.笔顺值 = StringVar(value=常量_无)
+        self.笔顺 = Label(self.笔顺区, textvariable=self.笔顺值)
+        self.笔顺.pack(side = "right")
 
         self.编码86版区 = Frame(self)
         self.编码86版区.pack()
         self.编码86版提示 = Label(self.编码86版区, text = "编码86版")
         self.编码86版提示.pack( side = "left")
         # 参考 https://stackoverflow.com/questions/20125967/how-to-set-default-text-for-a-tkinter-entry-widget
-        self.编码86版值 = StringVar(root, value=self.当前字符[2])
+        self.编码86版值 = StringVar(value=self.当前字符[2])
         self.编码86版 = Entry(self.编码86版区, textvariable=self.编码86版值)
         self.编码86版.pack(side = "right")
+
+        self.编码98版区 = Frame(self)
+        self.编码98版区.pack()
+        self.编码98版提示 = Label(self.编码98版区, text = "编码98版")
+        self.编码98版提示.pack( side = "left")
+        self.编码98版值 = StringVar(value=self.当前字符[3])
+        self.编码98版 = Entry(self.编码98版区, textvariable=self.编码98版值)
+        self.编码98版.pack(side = "right")
+
+        self.编码06版区 = Frame(self)
+        self.编码06版区.pack()
+        self.编码06版提示 = Label(self.编码06版区, text = "编码06版")
+        self.编码06版提示.pack( side = "left")
+        self.编码06版值 = StringVar(value=常量_无)
+        self.编码06版 = Entry(self.编码06版区, textvariable=self.编码06版值)
+        self.编码06版.pack(side = "right")
 
         self.修改按钮 = Button(self, text = "修改", command = self.修改当前条目)
         self.修改按钮.pack()
@@ -154,7 +177,11 @@ class Application(Frame):
         self.图片显示5.configure(image=花园明朝图片)
         self.图片显示5.image = 花园明朝图片
 
+        self.Unicode编码值.set(self.当前字符[0])
         self.编码86版值.set(self.当前字符[2])
+        self.编码98版值.set(self.当前字符[3])
+        self.编码06版值.set(常量_无)
+        self.笔顺值.set(常量_无)
 
 root = Tk()
 app = Application(master=root)
