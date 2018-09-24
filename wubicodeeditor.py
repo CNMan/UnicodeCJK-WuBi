@@ -30,7 +30,20 @@ class Application(Frame):
             写文件 = csv.writer(目标文件, delimiter='\t')
             for 字符 in self.字符列表:
                 写文件.writerow(字符)
-        
+
+    # TODO: 提示已到开头/末尾
+    def 上一个字符(self):
+        if (self.当前字符序号 > 0):
+            self.当前字符序号 -= 1
+        print("字符序号: " + str(self.当前字符序号))
+        self.刷新控件()
+
+    def 下一个字符(self):
+        if (self.当前字符序号 < len(self.字符列表)):
+          self.当前字符序号 += 1
+        print("字符序号: " + str(self.当前字符序号))
+        self.刷新控件()
+
     def 创建控件(self):
         self.当前字符序号 = 0
         self.字符列表 = []
@@ -56,9 +69,9 @@ class Application(Frame):
         self.图片显示1.image = 中易宋体图片
         self.图片显示1.pack()
 
-        中易宋体图片 = PhotoImage(file=常量_图片路径_中易宋体 + 大写Unicode码 + 常量_图片扩展名)
-        self.图片显示2 = Label(self, image=中易宋体图片)
-        self.图片显示2.image = 中易宋体图片
+        中华书局宋体图片 = PhotoImage(file=常量_图片路径_中华书局宋体 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示2 = Label(self, image=中华书局宋体图片)
+        self.图片显示2.image = 中华书局宋体图片
         self.图片显示2.pack()
 
         细明体_HKSCS图片 = PhotoImage(file=常量_图片路径_细明体_HKSCS + 大写Unicode码 + 常量_图片扩展名)
@@ -76,6 +89,7 @@ class Application(Frame):
         self.图片显示5.image = 花园明朝图片
         self.图片显示5.pack()
 
+        # TODO: 改为StringVar, 便于set
         # 显示文本, 参考https://www.python-course.eu/tkinter_labels.php
         self.Unicode编码区 = Frame(self)
         self.Unicode编码区.pack()
@@ -103,9 +117,45 @@ class Application(Frame):
         self.修改按钮 = Button(self, text = "修改", command = self.修改当前条目)
         self.修改按钮.pack()
 
+        self.遍历区 = Frame(self)
+        self.遍历区.pack()
+        self.上一个 = Button(self.遍历区, text = "上一个", command = self.上一个字符)
+        self.上一个.pack( side = "left")
+
+        self.下一个 = Button(self.遍历区, text = "下一个", command = self.下一个字符)
+        self.下一个.pack(side = "right")
+
         self.导出按钮 = Button(self, text = "导出文件", command = self.导出文件)
         self.导出按钮.pack()
+
+    def 刷新控件(self):
+        self.当前字符 = self.字符列表[self.当前字符序号]
+        print("当前字符: " + str(self.当前字符))
+        补0数 = 6 - len(self.当前字符[0])
+        大写Unicode码 = "0" * 补0数 + self.当前字符[0].upper()
         
+        中易宋体图片 = PhotoImage(file=常量_图片路径_中易宋体 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示1.configure(image=中易宋体图片)
+        self.图片显示1.image = 中易宋体图片
+
+        中华书局宋体图片 = PhotoImage(file=常量_图片路径_中华书局宋体 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示2.configure(image=中华书局宋体图片)
+        self.图片显示2.image = 中华书局宋体图片
+
+        细明体_HKSCS图片 = PhotoImage(file=常量_图片路径_细明体_HKSCS + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示3.configure(image=细明体_HKSCS图片)
+        self.图片显示3.image = 细明体_HKSCS图片
+
+        细明体图片 = PhotoImage(file=常量_图片路径_细明体 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示4.configure(image=细明体图片)
+        self.图片显示4.image = 细明体图片
+
+        花园明朝图片 = PhotoImage(file=常量_图片路径_花园明朝 + 大写Unicode码 + 常量_图片扩展名)
+        self.图片显示5.configure(image=花园明朝图片)
+        self.图片显示5.image = 花园明朝图片
+
+        self.编码86版值.set(self.当前字符[2])
+
 root = Tk()
 app = Application(master=root)
 app.mainloop()
