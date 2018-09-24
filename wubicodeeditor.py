@@ -1,8 +1,9 @@
 from tkinter import *
 import csv
 
-常量_源数据文件 = "CJK-A.txt"
-常量_修改后文件 = "修改" + 常量_源数据文件
+常量_源数据文件 = ["CJK-A.txt", "CJK-B.txt", "CJK-C.txt", "CJK-D.txt", "CJK-E.txt", "CJK-F.txt", "CJK.txt"]
+# 暂时只指出导出到一个文件
+常量_修改后文件 = "CJK-所有.txt"
 
 # 文件名格式统一为 U_xxxxxx.png （ xxxxxx 为 6 位 Unicode 编码，不足 6 位则前面补 0 ）
 常量_图片路径_花园明朝 = "FontGlyphs/HanaMin/"
@@ -89,15 +90,19 @@ class Application(Frame):
         大写Unicode码 = "0" * 补0数 + Unicode码.upper()
         return "Plane0" + Plane值 + "/U_" + 大写Unicode码 + 常量_图片扩展名
 
+    def 读入源数据文件(self, 文件名):
+        # 官方文档参考: https://docs.python.org/3/library/csv.html#module-contents
+        with open(文件名, newline='') as 源数据文件:
+            源数据读取器 = csv.reader(源数据文件, delimiter='\t')
+            for 行 in 源数据读取器:
+                self.字符列表.append(行)
+
     def 创建控件(self):
         self.当前字符序号 = 0
         self.字符列表 = []
 
-        # 官方文档参考: https://docs.python.org/3/library/csv.html#module-contents
-        with open(常量_源数据文件, newline='') as 源数据文件:
-            源数据读取器 = csv.reader(源数据文件, delimiter='\t')
-            for 行 in 源数据读取器:
-                self.字符列表.append(行)
+        for 文件名 in 常量_源数据文件:
+            self.读入源数据文件(文件名)
 
         self.当前字符 = self.字符列表[self.当前字符序号]
         self.图片子路径 = self.组成图片子路径(self.当前字符[0])
@@ -156,7 +161,7 @@ class Application(Frame):
         导出按钮 = Button(细节区, text = "导出文件", command = self.导出文件)
         导出按钮.pack()
 
-    # 测试用: 3400, 2A000
+    # 测试用: 3400 - A第一个, 20000 -B第一个
     # TODO: 避免线性查找
     def 搜索Unicode(self):
         Unicode值输入 = self.搜索Unicode值.get()
