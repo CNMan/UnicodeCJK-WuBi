@@ -76,7 +76,10 @@ class Application(Frame):
         字体区.pack(side = 位置)
         字体提示 = Label(字体区, text = 字体名)
         字体提示.pack()
-        图片 = PhotoImage(file=常量_图片主目录 + 常量_图片路径[字体名] + self.图片子路径)
+        try:
+            图片 = PhotoImage(file=常量_图片主目录 + 常量_图片路径[字体名] + self.图片子路径)
+        except:
+            图片 = PhotoImage()
         图片显示 = Label(字体区, image=图片)
         图片显示.image = 图片
         图片显示.pack()
@@ -211,7 +214,10 @@ class Application(Frame):
           print("未找到Unicode码: " + Unicode值输入)
 
     def 刷新图片显示(self, 图片显示, 字体名):
-        图片 = PhotoImage(file=常量_图片主目录 + 常量_图片路径[字体名] + self.图片子路径)
+        try:
+            图片 = PhotoImage(file=常量_图片主目录 + 常量_图片路径[字体名] + self.图片子路径)
+        except:
+            图片 = PhotoImage()
         图片显示.configure(image=图片)
         图片显示.image = 图片
 
