@@ -104,16 +104,30 @@ class Application(Frame):
         显示.pack(side = "right")
         return 可变值
 
-    # 如果Unicode编码大于4位, 图片在Plane02中
-
+    # Unicode编码->Plane号
+    # 00xxxx 	Plane00
+    # 01xxxx 	Plane01
+    # 02xxxx 	Plane02
+    # 03xxxx 	Plane03
+    # 0Exxxx 	Plane14
+    # 0Fxxxx 	Plane15
+    # 10xxxx 	Plane16
     # 文件名格式统一为 U_xxxxxx.png （ xxxxxx 为 6 位 Unicode 编码，不足 6 位则前面补 0 ）
     def 组成图片子路径(self, Unicode码):
-        Plane值 = "0"
-        if (len(Unicode码) > 4):
-            Plane值 = "2"
+        Plane值 = "00"
+        if (len(Unicode码) == 5):
+            Plane值 = "0" + Unicode码[0]
+        elif (len(Unicode码) == 6):
+            前两位 = Unicode码[0:1]
+            if 前两位 == '0E':
+                Plane值 = "14"
+            elif 前两位 == '0F':
+                Plane值 = "15"
+            elif 前两位 == '10':
+                Plane值 = "16"
         补0数 = 6 - len(Unicode码)
         大写Unicode码 = "0" * 补0数 + Unicode码.upper()
-        return "Plane0" + Plane值 + "/U_" + 大写Unicode码 + 常量_图片扩展名
+        return "Plane" + Plane值 + "/U_" + 大写Unicode码 + 常量_图片扩展名
 
     def 读入源数据文件(self, 文件名):
         # 官方文档参考: https://docs.python.org/3/library/csv.html#module-contents
