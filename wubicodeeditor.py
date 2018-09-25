@@ -5,16 +5,23 @@ import csv
 # 暂时只指出导出到一个文件
 常量_修改后文件 = "CJK-所有.txt"
 
-# 文件名格式统一为 U_xxxxxx.png （ xxxxxx 为 6 位 Unicode 编码，不足 6 位则前面补 0 ）
+常量_图片主目录 = "FontGlyphs/"
 常量_图片路径 = {
-  "花园明朝": "FontGlyphs/HanaMin/",
-  "汉仪仿宋": "FontGlyphs/HYFangSong/",
-  "汉仪字典宋": "FontGlyphs/HYZiDianSong/",
-  "细明体": "FontGlyphs/MingLiU/",
-  "细明体_HKSCS": "FontGlyphs/MingLiU_HKSCS/",
-  "中易宋体": "FontGlyphs/SimSun/",
-  "中华书局宋体": "FontGlyphs/ZhongHuaSong/"
+  "中易宋体": "SimSun/",
+  "中华书局宋体": "ZhongHuaSong/",
+  "汉仪字典宋": "HYZiDianSong/",
+  "汉仪仿宋": "HYFangSong/",
+  "方正楷体S": "FZKaiS/",
+  "细明体": "MingLiU/",
+  "细明体_HKSCS": "MingLiU_HKSCS/",
+  "方正楷体T": "FZKaiT/",
+  "花园明朝": "HanaMin/",
 }
+
+常量_大陆字体列表 = ["中易宋体", "中华书局宋体", "汉仪字典宋", "汉仪仿宋", "方正楷体S"]
+常量_台港澳字体列表 = ["细明体", "细明体_HKSCS", "方正楷体T"]
+常量_日本字体列表 = ["花园明朝"]
+常量_按地区名取字体列表 = {"中国大陆": 常量_大陆字体列表, "中国台港澳": 常量_台港澳字体列表, "日本": 常量_日本字体列表}
 
 常量_图片扩展名 = ".png"
 
@@ -52,6 +59,16 @@ class Application(Frame):
         print("字符序号: " + str(self.当前字符序号))
         self.刷新控件()
 
+    def 创建字体区(self, 区域, 地区名):
+        字体区 = Frame(区域)
+        字体区.pack()
+        字体区提示 = Label(字体区, text = 地区名 + "字形")
+        字体区提示.pack()
+        字体显示 = Frame(字体区)
+        字体显示.pack()
+        for 字体 in 常量_按地区名取字体列表[地区名]:
+            self.按字体取图片显示[字体] = self.创建图片显示(字体显示, 字体, "left")
+
     # TODO: 如图片不存在, 不应抛错
     # 显示图片, 参考: https://stackoverflow.com/questions/35024118/how-to-load-an-image-into-a-python-3-4-tkinter-window
     def 创建图片显示(self, 区域, 字体名, 位置):
@@ -59,7 +76,7 @@ class Application(Frame):
         字体区.pack(side = 位置)
         字体提示 = Label(字体区, text = 字体名)
         字体提示.pack()
-        图片 = PhotoImage(file=常量_图片路径[字体名] + self.图片子路径)
+        图片 = PhotoImage(file=常量_图片主目录 + 常量_图片路径[字体名] + self.图片子路径)
         图片显示 = Label(字体区, image=图片)
         图片显示.image = 图片
         图片显示.pack()
@@ -88,6 +105,8 @@ class Application(Frame):
         return 可变值
 
     # 如果Unicode编码大于4位, 图片在Plane02中
+
+    # 文件名格式统一为 U_xxxxxx.png （ xxxxxx 为 6 位 Unicode 编码，不足 6 位则前面补 0 ）
     def 组成图片子路径(self, Unicode码):
         Plane值 = "0"
         if (len(Unicode码) > 4):
@@ -106,6 +125,7 @@ class Application(Frame):
     def 创建控件(self):
         self.当前字符序号 = 0
         self.字符列表 = []
+        self.按字体取图片显示 = {}
 
         for 文件名 in 常量_源数据文件:
             self.读入源数据文件(文件名)
@@ -116,33 +136,9 @@ class Application(Frame):
         图片区 = Frame(self)
         图片区.pack(side = "left")
 
-        大陆字体区 = Frame(图片区)
-        大陆字体区.pack()
-        大陆字体区提示 = Label(大陆字体区, text = "中国大陆字形")
-        大陆字体区提示.pack()
-        大陆字体 = Frame(大陆字体区)
-        大陆字体.pack()
-        self.中易宋体显示 = self.创建图片显示(大陆字体, "中易宋体", "left")
-        self.中华书局宋体显示 = self.创建图片显示(大陆字体, "中华书局宋体", "left")
-        self.汉仪字典宋显示 = self.创建图片显示(大陆字体, "汉仪字典宋", "left")
-        self.汉仪仿宋显示 = self.创建图片显示(大陆字体, "汉仪仿宋", "right")
-
-        港台字体区 = Frame(图片区)
-        港台字体区.pack()
-        港台字体区提示 = Label(港台字体区, text = "中国台港澳字形")
-        港台字体区提示.pack()
-        港台字体 = Frame(港台字体区)
-        港台字体.pack()
-        self.细明体_HKSCS显示 = self.创建图片显示(港台字体, "细明体_HKSCS", "left")
-        self.细明体显示 = self.创建图片显示(港台字体, "细明体", "right")
-
-        日本字体区 = Frame(图片区)
-        日本字体区.pack()
-        日本字体区提示 = Label(日本字体区, text = "日本字形")
-        日本字体区提示.pack()
-        日本字体 = Frame(日本字体区)
-        日本字体.pack()
-        self.花园明朝显示 = self.创建图片显示(日本字体, "花园明朝", "top")
+        self.创建字体区(图片区, "中国大陆")
+        self.创建字体区(图片区, "中国台港澳")
+        self.创建字体区(图片区, "日本")
 
         细节区 = Frame(self)
         细节区.pack(side = "right")
@@ -201,7 +197,7 @@ class Application(Frame):
           print("未找到Unicode码: " + Unicode值输入)
 
     def 刷新图片显示(self, 图片显示, 字体名):
-        图片 = PhotoImage(file=常量_图片路径[字体名] + self.图片子路径)
+        图片 = PhotoImage(file=常量_图片主目录 + 常量_图片路径[字体名] + self.图片子路径)
         图片显示.configure(image=图片)
         图片显示.image = 图片
 
@@ -210,13 +206,8 @@ class Application(Frame):
         print("当前字符: " + str(self.当前字符))
         self.图片子路径 = self.组成图片子路径(self.当前字符[0])
         
-        self.刷新图片显示(self.中易宋体显示, "中易宋体")
-        self.刷新图片显示(self.中华书局宋体显示, "中华书局宋体")
-        self.刷新图片显示(self.汉仪字典宋显示, "汉仪字典宋")
-        self.刷新图片显示(self.汉仪仿宋显示, "汉仪仿宋")
-        self.刷新图片显示(self.细明体_HKSCS显示, "细明体_HKSCS")
-        self.刷新图片显示(self.细明体显示, "细明体")
-        self.刷新图片显示(self.花园明朝显示, "花园明朝")
+        for 字体 in 常量_图片路径.keys():
+          self.刷新图片显示(self.按字体取图片显示[字体], 字体)
 
         self.Unicode编码值.set(self.当前字符[0])
         self.编码86版值.set(self.当前字符[2])
