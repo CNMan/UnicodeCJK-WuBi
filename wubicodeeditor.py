@@ -76,9 +76,12 @@ class Application(Frame):
         字体区.pack(side = 位置)
         字体提示 = Label(字体区, text = 字体名)
         字体提示.pack()
+        图片路径 = 常量_图片主目录 + 常量_图片路径[字体名] + self.图片子路径
+        print(图片路径)
         try:
-            图片 = PhotoImage(file=常量_图片主目录 + 常量_图片路径[字体名] + self.图片子路径)
+            图片 = PhotoImage(file=图片路径)
         except:
+            print("找不到图片")
             图片 = PhotoImage()
         图片显示 = Label(字体区, image=图片)
         图片显示.image = 图片
@@ -116,6 +119,7 @@ class Application(Frame):
     # 0Fxxxx 	Plane15
     # 10xxxx 	Plane16
     # 文件名格式统一为 U_xxxxxx.png （ xxxxxx 为 6 位 Unicode 编码，不足 6 位则前面补 0 ）
+    # TODO: 简化代码
     def 组成图片子路径(self, Unicode码):
         Plane值 = "00"
         if (len(Unicode码) == 5):
@@ -198,6 +202,7 @@ class Application(Frame):
     # 测试用: 3400 - A第一个, 20000 -B第一个
     # 支持大小写
     # TODO: 避免线性查找
+    # TODO: 支持按字搜索
     def 搜索Unicode(self):
         Unicode值输入 = self.搜索Unicode值.get().upper()
         字符序号 = -1
@@ -230,6 +235,8 @@ class Application(Frame):
           self.刷新图片显示(self.按字体取图片显示[字体], 字体)
 
         self.Unicode编码值.set(self.当前字符[0])
+
+        # 4DB6 无五笔码
         self.编码86版值.set(self.当前字符[2])
         self.编码98版值.set(self.当前字符[3])
         self.编码06版值.set(常量_无)
