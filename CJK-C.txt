@@ -1,4160 +1,4160 @@
-2A700	𪜀	fnv	fnv
-2A701	𪜁	gbj	gbj
-2A702	𪜂	gvyu	gvyu
-2A703	𪜃	gkvn	gkvn
-2A704	𪜄	gisk	dhsk
-2A705	𪜅	sufj	sufj
-2A706	𪜆	gxxh	gxxg
-2A707	𪜇	dnww	gqww
-2A708	𪜈	hgan	hgan
-2A709	𪜉	khgh	khgf
-2A70A	𪜊	ynb	ynb
-2A70B	𪜋	ygat	ygat
-2A70C	𪜌	ejd	bjd
-2A70D	𪜍	tfiq	tfqi
-2A70E	𪜎	tdjm	tdjw
-2A70F	𪜏	tdut	tdut
-2A710	𪜐	nwxv	nwxv
-2A711	𪜑	gsnb	gsnb
-2A712	𪜒	nfkd	nfkd
-2A713	𪜓	wrhn	wtgn
-2A714	𪜔	vmad	vmad
-2A715	𪜕	ftjn	ftjn
-2A716	𪜖	nfmd	nflf
-2A717	𪜗	vakg	vakg
-2A718	𪜘	dhcn	dbnn
-2A719	𪜙	vdja	vdja
-2A71A	𪜚	istn	istn
-2A71B	𪜛	ebnh	ebnh
-2A71C	𪜜	uxbh	uxbh
-2A71D	𪜝	cbaw	cnhw
-2A71E	𪜞	fcdt	fcdt
-2A71F	𪜟	ybvc	ybvc
-2A720	𪜠	ymyu	ywyu
-2A721	𪜡	ntha	hgta
-2A722	𪜢	yhjf	yhjf
-2A723	𪜣	ucwa	ucwy
-2A724	𪜤	ywwy	ywwy
-2A725	𪜥	ylkh	ylkh
-2A726	𪜦	ypsl	ypsl
-2A727	𪜧	wqy	wry
-2A728	𪜨	wgvg	wgvg
-2A729	𪜩	wqcy	wqcy
-2A72A	𪜪	wqxn	wqxn
-2A72B	𪜫	wnfg	wnhg
-2A72C	𪜬	wfiu	wfu
-2A72D	𪜭	wlng	wlng
-2A72E	𪜮	whg	whg
-2A72F	𪜯	wkln	wket
-2A730	𪜰	wty	wty
-2A731	𪜱	wtu	wtu
-2A732	𪜲	wryy	wryy
-2A733	𪜳	wnan	wnan
-2A734	𪜴	wxcy	wxcy
-2A735	𪜵	wxjg	wxjg
-2A736	𪜶	wldy	wldy
-2A737	𪜷	wesy	wbsy
-2A738	𪜸	wpbg	wpbg
-2A739	𪜹	wng	wng
-2A73A	𪜺	wxfy	wxfy
-2A73B	𪜻	wfoy	wfoy
-2A73C	𪜼	wahh	wgtg
-2A73D	𪜽	wjff	wjff
-2A73E	𪜾	wegl	wege
-2A73F	𪜿	wjvg	wjvg
-2A740	𪝀	wqeg	wqmf
-2A741	𪝁	wekx	wbkx
-2A742	𪝂	wyjg	wyjg
-2A743	𪝃	wtcy	wgsy
-2A744	𪝄	wdun	wdun
-2A745	𪝅	wsty	wsty
-2A746	𪝆	wayn	wffy
-2A747	𪝇	whmt	whmt
-2A748	𪝈	wepc	wepc
-2A749	𪝉	wtsy	wtsy
-2A74A	𪝊	wyqg	woqg
-2A74B	𪝋	wshg	wshg
-2A74C	𪝌	walg	walg
-2A74D	𪝍	wdeg	wdmu
-2A74E	𪝎	wswc	wswc
-2A74F	𪝏	waqk	waqk
-2A750	𪝐	wdjb	wdjb
-2A751	𪝑	wjlg	wjlg
-2A752	𪝒	wwdc	wthc
-2A753	𪝓	wwae	wwae
-2A754	𪝔	wqbn	wqbn
-2A755	𪝕	wwvl	wwvl
-2A756	𪝖	wamy	wamy
-2A757	𪝗	swwq	swwq
-2A758	𪝘	wdep	wdep
-2A759	𪝙	wfcl	wfcl
-2A75A	𪝚	wjiq	wjiq
-2A75B	𪝛	wrvc	wrvc
-2A75C	𪝜	wwnh	wtnh
-2A75D	𪝝	weud	weud
-2A75E	𪝞	wuwl	wuwl
-2A75F	𪝟	wxrr	wxrr
-2A760	𪝠	wlat	wlay
-2A761	𪝡	wajd	wajd
-2A762	𪝢	wlye	wlye
-2A763	𪝣	wpdk	wpdk
-2A764	𪝤	wpgw	wpgw
-2A765	𪝥	wdmj	wdmj
-2A766	𪝦	wfkk	wfkk
-2A767	𪝧	wjoo	wjoo
-2A768	𪝨	wqao	wqgo
-2A769	𪝩	wudh	wulh
-2A76A	𪝪	wnhh	wnhh
-2A76B	𪝫	wgoc	wgoc
-2A76C	𪝬	wdyf	wdyf
-2A76D	𪝭	whad	whkd
-2A76E	𪝮	wytq	wytq
-2A76F	𪝯	wujf	wujf
-2A770	𪝰	wgcy	wgco
-2A771	𪝱	wmwh	wmwh
-2A772	𪝲	towg	towg
-2A773	𪝳	wiaw	wiag
-2A774	𪝴	wsdp	wsdp
-2A775	𪝵	wqyj	wqyj
-2A776	𪝶	wynf	wynf
-2A777	𪝷	wfvq	wfeq
-2A778	𪝸	wafy	wffy
-2A779	𪝹	wynt	wynt
-2A77A	𪝺	wfnc	wfnc
-2A77B	𪝻	wgcs	wgcg
-2A77C	𪝼	wmmv	wmmv
-2A77D	𪝽	whmm	whmm
-2A77E	𪝾	wdej	wdej
-2A77F	𪝿	jbqb	jbqb
-2A780	𪞀	iqqh	igqh
-2A781	𪞁	qkqc	qkqc
-2A782	𪞂	qkqj	qkqj
-2A783	𪞃	iqjg	igqg
-2A784	𪞄	tfqd	tfqd
-2A785	𪞅	ycqk	ycqk
-2A786	𪞆	iqho	igqo
-2A787	𪞇	tygv	tygv
-2A788	𪞈	wxfj	wxf
-2A789	𪞉	fkaw	fkaw
-2A78A	𪞊	wumk	wyuk
-2A78B	𪞋	vcew	veaw
-2A78C	𪞌	ulyk	ulyk
-2A78D	𪞍	uvok	uvjk
-2A78E	𪞎	mdd	mdd
-2A78F	𪞏	pqbb	pqbb
-2A790	𪞐	pwbf	pwbf
-2A791	𪞑	pwkh	pwkh
-2A792	𪞒	pfqf	pfqf
-2A793	𪞓	pwye	pwyv
-2A794	𪞔	pqbc	pqbc
-2A795	𪞕	pdhl	pdhe
-2A796	𪞖	umyy	uwyy
-2A797	𪞗	umty	umty
-2A798	𪞘	uwgn	uwgn
-2A799	𪞙	uyy	uyy
-2A79A	𪞚	unyy	unyy
-2A79B	𪞛	ulg	ulg
-2A79C	𪞜	urg	urg
-2A79D	𪞝	ucfh	ucgh
-2A79E	𪞞	udnt	udnn
-2A79F	𪞟	dwuu	dwuu
-2A7A0	𪞠	uwyb	uwyb
-2A7A1	𪞡	uwfi	uwfi
-2A7A2	𪞢	udff	udff
-2A7A3	𪞣	uhaq	uhqn
-2A7A4	𪞤	uwyn	uwyn
-2A7A5	𪞥	upfi	upfi
-2A7A6	𪞦	uleg	ulmu
-2A7A7	𪞧	uwyq	uwyq
-2A7A8	𪞨	uyps	uyps
-2A7A9	𪞩	uawy	uawy
-2A7AA	𪞪	uwqu	uwru
-2A7AB	𪞫	ugkt	uskt
-2A7AC	𪞬	uujh	uujj
-2A7AD	𪞭	uffq	uffq
-2A7AE	𪞮	ufwc	ufwc
-2A7AF	𪞯	uype	uype
-2A7B0	𪞰	uucy	uuco
-2A7B1	𪞱	fpmb	fpwb
-2A7B2	𪞲	mhkg	whkd
-2A7B3	𪞳	tfum	tfuw
-2A7B4	𪞴	myfk	wyfk
-2A7B5	𪞵	mfvd	wfvd
-2A7B6	𪞶	tygb	tygb
-2A7B7	𪞷	bmah	bmah
-2A7B8	𪞸	ybtf	yrbf
-2A7B9	𪞹	bmvn	bmvn
-2A7BA	𪞺	bmen	bmen
-2A7BB	𪞻	ybkd	yrbd
-2A7BC	𪞼	ybuw	yrbw
-2A7BD	𪞽	ybme	yrbe
-2A7BE	𪞾	fwjh	gjh
-2A7BF	𪞿	gbnj	gbnj
-2A7C0	𪟀	vyn	vyt
-2A7C1	𪟁	dcjh	dcyj
-2A7C2	𪟂	hkvn	hkvt
-2A7C3	𪟃	ddjh	ddjh
-2A7C4	𪟄	ubtj	ubtj
-2A7C5	𪟅	unwj	unwj
-2A7C6	𪟆	gcej	gcmj
-2A7C7	𪟇	rwjh	rwjh
-2A7C8	𪟈	ftjj	ftjj
-2A7C9	𪟉	dufj	dufj
-2A7CA	𪟊	degv	degv
-2A7CB	𪟋	afjh	afjh
-2A7CC	𪟌	fkuj	fkuj
-2A7CD	𪟍	uejh	uejh
-2A7CE	𪟎	jtyj	jtyj
-2A7CF	𪟏	tguj	tguj
-2A7D0	𪟐	wveh	wveh
-2A7D1	𪟑	yqkv	yqkv
-2A7D2	𪟒	yttj	yttj
-2A7D3	𪟓	vbjx	vbjx
-2A7D4	𪟔	lwwj	lwwj
-2A7D5	𪟕	tadj	tdwj
-2A7D6	𪟖	vhgj	vhgj
-2A7D7	𪟗	lksj	eksj
-2A7D8	𪟘	rgln	ret
-2A7D9	𪟙	vcln	vet
-2A7DA	𪟚	qkln	qket
-2A7DB	𪟛	ivyl	ivye
-2A7DC	𪟜	iitl	iite
-2A7DD	𪟝	gmln	gmet
-2A7DE	𪟞	llft	left
-2A7DF	𪟟	qqlv	qlqe
-2A7E0	𪟠	ujln	ujet
-2A7E1	𪟡	llsk	lesk
-2A7E2	𪟢	wgwl	wgwe
-2A7E3	𪟣	kkml	kkme
-2A7E4	𪟤	gall	gale
-2A7E5	𪟥	agal	ffge
-2A7E6	𪟦	llwy	lewy
-2A7E7	𪟧	llll	lele
-2A7E8	𪟨	nxv	nxv
-2A7E9	𪟩	xgdu	xgdu
-2A7EA	𪟪	uxgi	uxdh
-2A7EB	𪟫	xxrg	xxrg
-2A7EC	𪟬	aed	aed
-2A7ED	𪟭	aanh	aanh
-2A7EE	𪟮	aqnr	arnr
-2A7EF	𪟯	ajfd	ajfd
-2A7F0	𪟰	awtk	awtk
-2A7F1	𪟱	aosd	aosd
-2A7F2	𪟲	aujm	aujm
-2A7F3	𪟳	tfqh	tfqh
-2A7F4	𪟴	fkfn	dftn
-2A7F5	𪟵	fjvy	fjvy
-2A7F6	𪟶	ufik	ugik
-2A7F7	𪟷	hjch	hjcg
-2A7F8	𪟸	ufuy	ugyy
-2A7F9	𪟹	fpxc	fpxc
-2A7FA	𪟺	fjwj	fjwj
-2A7FB	𪟻	wywf	wywf
-2A7FC	𪟼	ywww	ywww
-2A7FD	𪟽	hbj	hbb
-2A7FE	𪟾	fihi	fhi
-2A7FF	𪟿	hjhy	fjhy
-2A800	𪠀	hpgf	hpgf
-2A801	𪠁	wgkb	wgkb
-2A802	𪠂	cvcb	cvbh
-2A803	𪠃	dcd	dcgd
-2A804	𪠄	djnv	djnv
-2A805	𪠅	dfkd	dfld
-2A806	𪠆	duak	duak
-2A807	𪠇	dfoi	dfoi
-2A808	𪠈	dkkn	dkkn
-2A809	𪠉	dhqh	dhqh
-2A80A	𪠊	djdi	djdi
-2A80B	𪠋	dfhd	dfhd
-2A80C	𪠌	dxdm	dxdm
-2A80D	𪠍	ddei	ddei
-2A80E	𪠎	dwcn	dwcn
-2A80F	𪠏	ddhc	ddbi
-2A810	𪠐	dwfg	dwfg
-2A811	𪠑	dgef	dsfi
-2A812	𪠒	deut	deut
-2A813	𪠓	damw	damw
-2A814	𪠔	drxc	drxc
-2A815	𪠕	dnwy	dnwy
-2A816	𪠖	dogy	doug
-2A817	𪠗	rjbk	rjbk
-2A818	𪠘	dqeh	dqeg
-2A819	𪠙	duen	dumy
-2A81A	𪠚	dttl	dttl
-2A81B	𪠛	dkkt	dkkt
-2A81C	𪠜	gcmh	gcwh
-2A81D	𪠝	fcnx	fcnx
-2A81E	𪠞	qqfc	qqfc
-2A81F	𪠟	cdeq	cdeq
-2A820	𪠠	ctdw	ctdw
-2A821	𪠡	cdew	cdew
-2A822	𪠢	fcyw	fcow
-2A823	𪠣	qcu	rcu
-2A824	𪠤	vcy	vcy
-2A825	𪠥	cef	cef
-2A826	𪠦	dfcy	dfcy
-2A827	𪠧	scy	scy
-2A828	𪠨	vcu	ecu
-2A829	𪠩	wfic	wfic
-2A82A	𪠪	nhfc	nhfc
-2A82B	𪠫	udrc	uddc
-2A82C	𪠬	vdcy	vdcy
-2A82D	𪠭	rcbg	rcbg
-2A82E	𪠮	pwwc	pwwc
-2A82F	𪠯	akkc	akkc
-2A830	𪠰	cccj	cccj
-2A831	𪠱	bcfy	bcfy
-2A832	𪠲	kcu	kcu
-2A833	𪠳	klh	klh
-2A834	𪠴	kqty	kqry
-2A835	𪠵	kwxn	kwxn
-2A836	𪠶	kwfg	kwfg
-2A837	𪠷	kqkf	krkf
-2A838	𪠸	kqiy	ktni
-2A839	𪠹	pykf	pykf
-2A83A	𪠺	krvy	krvy
-2A83B	𪠻	kgcq	kgck
-2A83C	𪠼	kmww	kmww
-2A83D	𪠽	kivg	kivg
-2A83E	𪠾	ktey	ktuy
-2A83F	𪠿	kthh	kthh
-2A840	𪡀	ktdj	ktdj
-2A841	𪡁	kycq	kycq
-2A842	𪡂	kcgf	ktgh
-2A843	𪡃	knud	knud
-2A844	𪡄	kalh	kalh
-2A845	𪡅	gkkd	gkkf
-2A846	𪡆	krwn	krwn
-2A847	𪡇	kwqi	kwqi
-2A848	𪡈	kwrg	kwrg
-2A849	𪡉	ktkh	ktkh
-2A84A	𪡊	keet	ket
-2A84B	𪡋	kwgi	kwgg
-2A84C	𪡌	iqwk	iqwk
-2A84D	𪡍	ykqh	ykqh
-2A84E	𪡎	klwc	kewc
-2A84F	𪡏	klpy	klpy
-2A850	𪡐	dklk	dklk
-2A851	𪡑	skiv	skiv
-2A852	𪡒	kfuf	kfuf
-2A853	𪡓	kjxx	kjxx
-2A854	𪡔	klah	klah
-2A855	𪡕	kqrr	kqrr
-2A856	𪡖	kqld	krld
-2A857	𪡗	krqw	krqw
-2A858	𪡘	qqkh	rrkg
-2A859	𪡙	kyvb	kyvb
-2A85A	𪡚	kitg	kitg
-2A85B	𪡛	kusk	kusk
-2A85C	𪡜	dwkq	dwkq
-2A85D	𪡝	kawn	kawn
-2A85E	𪡞	kkhm	kkhm
-2A85F	𪡟	kwct	kwct
-2A860	𪡠	kriy	kriy
-2A861	𪡡	kqyg	kqyg
-2A862	𪡢	vkkj	ekkj
-2A863	𪡣	kpgm	kpgm
-2A864	𪡤	irek	irek
-2A865	𪡥	kiaw	kiaw
-2A866	𪡦	kuhb	kuhb
-2A867	𪡧	kusg	kusg
-2A868	𪡨	knoy	knoy
-2A869	𪡩	kmdo	kmdo
-2A86A	𪡪	dfek	dfek
-2A86B	𪡫	kfke	kfke
-2A86C	𪡬	djtk	djtk
-2A86D	𪡭	ksgn	ksgn
-2A86E	𪡮	kmfy	kmfy
-2A86F	𪡯	kmun	kmun
-2A870	𪡰	kkvb	kkvb
-2A871	𪡱	kdin	kgfe
-2A872	𪡲	vkgd	ekgd
-2A873	𪡳	ukck	ukck
-2A874	𪡴	kynn	kynn
-2A875	𪡵	kike	kike
-2A876	𪡶	kpqy	kpqy
-2A877	𪡷	kbwt	kbws
-2A878	𪡸	kruv	kruv
-2A879	𪡹	fnmk	fnwk
-2A87A	𪡺	kgom	kgum
-2A87B	𪡻	ahjd	ahjd
-2A87C	𪡼	kkhd	kkhd
-2A87D	𪡽	kjfh	kjgg
-2A87E	𪡾	kttg	kttg
-2A87F	𪡿	kega	kega
-2A880	𪢀	ktlt	ktlt
-2A881	𪢁	kyja	kyja
-2A882	𪢂	kugh	kugh
-2A883	𪢃	kybt	kyrt
-2A884	𪢄	knug	knug
-2A885	𪢅	krnf	krnf
-2A886	𪢆	kftp	kftp
-2A887	𪢇	kssp	kssp
-2A888	𪢈	rgkv	rgkv
-2A889	𪢉	ktmk	ktmk
-2A88A	𪢊	ktli	ktli
-2A88B	𪢋	kwsm	kwsm
-2A88C	𪢌	kugi	kusl
-2A88D	𪢍	kxfk	kxfk
-2A88E	𪢎	kbkf	kbkf
-2A88F	𪢏	dfeb	dfeb
-2A890	𪢐	kgkm	kskm
-2A891	𪢑	ktwk	ktwk
-2A892	𪢒	kovt	kovt
-2A893	𪢓	yniw	yniw
-2A894	𪢔	kyno	kogo
-2A895	𪢕	kgqm	kgqm
-2A896	𪢖	ktqn	ktqn
-2A897	𪢗	kpnj	kpnj
-2A898	𪢘	kugi	kusk
-2A899	𪢙	kgjh	kgjh
-2A89A	𪢚	krjc	krjc
-2A89B	𪢛	kmeh	kmeh
-2A89C	𪢜	kqgy	kqsy
-2A89D	𪢝	ktfn	ktfn
-2A89E	𪢞	xtbk	xtbk
-2A89F	𪢟	kymd	kymu
-2A8A0	𪢠	kaui	kaul
-2A8A1	𪢡	tfkk	tfkk
-2A8A2	𪢢	fkug	fkug
-2A8A3	𪢣	fkue	fkue
-2A8A4	𪢤	ktdk	ktdk
-2A8A5	𪢥	kthp	kthp
-2A8A6	𪢦	sksh	sksg
-2A8A7	𪢧	kbtn	kbtn
-2A8A8	𪢨	lyi	lyi
-2A8A9	𪢩	lgig	ldhg
-2A8AA	𪢪	ludk	luk
-2A8AB	𪢫	llk	llk
-2A8AC	𪢬	ljxx	ljxx
-2A8AD	𪢭	luog	luod
-2A8AE	𪢮	lyos	lyos
-2A8AF	𪢯	lahq	lahq
-2A8B0	𪢰	lkmy	lkmy
-2A8B1	𪢱	fhu	gyi
-2A8B2	𪢲	fcy	fcy
-2A8B3	𪢳	fcnb	fcnb
-2A8B4	𪢴	ffg	ffg
-2A8B5	𪢵	fmyy	fwyy
-2A8B6	𪢶	tff	tff
-2A8B7	𪢷	fynn	fynn
-2A8B8	𪢸	ffqn	ffqn
-2A8B9	𪢹	fdmn	fdmn
-2A8BA	𪢺	fhcy	fhcy
-2A8BB	𪢻	feg	feg
-2A8BC	𪢼	fwxn	fwxn
-2A8BD	𪢽	ftfh	ftgh
-2A8BE	𪢾	off	off
-2A8BF	𪢿	fiy	fiy
-2A8C0	𪣀	fcn	fcn
-2A8C1	𪣁	fcqn	fcqn
-2A8C2	𪣂	fbnn	fbnn
-2A8C3	𪣃	fgmw	fgmw
-2A8C4	𪣄	fdfj	fdfj
-2A8C5	𪣅	fann	fann
-2A8C6	𪣆	faiy	faiy
-2A8C7	𪣇	ftpy	atpy
-2A8C8	𪣈	fmkg	fwkg
-2A8C9	𪣉	fyni	fyni
-2A8CA	𪣊	fntt	fntt
-2A8CB	𪣋	fdhb	fdhb
-2A8CC	𪣌	fbg	fbg
-2A8CD	𪣍	fjen	fjbt
-2A8CE	𪣎	friy	ftfy
-2A8CF	𪣏	fyth	fyth
-2A8D0	𪣐	fyfg	fofg
-2A8D1	𪣑	fpey	fpey
-2A8D2	𪣒	fplh	fplh
-2A8D3	𪣓	fnta	fnta
-2A8D4	𪣔	fgkg	fgkg
-2A8D5	𪣕	fdqn	fdqn
-2A8D6	𪣖	svyf	svyf
-2A8D7	𪣗	dfef	dfef
-2A8D8	𪣘	fknd	fknd
-2A8D9	𪣙	fjug	fjug
-2A8DA	𪣚	fjvg	fjvg
-2A8DB	𪣛	ftjh	ftjh
-2A8DC	𪣜	ften	ftbt
-2A8DD	𪣝	fran	fran
-2A8DE	𪣞	fpqa	fpqa
-2A8DF	𪣟	fpqf	fpqf
-2A8E0	𪣠	fykg	fykg
-2A8E1	𪣡	itdf	itdf
-2A8E2	𪣢	fiyy	fiyy
-2A8E3	𪣣	fvtk	fvtk
-2A8E4	𪣤	fajg	fajg
-2A8E5	𪣥	fgah	fgay
-2A8E6	𪣦	fjeg	fjeg
-2A8E7	𪣧	fjjg	fjjg
-2A8E8	𪣨	flfh	flfh
-2A8E9	𪣩	fheg	fheg
-2A8EA	𪣪	etaf	etaf
-2A8EB	𪣫	fynj	fynj
-2A8EC	𪣬	fpnn	fpng
-2A8ED	𪣭	ihcf	ibff
-2A8EE	𪣮	finx	finx
-2A8EF	𪣯	fpeg	fpeg
-2A8F0	𪣰	flah	flah
-2A8F1	𪣱	fuqh	fuqh
-2A8F2	𪣲	falg	fffl
-2A8F3	𪣳	fdmf	fdmf
-2A8F4	𪣴	fght	fght
-2A8F5	𪣵	fuxe	fuxu
-2A8F6	𪣶	wtcf	wgsf
-2A8F7	𪣷	fqmd	fqmd
-2A8F8	𪣸	wtcf	wgsf
-2A8F9	𪣹	fyps	fyps
-2A8FA	𪣺	fnwk	fnwk
-2A8FB	𪣻	fovg	fovg
-2A8FC	𪣼	fyod	fyod
-2A8FD	𪣽	cffb	cffb
-2A8FE	𪣾	fcex	fcex
-2A8FF	𪣿	btaf	btaf
-2A900	𪤀	ahnf	ahnf
-2A901	𪤁	fgkf	fgkf
-2A902	𪤂	fhlg	fhlg
-2A903	𪤃	fjpv	fjpv
-2A904	𪤄	flfc	flfc
-2A905	𪤅	fipq	fipq
-2A906	𪤆	frnn	frnn
-2A907	𪤇	fwgk	fwgk
-2A908	𪤈	temf	tuwf
-2A909	𪤉	fudi	fugi
-2A90A	𪤊	iyvf	iyvf
-2A90B	𪤋	fybc	fyrc
-2A90C	𪤌	fccs	fccs
-2A90D	𪤍	fnae	fnae
-2A90E	𪤎	flpy	flpy
-2A90F	𪤏	fadf	fdwf
-2A910	𪤐	ffxh	ffxh
-2A911	𪤑	flag	flag
-2A912	𪤒	fwgl	fwgl
-2A913	𪤓	ftxt	ftxt
-2A914	𪤔	frny	frns
-2A915	𪤕	fydg	fydg
-2A916	𪤖	fnhf	fuqf
-2A917	𪤗	fnwe	fnwe
-2A918	𪤘	cfas	cffs
-2A919	𪤙	ffoy	ffoy
-2A91A	𪤚	fbud	fbud
-2A91B	𪤛	ftfn	deee
-2A91C	𪤜	yyfy	yyfy
-2A91D	𪤝	bjgf	bjgf
-2A91E	𪤞	fnfp	fnfp
-2A91F	𪤟	fmuf	fmuf
-2A920	𪤠	fflg	fflg
-2A921	𪤡	fmau	fmau
-2A922	𪤢	fkks	fkks
-2A923	𪤣	ftyn	fwgn
-2A924	𪤤	fpyi	fpyi
-2A925	𪤥	fujn	fujn
-2A926	𪤦	fgei	fswi
-2A927	𪤧	fwfw	fegw
-2A928	𪤨	fthj	fthj
-2A929	𪤩	fqmt	fqmt
-2A92A	𪤪	fyjg	fyjg
-2A92B	𪤫	fobc	fobc
-2A92C	𪤬	dddf	dddf
-2A92D	𪤭	fhbh	fhbh
-2A92E	𪤮	fpdi	fpdi
-2A92F	𪤯	fyjd	fyju
-2A930	𪤰	ffss	ffss
-2A931	𪤱	akfu	akgu
-2A932	𪤲	fnqh	fnqh
-2A933	𪤳	fnkf	fnkf
-2A934	𪤴	fpgl	fpgl
-2A935	𪤵	tkib	tkib
-2A936	𪤶	ghft	ghft
-2A937	𪤷	qmhh	qmhh
-2A938	𪤸	qhqh	qhqh
-2A939	𪤹	qoy	qoy
-2A93A	𪤺	qqgn	qqgn
-2A93B	𪤻	qqhc	qqby
-2A93C	𪤼	qyvb	qyvb
-2A93D	𪤽	fwtq	fwtq
-2A93E	𪤾	qfje	qfje
-2A93F	𪤿	qqff	qqff
-2A940	𪥀	yylq	oylq
-2A941	𪥁	dnb	dnb
-2A942	𪥂	dvn	dvt
-2A943	𪥃	fwsj	gsj
-2A944	𪥄	sdu	sdu
-2A945	𪥅	dat	day
-2A946	𪥆	dwcu	dwcu
-2A947	𪥇	gmwd	gmwd
-2A948	𪥈	dguh	dguf
-2A949	𪥉	gdcb	gdcb
-2A94A	𪥊	fidy	fdy
-2A94B	𪥋	dfiu	dfu
-2A94C	𪥌	tmwd	tmwd
-2A94D	𪥍	dgjn	dgjn
-2A94E	𪥎	agdu	agdu
-2A94F	𪥏	dywy	dywy
-2A950	𪥐	dwyh	dwyh
-2A951	𪥑	dfie	dfib
-2A952	𪥒	kqwd	kqwd
-2A953	𪥓	dgmf	dgmf
-2A954	𪥔	pwad	pwad
-2A955	𪥕	dnbm	dnbm
-2A956	𪥖	jand	jand
-2A957	𪥗	uejd	uejd
-2A958	𪥘	uskd	ukhd
-2A959	𪥙	rkad	tgkd
-2A95A	𪥚	dufq	dufq
-2A95B	𪥛	ujnd	ujnd
-2A95C	𪥜	dkka	dkka
-2A95D	𪥝	tgjd	tgjd
-2A95E	𪥞	ugld	ugld
-2A95F	𪥟	ftgd	ftgd
-2A960	𪥠	mmmd	mmmd
-2A961	𪥡	bued	bued
-2A962	𪥢	oyod	yood
-2A963	𪥣	exdq	exdk
-2A964	𪥤	hvf	hvf
-2A965	𪥥	vthh	vthh
-2A966	𪥦	vgxg	vgxg
-2A967	𪥧	vhg	vhg
-2A968	𪥨	vjg	vjg
-2A969	𪥩	vhcy	vhcy
-2A96A	𪥪	vmmn	vwwn
-2A96B	𪥫	vccy	vccy
-2A96C	𪥬	vcqn	vcqn
-2A96D	𪥭	vmsh	vmsh
-2A96E	𪥮	vhjg	vhjg
-2A96F	𪥯	qhvc	qhvc
-2A970	𪥰	vpsh	vpsh
-2A971	𪥱	vgmi	vsmn
-2A972	𪥲	vtdc	vtdy
-2A973	𪥳	vkmh	vkmh
-2A974	𪥴	thvf	thvf
-2A975	𪥵	vng	vng
-2A976	𪥶	vdtb	vtgb
-2A977	𪥷	wrvf	wrvf
-2A978	𪥸	qrvb	qrvb
-2A979	𪥹	vyme	vywe
-2A97A	𪥺	lalv	eaev
-2A97B	𪥻	vftp	vftp
-2A97C	𪥼	vgvv	vgvv
-2A97D	𪥽	vdey	vdey
-2A97E	𪥾	vdqh	vdqh
-2A97F	𪥿	vfnd	vfnd
-2A980	𪦀	vayn	vffy
-2A981	𪦁	vtln	vtln
-2A982	𪦂	vtmd	vtmd
-2A983	𪦃	vyhk	vohk
-2A984	𪦄	vcjy	vcjy
-2A985	𪦅	vvlq	vvlr
-2A986	𪦆	vdpu	vdpu
-2A987	𪦇	vfff	vfff
-2A988	𪦈	vajv	vajv
-2A989	𪦉	viqy	vigy
-2A98A	𪦊	vkkn	vkkn
-2A98B	𪦋	vwdc	vthc
-2A98C	𪦌	vuqv	vfqv
-2A98D	𪦍	ynvq	ynvq
-2A98E	𪦎	vyde	vyde
-2A98F	𪦏	vxin	vxin
-2A990	𪦐	vvkt	vvkt
-2A991	𪦑	ahnv	ahnv
-2A992	𪦒	vhay	vhyy
-2A993	𪦓	vhna	vhna
-2A994	𪦔	vwgk	vwgk
-2A995	𪦕	vwqq	vwrq
-2A996	𪦖	vups	vyus
-2A997	𪦗	vdev	vdev
-2A998	𪦘	vftt	vftt
-2A999	𪦙	vatt	vffy
-2A99A	𪦚	vmty	vmty
-2A99B	𪦛	vpwd	vpwd
-2A99C	𪦜	vifj	vifj
-2A99D	𪦝	vyby	vyby
-2A99E	𪦞	vnrg	vnrg
-2A99F	𪦟	vbyu	vbyu
-2A9A0	𪦠	ccvf	cocv
-2A9A1	𪦡	vgmi	vsmm
-2A9A2	𪦢	veqg	veqg
-2A9A3	𪦣	vwtf	vwtf
-2A9A4	𪦤	vxii	vxii
-2A9A5	𪦥	xxvf	xxvf
-2A9A6	𪦦	vfqy	vfqy
-2A9A7	𪦧	vfbh	vfbh
-2A9A8	𪦨	vlqj	vlqj
-2A9A9	𪦩	vmxt	vmxt
-2A9AA	𪦪	vtln	vtln
-2A9AB	𪦫	vutk	vutk
-2A9AC	𪦬	vahm	vahm
-2A9AD	𪦭	vdwo	vdqo
-2A9AE	𪦮	vlll	vlll
-2A9AF	𪦯	vooy	vooy
-2A9B0	𪦰	vgkk	vgkk
-2A9B1	𪦱	vooj	vooj
-2A9B2	𪦲	vckm	vckm
-2A9B3	𪦳	vjgq	vjgr
-2A9B4	𪦴	vtuj	vtuj
-2A9B5	𪦵	fhwv	fhwv
-2A9B6	𪦶	bfcy	bfcy
-2A9B7	𪦷	bat	bay
-2A9B8	𪦸	buy	buy
-2A9B9	𪦹	byy	byy
-2A9BA	𪦺	brg	brg
-2A9BB	𪦻	wgkb	wgkb
-2A9BC	𪦼	brqy	brqy
-2A9BD	𪦽	ynab	ynab
-2A9BE	𪦾	bnjw	bhnw
-2A9BF	𪦿	bwge	bwgv
-2A9C0	𪧀	bmmv	bmmv
-2A9C1	𪧁	blfh	blfh
-2A9C2	𪧂	ahnb	ahnb
-2A9C3	𪧃	ybtf	ybtf
-2A9C4	𪧄	brcc	brcc
-2A9C5	𪧅	pgmj	pgmj
-2A9C6	𪧆	pnyu	pnyu
-2A9C7	𪧇	pnhd	pur
-2A9C8	𪧈	plf	plf
-2A9C9	𪧉	pwer	pwer
-2A9CA	𪧊	prkf	prkf
-2A9CB	𪧋	pqvf	pqvf
-2A9CC	𪧌	pcsu	pcsu
-2A9CD	𪧍	pfqh	pfqh
-2A9CE	𪧎	pkhu	pkhu
-2A9CF	𪧏	ploi	plou
-2A9D0	𪧐	pwrf	pwrf
-2A9D1	𪧑	pawu	pawu
-2A9D2	𪧒	pwtk	pwtk
-2A9D3	𪧓	pirf	pirf
-2A9D4	𪧔	pfjl	pawe
-2A9D5	𪧕	pfrm	pftb
-2A9D6	𪧖	prou	prou
-2A9D7	𪧗	pwwl	pwwl
-2A9D8	𪧘	povf	povf
-2A9D9	𪧙	pccv	pccv
-2A9DA	𪧚	pbpf	pbpf
-2A9DB	𪧛	pdji	pdji
-2A9DC	𪧜	pfyt	pfyt
-2A9DD	𪧝	paao	payo
-2A9DE	𪧞	pttu	pttx
-2A9DF	𪧟	pnte	pnte
-2A9E0	𪧠	pntg	pntg
-2A9E1	𪧡	fhnf	fhnf
-2A9E2	𪧢	pfwy	pfwy
-2A9E3	𪧣	pati	pffi
-2A9E4	𪧤	ptmt	ptmt
-2A9E5	𪧥	ppym	ppyb
-2A9E6	𪧦	pfji	pawi
-2A9E7	𪧧	pgcf	pgcf
-2A9E8	𪧨	pjbc	pjbc
-2A9E9	𪧩	pmdv	pwdv
-2A9EA	𪧪	pvtl	pvtl
-2A9EB	𪧫	pdcu	pdco
-2A9EC	𪧬	psgm	psgb
-2A9ED	𪧭	pusr	pusr
-2A9EE	𪧮	pcba	pcna
-2A9EF	𪧯	ptha	ptha
-2A9F0	𪧰	pgke	pgke
-2A9F1	𪧱	pfjk	pawk
-2A9F2	𪧲	pssc	pssc
-2A9F3	𪧳	pswf	pswf
-2A9F4	𪧴	pnlw	pnrw
-2A9F5	𪧵	pglj	pslj
-2A9F6	𪧶	qfu	qfu
-2A9F7	𪧷	ffwf	ffwf
-2A9F8	𪧸	uwgf	uwgf
-2A9F9	𪧹	vamf	vawf
-2A9FA	𪧺	jghf	jghf
-2A9FB	𪧻	tmdf	tmdg
-2A9FC	𪧼	pqdf	pqdf
-2A9FD	𪧽	giff	dhff
-2A9FE	𪧾	vfmy	vfmy
-2A9FF	𪧿	mwiy	mwiy
-2AA00	𪨀	ibmh	ibmh
-2AA01	𪨁	ebiy	ebiy
-2AA02	𪨂	yogi	yoiy
-2AA03	𪨃	iryf	iryf
-2AA04	𪨄	itwm	itwm
-2AA05	𪨅	itdy	itdy
-2AA06	𪨆	itoe	itoe
-2AA07	𪨇	gqkm	gqkm
-2AA08	𪨈	dnkj	dnyj
-2AA09	𪨉	ngmk	ngmk
-2AA0A	𪨊	nwwi	nwwi
-2AA0B	𪨋	ntfd	ntfd
-2AA0C	𪨌	nuav	nuav
-2AA0D	𪨍	nwmc	nwwc
-2AA0E	𪨎	nylk	nyek
-2AA0F	𪨏	nhie	nhhe
-2AA10	𪨐	nyuy	nyuy
-2AA11	𪨑	nylk	nylk
-2AA12	𪨒	nakf	nakf
-2AA13	𪨓	nymk	nymk
-2AA14	𪨔	nbhq	nbhq
-2AA15	𪨕	ntfm	nebm
-2AA16	𪨖	ntfl	nelh
-2AA17	𪨗	nttj	nttj
-2AA18	𪨘	nqak	nqgk
-2AA19	𪨙	ntff	newf
-2AA1A	𪨚	nuag	nuag
-2AA1B	𪨛	nuaf	nuaf
-2AA1C	𪨜	nyth	nyts
-2AA1D	𪨝	ntfj	netj
-2AA1E	𪨞	novh	novh
-2AA1F	𪨟	ntfj	neuj
-2AA20	𪨠	novf	novg
-2AA21	𪨡	nfuh	nfuh
-2AA22	𪨢	mghu	mghu
-2AA23	𪨣	mtnb	mtnb
-2AA24	𪨤	imj	imj
-2AA25	𪨥	mbn	mbn
-2AA26	𪨦	mrnn	mrn
-2AA27	𪨧	mwxb	mwxb
-2AA28	𪨨	myhy	myhy
-2AA29	𪨩	mlnn	mlnn
-2AA2A	𪨪	mmmg	mmmg
-2AA2B	𪨫	mqtb	mqtb
-2AA2C	𪨬	myxy	myxy
-2AA2D	𪨭	mxcy	mxcy
-2AA2E	𪨮	mxcu	mxcu
-2AA2F	𪨯	dnnm	dnmj
-2AA30	𪨰	mmag	mmag
-2AA31	𪨱	miqb	mqiu
-2AA32	𪨲	mrmj	mtfb
-2AA33	𪨳	mtfh	mtgs
-2AA34	𪨴	mriy	mtfy
-2AA35	𪨵	rfcm	rfcm
-2AA36	𪨶	mdlj	mdlj
-2AA37	𪨷	mgod	mgot
-2AA38	𪨸	mkqw	mkqw
-2AA39	𪨹	mkmw	mkmw
-2AA3A	𪨺	muwc	muwc
-2AA3B	𪨻	mdlf	mdlf
-2AA3C	𪨼	mdfi	mdfi
-2AA3D	𪨽	muxf	muxf
-2AA3E	𪨾	mepc	mepc
-2AA3F	𪨿	myjn	mojn
-2AA40	𪩀	mnth	mnth
-2AA41	𪩁	mbeg	mbeg
-2AA42	𪩂	mfmf	mfmf
-2AA43	𪩃	mjgh	mjgh
-2AA44	𪩄	mmtk	mmtk
-2AA45	𪩅	mrgf	mrgf
-2AA46	𪩆	mrhb	mtgb
-2AA47	𪩇	movf	movf
-2AA48	𪩈	mdtt	mdtu
-2AA49	𪩉	mgef	msfy
-2AA4A	𪩊	mldn	mldn
-2AA4B	𪩋	mowv	mowv
-2AA4C	𪩌	mxdm	mxdm
-2AA4D	𪩍	mgjf	mgjf
-2AA4E	𪩎	mmmv	mmmv
-2AA4F	𪩏	mynx	moxx
-2AA50	𪩐	mpwy	mpwy
-2AA51	𪩑	mydn	modn
-2AA52	𪩒	mnug	mnru
-2AA53	𪩓	magh	mffg
-2AA54	𪩔	muja	muja
-2AA55	𪩕	mwxc	mwxc
-2AA56	𪩖	mnbb	mnbb
-2AA57	𪩗	mafr	mafr
-2AA58	𪩘	mfmd	mfmd
-2AA59	𪩙	makf	makf
-2AA5A	𪩚	mwgj	mwgj
-2AA5B	𪩛	mdhb	mdhb
-2AA5C	𪩜	mqqc	mrrc
-2AA5D	𪩝	mugc	mugc
-2AA5E	𪩞	mqaa	mqaa
-2AA5F	𪩟	mhbn	mhbn
-2AA60	𪩠	mgmx	mgmx
-2AA61	𪩡	vcb	vcb
-2AA62	𪩢	rhkh	tghk
-2AA63	𪩣	daf	daf
-2AA64	𪩤	angj	angj
-2AA65	𪩥	anyk	anyk
-2AA66	𪩦	anss	anss
-2AA67	𪩧	ypsn	ypsn
-2AA68	𪩨	qlpn	qlpn
-2AA69	𪩩	anwp	anwp
-2AA6A	𪩪	anww	anww
-2AA6B	𪩫	dwnb	dwnb
-2AA6C	𪩬	cqhh	cqhh
-2AA6D	𪩭	csww	csww
-2AA6E	𪩮	cfwt	cfwt
-2AA6F	𪩯	nydg	nutg
-2AA70	𪩰	magn	magn
-2AA71	𪩱	cugi	cusl
-2AA72	𪩲	gmht	gmht
-2AA73	𪩳	mhgk	mhgk
-2AA74	𪩴	mhug	mhug
-2AA75	𪩵	tfhh	tgsh
-2AA76	𪩶	pqdh	pqdh
-2AA77	𪩷	mhuf	mhuf
-2AA78	𪩸	mhfm	mhfm
-2AA79	𪩹	mhrf	mhrf
-2AA7A	𪩺	vpmw	vpmw
-2AA7B	𪩻	mhpj	mhpj
-2AA7C	𪩼	mheo	mheo
-2AA7D	𪩽	mhhd	mhhd
-2AA7E	𪩾	ogwy	owms
-2AA7F	𪩿	mhjc	mhjc
-2AA80	𪪀	wnns	tngs
-2AA81	𪪁	ffjh	ffjh
-2AA82	𪪂	fjfh	fjfh
-2AA83	𪪃	uagw	uagw
-2AA84	𪪄	guhn	gufn
-2AA85	𪪅	guhn	gufn
-2AA86	𪪆	guhn	gufn
-2AA87	𪪇	guhy	gufy
-2AA88	𪪈	djdh	hdhg
-2AA89	𪪉	fuft	fuft
-2AA8A	𪪊	xqyy	xqyy
-2AA8B	𪪋	xxft	xxft
-2AA8C	𪪌	ygmh	ogmh
-2AA8D	𪪍	yyi	oyi
-2AA8E	𪪎	yghd	oghd
-2AA8F	𪪏	yhne	ohne
-2AA90	𪪐	yayi	oayi
-2AA91	𪪑	ytdj	otdj
-2AA92	𪪒	yvtk	ovtk
-2AA93	𪪓	ygik	odhk
-2AA94	𪪔	ydcv	odcv
-2AA95	𪪕	yfcw	ofcw
-2AA96	𪪖	ytfc	otfc
-2AA97	𪪗	yvcb	ovbk
-2AA98	𪪘	ygkc	ogkc
-2AA99	𪪙	yjgd	ojgd
-2AA9A	𪪚	ybkd	obkd
-2AA9B	𪪛	yhag	ohag
-2AA9C	𪪜	ywht	owht
-2AA9D	𪪝	yvkc	ovkc
-2AA9E	𪪞	yfuk	ofuk
-2AA9F	𪪟	ykkn	okkn
-2AAA0	𪪠	ywfe	owfe
-2AAA1	𪪡	ydum	odum
-2AAA2	𪪢	yujd	oujd
-2AAA3	𪪣	ypgl	opgl
-2AAA4	𪪤	yfqg	ofqg
-2AAA5	𪪥	yudm	ougm
-2AAA6	𪪦	ywho	owho
-2AAA7	𪪧	yxth	oxth
-2AAA8	𪪨	yylo	oylo
-2AAA9	𪪩	gayo	gaoo
-2AAAA	𪪪	yach	oach
-2AAAB	𪪫	akfl	akgl
-2AAAC	𪪬	gfpk	gfpk
-2AAAD	𪪭	guhp	gufp
-2AAAE	𪪮	lpd	lpd
-2AAAF	𪪯	gvap	gvap
-2AAB0	𪪰	uspd	uspd
-2AAB1	𪪱	rgpd	rgpd
-2AAB2	𪪲	fgpd	fgpd
-2AAB3	𪪳	wcaj	wcaj
-2AAB4	𪪴	cfha	cgaj
-2AAB5	𪪵	fiya	giya
-2AAB6	𪪶	upma	yupa
-2AAB7	𪪷	owva	owva
-2AAB8	𪪸	vdfa	edfa
-2AAB9	𪪹	pela	pela
-2AABA	𪪺	xkg	xkg
-2AABB	𪪻	xgmw	xgmw
-2AABC	𪪼	xxxf	xxxf
-2AABD	𪪽	xtlg	xtlg
-2AABE	𪪾	xkhc	xkhc
-2AABF	𪪿	xbcy	xbcy
-2AAC0	𪫀	xnhh	xnkg
-2AAC1	𪫁	xemf	xemf
-2AAC2	𪫂	xpgw	xpgw
-2AAC3	𪫃	uxhm	uxhm
-2AAC4	𪫄	xwyc	xwyc
-2AAC5	𪫅	xqoo	xqoo
-2AAC6	𪫆	ivg	ivg
-2AAC7	𪫇	xgom	xodm
-2AAC8	𪫈	gkhe	gkhe
-2AAC9	𪫉	jyje	jyje
-2AACA	𪫊	gaeh	gaeg
-2AACB	𪫋	tyy	tyy
-2AACC	𪫌	tdxn	tdxy
-2AACD	𪫍	tfny	tfny
-2AACE	𪫎	tkty	tkty
-2AACF	𪫏	tkht	tkht
-2AAD0	𪫐	tqky	tqky
-2AAD1	𪫑	tlge	tlge
-2AAD2	𪫒	thpx	thpx
-2AAD3	𪫓	tvfh	tvgh
-2AAD4	𪫔	tqdy	tqdy
-2AAD5	𪫕	txit	txit
-2AAD6	𪫖	tgjf	tgjf
-2AAD7	𪫗	tiqf	tigf
-2AAD8	𪫘	thkh	thkh
-2AAD9	𪫙	tlff	tlff
-2AADA	𪫚	ifch	ifcg
-2AADB	𪫛	tsse	tsse
-2AADC	𪫜	tbmt	tbmt
-2AADD	𪫝	ngnn	ngnn
-2AADE	𪫞	nfg	nfg
-2AADF	𪫟	nsy	nsy
-2AAE0	𪫠	xxnu	xxnu
-2AAE1	𪫡	ndln	ndet
-2AAE2	𪫢	nhbh	nhbn
-2AAE3	𪫣	nhg	nhg
-2AAE4	𪫤	ncqn	ncqn
-2AAE5	𪫥	xhnu	xhnu
-2AAE6	𪫦	ndag	ndag
-2AAE7	𪫧	nskg	nskg
-2AAE8	𪫨	naqy	naqy
-2AAE9	𪫩	hnu	hnu
-2AAEA	𪫪	nmkg	nmkg
-2AAEB	𪫫	wvyn	wvyn
-2AAEC	𪫬	nhgf	nyfg
-2AAED	𪫭	nftn	nftn
-2AAEE	𪫮	ndjg	ndjg
-2AAEF	𪫯	naoy	naoy
-2AAF0	𪫰	kknu	kknu
-2AAF1	𪫱	wwvn	wwvn
-2AAF2	𪫲	npvg	npvg
-2AAF3	𪫳	yenu	yenu
-2AAF4	𪫴	vnnu	vnnu
-2AAF5	𪫵	gany	gany
-2AAF6	𪫶	wgnh	wgnh
-2AAF7	𪫷	dtfn	dtfn
-2AAF8	𪫸	nfcb	nfcb
-2AAF9	𪫹	nwwk	nwwk
-2AAFA	𪫺	nwgi	nwgg
-2AAFB	𪫻	npfq	npfq
-2AAFC	𪫼	ycfn	hcfn
-2AAFD	𪫽	binu	binu
-2AAFE	𪫾	vrnu	vrnu
-2AAFF	𪫿	napy	nffp
-2AB00	𪬀	ntln	ntln
-2AB01	𪬁	ntfx	ntfx
-2AB02	𪬂	pynn	pynn
-2AB03	𪬃	npeg	npeg
-2AB04	𪬄	uxhn	uxhn
-2AB05	𪬅	pdnu	pdnu
-2AB06	𪬆	ytnu	ytnu
-2AB07	𪬇	dhdt	dhdt
-2AB08	𪬈	gkin	sken
-2AB09	𪬉	nsfg	nsfg
-2AB0A	𪬊	hqrn	hqrn
-2AB0B	𪬋	mnmn	mknu
-2AB0C	𪬌	njtl	njtl
-2AB0D	𪬍	nhkn	nhku
-2AB0E	𪬎	qvnc	qvnc
-2AB0F	𪬏	ntjg	ntjg
-2AB10	𪬐	uthn	uthn
-2AB11	𪬑	nnff	nngf
-2AB12	𪬒	vctn	vtnu
-2AB13	𪬓	sifn	sign
-2AB14	𪬔	ngqi	ngqf
-2AB15	𪬕	ngcj	ngcj
-2AB16	𪬖	nuwy	nuwy
-2AB17	𪬗	ntgf	ntgf
-2AB18	𪬘	nuwl	nuwl
-2AB19	𪬙	nike	nike
-2AB1A	𪬚	nprw	nprw
-2AB1B	𪬛	pwwn	pwwn
-2AB1C	𪬜	nyod	nyod
-2AB1D	𪬝	nugn	nugn
-2AB1E	𪬞	nnhg	nnhg
-2AB1F	𪬟	ssen	ssen
-2AB20	𪬠	nakk	nffk
-2AB21	𪬡	njcm	njcm
-2AB22	𪬢	njhl	njhe
-2AB23	𪬣	nrnk	nryk
-2AB24	𪬤	thnt	thnt
-2AB25	𪬥	umqn	yumn
-2AB26	𪬦	npgw	npgw
-2AB27	𪬧	nnyi	nnyi
-2AB28	𪬨	njgf	njgf
-2AB29	𪬩	kmln	kmen
-2AB2A	𪬪	whwn	whwn
-2AB2B	𪬫	ujnh	ujnh
-2AB2C	𪬬	igen	iswn
-2AB2D	𪬭	nnwh	nnwh
-2AB2E	𪬮	nbkg	nbkg
-2AB2F	𪬯	gkin	skqn
-2AB30	𪬰	nhxf	nhxf
-2AB31	𪬱	nlkm	nlkm
-2AB32	𪬲	wvne	wvnv
-2AB33	𪬳	ynnm	ynnm
-2AB34	𪬴	usrn	usrn
-2AB35	𪬵	vfjn	vfjn
-2AB36	𪬶	nxiu	nxix
-2AB37	𪬷	ngjf	ngjf
-2AB38	𪬸	nuto	nutw
-2AB39	𪬹	nylj	nylj
-2AB3A	𪬺	nptl	nptl
-2AB3B	𪬻	ntmt	ntmd
-2AB3C	𪬼	wvnm	wvnm
-2AB3D	𪬽	qvnk	qvnk
-2AB3E	𪬾	noqb	noqb
-2AB3F	𪬿	gmhn	gmhn
-2AB40	𪭀	uytn	ujun
-2AB41	𪭁	fpgn	fpgn
-2AB42	𪭂	ujdn	ujdn
-2AB43	𪭃	nghl	ngnl
-2AB44	𪭄	nptm	nptm
-2AB45	𪭅	afan	afan
-2AB46	𪭆	nuht	nurt
-2AB47	𪭇	nugy	nugy
-2AB48	𪭈	nmmy	nmmy
-2AB49	𪭉	agf	agf
-2AB4A	𪭊	alv	aee
-2AB4B	𪭋	fabd	fabd
-2AB4C	𪭌	alf	alf
-2AB4D	𪭍	awat	away
-2AB4E	𪭎	atld	atld
-2AB4F	𪭏	davt	davd
-2AB50	𪭐	aebd	aebd
-2AB51	𪭑	amhh	amhh
-2AB52	𪭒	faeb	faeb
-2AB53	𪭓	hlat	hlay
-2AB54	𪭔	depa	depa
-2AB55	𪭕	iada	idqa
-2AB56	𪭖	xgua	xmay
-2AB57	𪭗	xyxt	yxxy
-2AB58	𪭘	ynan	ynan
-2AB59	𪭙	ynmk	ynmk
-2AB5A	𪭚	ynjh	ynjg
-2AB5B	𪭛	ynaj	ynaj
-2AB5C	𪭜	rqy	rqy
-2AB5D	𪭝	rfnh	rfnh
-2AB5E	𪭞	rtxy	rtxy
-2AB5F	𪭟	rtfh	rtfh
-2AB60	𪭠	rqwy	rqwy
-2AB61	𪭡	rwfh	twfh
-2AB62	𪭢	rwwy	rwwy
-2AB63	𪭣	rnny	rnny
-2AB64	𪭤	rghg	rghg
-2AB65	𪭥	rdag	rdag
-2AB66	𪭦	rkqn	rkqn
-2AB67	𪭧	rqiy	rqiy
-2AB68	𪭨	rtdy	rtdy
-2AB69	𪭩	rway	rway
-2AB6A	𪭪	rmmg	rmmg
-2AB6B	𪭫	rsyn	rsyt
-2AB6C	𪭬	rdmh	rdmh
-2AB6D	𪭭	rrqa	rrqa
-2AB6E	𪭮	rwww	rwww
-2AB6F	𪭯	rwfc	rwfc
-2AB70	𪭰	rudh	ruh
-2AB71	𪭱	runw	runw
-2AB72	𪭲	rcdh	rcdh
-2AB73	𪭳	rvey	rvy
-2AB74	𪭴	rfhy	rghy
-2AB75	𪭵	rgmw	rgmw
-2AB76	𪭶	rkkh	rkkh
-2AB77	𪭷	rksy	rksy
-2AB78	𪭸	rkuf	rkuf
-2AB79	𪭹	rvqn	rvqn
-2AB7A	𪭺	rqfy	rqfy
-2AB7B	𪭻	rtgh	rtgh
-2AB7C	𪭼	rtjh	rtjh
-2AB7D	𪭽	ryfy	rofy
-2AB7E	𪭾	rueg	rueg
-2AB7F	𪭿	rnhf	rufg
-2AB80	𪮀	rbfq	rbfq
-2AB81	𪮁	rgmj	rsmj
-2AB82	𪮂	rgub	rgub
-2AB83	𪮃	lrrj	lrrj
-2AB84	𪮄	rhvv	rhvv
-2AB85	𪮅	rtsy	rtsy
-2AB86	𪮆	rrag	rrag
-2AB87	𪮇	rqnk	rqnk
-2AB88	𪮈	rwgq	rwgr
-2AB89	𪮉	rydh	rydh
-2AB8A	𪮊	ryof	ryof
-2AB8B	𪮋	rvij	rvij
-2AB8C	𪮌	rgcj	rgcj
-2AB8D	𪮍	rafs	rfsy
-2AB8E	𪮎	rayx	rffx
-2AB8F	𪮏	rlny	rlny
-2AB90	𪮐	rkkk	rkkk
-2AB91	𪮑	rrhg	rrhg
-2AB92	𪮒	rrhg	rrhg
-2AB93	𪮓	rtda	rtda
-2AB94	𪮔	ritk	ritk
-2AB95	𪮕	rnuh	rnuh
-2AB96	𪮖	rxqc	rxqc
-2AB97	𪮗	rdft	rdfi
-2AB98	𪮘	rmth	rmth
-2AB99	𪮙	raaw	rffw
-2AB9A	𪮚	mumr	mumr
-2AB9B	𪮛	rjff	rjff
-2AB9C	𪮜	rtgf	rtgf
-2AB9D	𪮝	rtkl	rtkl
-2AB9E	𪮞	rtrw	rttg
-2AB9F	𪮟	rwqq	rwrq
-2ABA0	𪮠	ryon	ryon
-2ABA1	𪮡	ryve	ryve
-2ABA2	𪮢	rdri	rdri
-2ABA3	𪮣	fhfr	fhfr
-2ABA4	𪮤	rmee	rmee
-2ABA5	𪮥	rtek	rtuk
-2ABA6	𪮦	rtjf	rtjf
-2ABA7	𪮧	ryvh	rovh
-2ABA8	𪮨	rips	rips
-2ABA9	𪮩	roeg	roeg
-2ABAA	𪮪	rnfy	rnfy
-2ABAB	𪮫	rajt	rajt
-2ABAC	𪮬	rfkk	rfkk
-2ABAD	𪮭	rfhi	rfhi
-2ABAE	𪮮	rhja	rhja
-2ABAF	𪮯	rkbh	rkbh
-2ABB0	𪮰	runy	runy
-2ABB1	𪮱	rqje	rqje
-2ABB2	𪮲	rugw	rugw
-2ABB3	𪮳	ryoj	ryoj
-2ABB4	𪮴	rnov	rnov
-2ABB5	𪮵	rgxw	rgxw
-2ABB6	𪮶	rgkm	rskm
-2ABB7	𪮷	rwgu	rwgu
-2ABB8	𪮸	rsdp	rsdp
-2ABB9	𪮹	rtdh	rtdg
-2ABBA	𪮺	rvhl	rvhl
-2ABBB	𪮻	rlrj	rlrj
-2ABBC	𪮼	rtgo	rtgo
-2ABBD	𪮽	rrrm	rrrm
-2ABBE	𪮾	ryns	roxs
-2ABBF	𪮿	rynt	ront
-2ABC0	𪯀	rlkc	reko
-2ABC1	𪯁	rnay	rnfy
-2ABC2	𪯂	rywn	rown
-2ABC3	𪯃	raue	rffv
-2ABC4	𪯄	rgjl	rhge
-2ABC5	𪯅	odfc	odfc
-2ABC6	𪯆	fcff	fcff
-2ABC7	𪯇	lgcc	lgcc
-2ABC8	𪯈	fwty	gty
-2ABC9	𪯉	tghc	tghc
-2ABCA	𪯊	nhth	nhth
-2ABCB	𪯋	guwc	gudc
-2ABCC	𪯌	wnnt	tnty
-2ABCD	𪯍	gjqt	gjrt
-2ABCE	𪯎	fuft	fuft
-2ABCF	𪯏	qrnt	qrnt
-2ABD0	𪯐	upmt	yupt
-2ABD1	𪯑	gxit	gxit
-2ABD2	𪯒	yptt	yptt
-2ABD3	𪯓	gmat	gmat
-2ABD4	𪯔	umqt	yumt
-2ABD5	𪯕	ytwf	ytwf
-2ABD6	𪯖	nwet	nwet
-2ABD7	𪯗	aetv	aetv
-2ABD8	𪯘	aqat	aqat
-2ABD9	𪯙	upmt	yupt
-2ABDA	𪯚	ntft	neot
-2ABDB	𪯛	ytgi	ytgi
-2ABDC	𪯜	ylkt	ylkt
-2ABDD	𪯝	aetg	aetg
-2ABDE	𪯞	ytdf	ytdf
-2ABDF	𪯟	kkht	kkht
-2ABE0	𪯠	ykj	ykj
-2ABE1	𪯡	khyu	khyu
-2ABE2	𪯢	yyy	yyy
-2ABE3	𪯣	ylf	ylf
-2ABE4	𪯤	ywgk	ywgk
-2ABE5	𪯥	ggyu	ggyu
-2ABE6	𪯦	ymaw	ymaw
-2ABE7	𪯧	yqg	yqg
-2ABE8	𪯨	ydpv	ydpv
-2ABE9	𪯩	ywyc	ywyc
-2ABEA	𪯪	yymk	yymk
-2ABEB	𪯫	ufrg	ufrg
-2ABEC	𪯬	rgkf	rgkf
-2ABED	𪯭	adjf	ahdf
-2ABEE	𪯮	kylf	kylf
-2ABEF	𪯯	dhwf	dhwf
-2ABF0	𪯰	wtuc	wgst
-2ABF1	𪯱	rty	rty
-2ABF2	𪯲	yrh	yrh
-2ABF3	𪯳	ytcy	ytcy
-2ABF4	𪯴	yhkg	yhkg
-2ABF5	𪯵	agyn	agyt
-2ABF6	𪯶	ytgd	ytgd
-2ABF7	𪯷	yudh	yuh
-2ABF8	𪯸	ytrg	ytrg
-2ABF9	𪯹	ydey	ydey
-2ABFA	𪯺	ywgn	ywgn
-2ABFB	𪯻	ypgh	ypgh
-2ABFC	𪯼	yyjg	yyjg
-2ABFD	𪯽	ythc	ythc
-2ABFE	𪯾	ykmy	ykmy
-2ABFF	𪯿	yamw	yamy
-2AC00	𪰀	yrla	ytga
-2AC01	𪰁	ywya	ywya
-2AC02	𪰂	yxjm	yxjm
-2AC03	𪰃	ytaf	ytdg
-2AC04	𪰄	ytja	ytja
-2AC05	𪰅	ytqb	ytqb
-2AC06	𪰆	jag	jag
-2AC07	𪰇	jqhh	jqhh
-2AC08	𪰈	jfqn	jfqn
-2AC09	𪰉	jfjh	jfjh
-2AC0A	𪰊	jhf	jhf
-2AC0B	𪰋	jty	jty
-2AC0C	𪰌	jtfn	jen
-2AC0D	𪰍	jufh	jufh
-2AC0E	𪰎	yjf	yjf
-2AC0F	𪰏	jskg	jskg
-2AC10	𪰐	jsgg	jsgg
-2AC11	𪰑	jgyu	jgyu
-2AC12	𪰒	jdg	jdg
-2AC13	𪰓	jgwf	jgwf
-2AC14	𪰔	jmdu	jmdu
-2AC15	𪰕	jtdy	jtdy
-2AC16	𪰖	jtdu	jtdu
-2AC17	𪰗	jntt	jntt
-2AC18	𪰘	jlkf	jekf
-2AC19	𪰙	jfkg	jfkg
-2AC1A	𪰚	jftx	jftx
-2AC1B	𪰛	ffjg	ffjg
-2AC1C	𪰜	jaag	jaay
-2AC1D	𪰝	jahj	jahj
-2AC1E	𪰞	jafh	jffg
-2AC1F	𪰟	jrhf	jtgh
-2AC20	𪰠	jtah	jtgh
-2AC21	𪰡	jtyg	jtyg
-2AC22	𪰢	jyth	jyth
-2AC23	𪰣	jng	jng
-2AC24	𪰤	jivg	jivg
-2AC25	𪰥	jgkg	jgkg
-2AC26	𪰦	jwwf	jwwf
-2AC27	𪰧	jpdc	jpdc
-2AC28	𪰨	jnyn	jnyn
-2AC29	𪰩	janx	janx
-2AC2A	𪰪	jsww	jsww
-2AC2B	𪰫	jdfa	jdfa
-2AC2C	𪰬	jgtj	jgtj
-2AC2D	𪰭	jevh	jevh
-2AC2E	𪰮	jrmj	jtgj
-2AC2F	𪰯	jghc	jghc
-2AC30	𪰰	jffh	jffh
-2AC31	𪰱	jght	jght
-2AC32	𪰲	jdjb	jdjb
-2AC33	𪰳	jdhd	jdhd
-2AC34	𪰴	jwdc	jthc
-2AC35	𪰵	jcll	jcle
-2AC36	𪰶	jxjm	jxjm
-2AC37	𪰷	jvfp	jvgp
-2AC38	𪰸	jgxi	jgxi
-2AC39	𪰹	jfjf	jfjf
-2AC3A	𪰺	jlqt	jlqt
-2AC3B	𪰻	jwgk	jwgk
-2AC3C	𪰼	jyvk	jovk
-2AC3D	𪰽	jylh	jolh
-2AC3E	𪰾	jghj	jghj
-2AC3F	𪰿	jghb	jghb
-2AC40	𪱀	jlxi	jlxi
-2AC41	𪱁	jqrf	jqrf
-2AC42	𪱂	jqtj	jqtj
-2AC43	𪱃	jtxt	jtxt
-2AC44	𪱄	jpgw	jpgw
-2AC45	𪱅	jifj	jifj
-2AC46	𪱆	jjfe	jjae
-2AC47	𪱇	jgjn	jgjn
-2AC48	𪱈	jjjj	jjjj
-2AC49	𪱉	jasw	jffw
-2AC4A	𪱊	jtgk	jtgk
-2AC4B	𪱋	jugk	jugk
-2AC4C	𪱌	jool	jooe
-2AC4D	𪱍	jujn	jujn
-2AC4E	𪱎	jtgj	jtgj
-2AC4F	𪱏	jqmt	jqmt
-2AC50	𪱐	ujih	ujih
-2AC51	𪱑	jdjf	jdjf
-2AC52	𪱒	jyke	jyke
-2AC53	𪱓	joyc	jyoc
-2AC54	𪱔	jwfq	jetq
-2AC55	𪱕	jbch	jbch
-2AC56	𪱖	jwyw	jwyw
-2AC57	𪱗	uljn	uljn
-2AC58	𪱘	maev	maev
-2AC59	𪱙	ecy	ecy
-2AC5A	𪱚	ehg	ehg
-2AC5B	𪱛	vtef	vtef
-2AC5C	𪱜	ckeg	ckeg
-2AC5D	𪱝	bief	bief
-2AC5E	𪱞	afed	afed
-2AC5F	𪱟	gjge	gjge
-2AC60	𪱠	egoc	egoc
-2AC61	𪱡	ewfi	ewfi
-2AC62	𪱢	ethj	ethj
-2AC63	𪱣	emun	emun
-2AC64	𪱤	dett	dety
-2AC65	𪱥	efam	efam
-2AC66	𪱦	ergg	ergg
-2AC67	𪱧	eypq	eypq
-2AC68	𪱨	eujn	eujn
-2AC69	𪱩	eybc	eyrc
-2AC6A	𪱪	eudo	eugo
-2AC6B	𪱫	qkxe	qkxe
-2AC6C	𪱬	eief	eief
-2AC6D	𪱭	eyoe	eyoe
-2AC6E	𪱮	ynem	ynem
-2AC6F	𪱯	ynen	ynen
-2AC70	𪱰	deyf	deof
-2AC71	𪱱	sghu	sghu
-2AC72	𪱲	shg	shg
-2AC73	𪱳	skg	skg
-2AC74	𪱴	svg	svg
-2AC75	𪱵	vsu	vsu
-2AC76	𪱶	fjsi	fjsi
-2AC77	𪱷	smy	smy
-2AC78	𪱸	swuy	swuy
-2AC79	𪱹	siy	siy
-2AC7A	𪱺	sdag	sdag
-2AC7B	𪱻	ssg	ssgg
-2AC7C	𪱼	fiwn	fwgn
-2AC7D	𪱽	seh	seh
-2AC7E	𪱾	sqiy	sqiy
-2AC7F	𪱿	stbg	stbg
-2AC80	𪲀	srgg	srg
-2AC81	𪲁	uqsu	uqsy
-2AC82	𪲂	snjg	snjg
-2AC83	𪲃	sadg	sady
-2AC84	𪲄	sdoy	ssoy
-2AC85	𪲅	figh	fguf
-2AC86	𪲆	sdnf	sdny
-2AC87	𪲇	smag	smag
-2AC88	𪲈	shhg	shhg
-2AC89	𪲉	srgk	srgk
-2AC8A	𪲊	smyy	swyy
-2AC8B	𪲋	stfh	stgh
-2AC8C	𪲌	symy	symy
-2AC8D	𪲍	sumh	sumh
-2AC8E	𪲎	syjh	syjh
-2AC8F	𪲏	sxty	sxty
-2AC90	𪲐	sgqb	sgqb
-2AC91	𪲑	gbsu	gbsu
-2AC92	𪲒	sfoy	sfoy
-2AC93	𪲓	sgku	sgku
-2AC94	𪲔	sgmy	sgmy
-2AC95	𪲕	gmic	smwc
-2AC96	𪲖	sksy	sksy
-2AC97	𪲗	sloy	sloy
-2AC98	𪲘	strt	stry
-2AC99	𪲙	staf	staf
-2AC9A	𪲚	sieg	simu
-2AC9B	𪲛	sonn	sonn
-2AC9C	𪲜	uwgs	uwgs
-2AC9D	𪲝	sysy	sosy
-2AC9E	𪲞	sudn	sunn
-2AC9F	𪲟	sfuf	sfuf
-2ACA0	𪲠	gvws	gvws
-2ACA1	𪲡	ssfc	ssfc
-2ACA2	𪲢	sfhn	sfhn
-2ACA3	𪲣	afsh	fsqh
-2ACA4	𪲤	smqb	smqb
-2ACA5	𪲥	gkic	skwc
-2ACA6	𪲦	sitr	sitr
-2ACA7	𪲧	swwh	swwh
-2ACA8	𪲨	sqrn	sqrn
-2ACA9	𪲩	spjg	spjg
-2ACAA	𪲪	ylks	ylks
-2ACAB	𪲫	ubts	ubts
-2ACAC	𪲬	gmho	ymhs
-2ACAD	𪲭	fqyq	fqyq
-2ACAE	𪲮	syny	sony
-2ACAF	𪲯	sveh	sveh
-2ACB0	𪲰	sqmd	sqmd
-2ACB1	𪲱	syod	syod
-2ACB2	𪲲	sdkc	sdkc
-2ACB3	𪲳	sgms	sgms
-2ACB4	𪲴	sdks	sdks
-2ACB5	𪲵	ssbm	ssbm
-2ACB6	𪲶	sftk	sftk
-2ACB7	𪲷	slsy	slsy
-2ACB8	𪲸	gmii	smsk
-2ACB9	𪲹	jtys	jtys
-2ACBA	𪲺	sjqb	sjqb
-2ACBB	𪲻	srdh	srdf
-2ACBC	𪲼	swyg	swyg
-2ACBD	𪲽	qsrr	rsrr
-2ACBE	𪲾	sesk	sesk
-2ACBF	𪲿	udgi	udsk
-2ACC0	𪳀	sujg	sujg
-2ACC1	𪳁	syac	soac
-2ACC2	𪳂	suth	suth
-2ACC3	𪳃	spvm	spvw
-2ACC4	𪳄	sypm	sypw
-2ACC5	𪳅	sitk	sitk
-2ACC6	𪳆	scel	scee
-2ACC7	𪳇	slkp	sekp
-2ACC8	𪳈	gams	gaws
-2ACC9	𪳉	ssny	ssny
-2ACCA	𪳊	sdes	sdes
-2ACCB	𪳋	sgnn	sgnn
-2ACCC	𪳌	sfel	sfee
-2ACCD	𪳍	sbcc	sbcc
-2ACCE	𪳎	bosu	bosu
-2ACCF	𪳏	skky	skky
-2ACD0	𪳐	hhsu	hhsu
-2ACD1	𪳑	sjoy	sjoy
-2ACD2	𪳒	sjiq	sjqi
-2ACD3	𪳓	keys	tfwa
-2ACD4	𪳔	riwa	srsg
-2ACD5	𪳕	stux	stux
-2ACD6	𪳖	stap	stgp
-2ACD7	𪳗	sepc	sepc
-2ACD8	𪳘	spge	spfe
-2ACD9	𪳙	uwys	uwys
-2ACDA	𪳚	spgi	spsj
-2ACDB	𪳛	svfj	svfj
-2ACDC	𪳜	sbio	sbio
-2ACDD	𪳝	ssgo	ssgo
-2ACDE	𪳞	sftt	sftt
-2ACDF	𪳟	ssqq	ssqq
-2ACE0	𪳠	shxr	shxr
-2ACE1	𪳡	smhx	smhx
-2ACE2	𪳢	smfg	smfg
-2ACE3	𪳣	shmk	shmk
-2ACE4	𪳤	stfp	stfp
-2ACE5	𪳥	sqjn	sqjn
-2ACE6	𪳦	wnns	tnrs
-2ACE7	𪳧	sdqb	sqdb
-2ACE8	𪳨	pqfs	pqfs
-2ACE9	𪳩	syhq	syhq
-2ACEA	𪳪	sihv	sibv
-2ACEB	𪳫	cccm	cccm
-2ACEC	𪳬	snfy	snfy
-2ACED	𪳭	fwfi	ggsj
-2ACEE	𪳮	sfpu	sfpu
-2ACEF	𪳯	ssif	ssif
-2ACF0	𪳰	sajs	sffs
-2ACF1	𪳱	skhh	skhh
-2ACF2	𪳲	stdj	stdj
-2ACF3	𪳳	sthx	sthx
-2ACF4	𪳴	smlc	swlc
-2ACF5	𪳵	seto	seto
-2ACF6	𪳶	spfu	spau
-2ACF7	𪳷	ijgs	ijgs
-2ACF8	𪳸	suef	suef
-2ACF9	𪳹	sbue	sbue
-2ACFA	𪳺	slkm	sekm
-2ACFB	𪳻	scbs	scns
-2ACFC	𪳼	ifti	iftf
-2ACFD	𪳽	ssdl	ssdl
-2ACFE	𪳾	sfal	sfal
-2ACFF	𪳿	jsyc	jsoc
-2AD00	𪴀	smau	smau
-2AD01	𪴁	skhq	skhi
-2AD02	𪴂	sjly	sjly
-2AD03	𪴃	stmd	stmd
-2AD04	𪴄	rifb	tffb
-2AD05	𪴅	stgh	stgg
-2AD06	𪴆	suxn	suxn
-2AD07	𪴇	syno	sogo
-2AD08	𪴈	scbs	scns
-2AD09	𪴉	sxxt	smxt
-2AD0A	𪴊	sgmu	sgmu
-2AD0B	𪴋	skak	skak
-2AD0C	𪴌	stpn	stpn
-2AD0D	𪴍	oyms	oyms
-2AD0E	𪴎	spxm	spxm
-2AD0F	𪴏	sbjc	sbjc
-2AD10	𪴐	sfvp	sfvp
-2AD11	𪴑	sddj	sddj
-2AD12	𪴒	srcy	rrcy
-2AD13	𪴓	stjy	stjy
-2AD14	𪴔	spdi	spdi
-2AD15	𪴕	snwj	snwj
-2AD16	𪴖	sfss	sfss
-2AD17	𪴗	suxw	suxw
-2AD18	𪴘	sjfc	sjfc
-2AD19	𪴙	stfm	stfm
-2AD1A	𪴚	stgo	stgo
-2AD1B	𪴛	ssfi	ssfi
-2AD1C	𪴜	sfsh	sfsh
-2AD1D	𪴝	sqoj	sqoj
-2AD1E	𪴞	rise	rise
-2AD1F	𪴟	sfcl	sfce
-2AD20	𪴠	sfdp	sfdp
-2AD21	𪴡	stji	stji
-2AD22	𪴢	sdhh	sdhh
-2AD23	𪴣	spwm	spwm
-2AD24	𪴤	swfq	serq
-2AD25	𪴥	spgm	spgm
-2AD26	𪴦	sysf	sysf
-2AD27	𪴧	stui	stul
-2AD28	𪴨	oguw	ouff
-2AD29	𪴩	yqwy	yqwy
-2AD2A	𪴪	dfqw	dfqw
-2AD2B	𪴫	nfqw	nfqw
-2AD2C	𪴬	xtgw	xtgw
-2AD2D	𪴭	rcqw	rcqw
-2AD2E	𪴮	ajqw	ajqw
-2AD2F	𪴯	jogw	joqw
-2AD30	𪴰	adkw	ffdw
-2AD31	𪴱	wcnw	wcnw
-2AD32	𪴲	ndjw	ndjw
-2AD33	𪴳	awww	ffww
-2AD34	𪴴	ugow	ugow
-2AD35	𪴵	qrhf	qrhf
-2AD36	𪴶	hgjg	hgjg
-2AD37	𪴷	hceh	hceh
-2AD38	𪴸	hfnt	hfnt
-2AD39	𪴹	ghic	ghic
-2AD3A	𪴺	swwh	swwh
-2AD3B	𪴻	gigk	dhgk
-2AD3C	𪴼	hdat	hdah
-2AD3D	𪴽	gigt	dhgt
-2AD3E	𪴾	lyhg	lyhg
-2AD3F	𪴿	wfgh	egnh
-2AD40	𪵀	gqqn	gqqn
-2AD41	𪵁	gqbc	gqbc
-2AD42	𪵂	gqyb	gqyb
-2AD43	𪵃	gqvq	gqvq
-2AD44	𪵄	gqhq	gqhq
-2AD45	𪵅	gqwa	gqwa
-2AD46	𪵆	gqfw	gqfw
-2AD47	𪵇	gqgm	gqsm
-2AD48	𪵈	dfnc	dfnc
-2AD49	𪵉	kfmc	kfwc
-2AD4A	𪵊	xtdt	xtdt
-2AD4B	𪵋	ftbc	ftbc
-2AD4C	𪵌	mcwq	wcwq
-2AD4D	𪵍	wgkc	wgkc
-2AD4E	𪵎	cbmc	cbwc
-2AD4F	𪵏	ydec	ydec
-2AD50	𪵐	gehc	sywc
-2AD51	𪵑	fnmj	fnwj
-2AD52	𪵒	ajmc	ffjc
-2AD53	𪵓	ngcc	ngcc
-2AD54	𪵔	txgi	txyi
-2AD55	𪵕	xxwm	xxqm
-2AD56	𪵖	tfnn	env
-2AD57	𪵗	tfne	eef
-2AD58	𪵘	tfno	eoi
-2AD59	𪵙	tfnk	eqkd
-2AD5A	𪵚	tfnx	eyxi
-2AD5B	𪵛	tfni	egfi
-2AD5C	𪵜	tfnd	eudi
-2AD5D	𪵝	sstn	sseb
-2AD5E	𪵞	tfni	evii
-2AD5F	𪵟	tfnh	enhd
-2AD60	𪵠	tfnw	exmw
-2AD61	𪵡	tfnx	eoxx
-2AD62	𪵢	tfnm	epgm
-2AD63	𪵣	fcrn	fcrn
-2AD64	𪵤	rnsk	rskd
-2AD65	𪵥	rntu	rtxi
-2AD66	𪵦	ujrn	ujrn
-2AD67	𪵧	rngt	rgqt
-2AD68	𪵨	ciu	ciu
-2AD69	𪵩	ighy	ighy
-2AD6A	𪵪	diu	diu
-2AD6B	𪵫	iay	iayy
-2AD6C	𪵬	itmn	itwn
-2AD6D	𪵭	idgn	idgn
-2AD6E	𪵮	irj	irj
-2AD6F	𪵯	iet	itut
-2AD70	𪵰	ixhh	ixhh
-2AD71	𪵱	iddn	idgq
-2AD72	𪵲	immg	ihng
-2AD73	𪵳	itdy	itdy
-2AD74	𪵴	itmh	itmh
-2AD75	𪵵	ynie	ynie
-2AD76	𪵶	inln	inne
-2AD77	𪵷	iafg	iafg
-2AD78	𪵸	ifbn	ifbn
-2AD79	𪵹	iabh	iabh
-2AD7A	𪵺	ihqy	ihry
-2AD7B	𪵻	itlw	itlw
-2AD7C	𪵼	iqcb	iqcb
-2AD7D	𪵽	iccc	iccc
-2AD7E	𪵾	iskg	iskg
-2AD7F	𪵿	sriy	sriy
-2AD80	𪶀	illn	ilet
-2AD81	𪶁	imgg	imgg
-2AD82	𪶂	ihqb	ihqb
-2AD83	𪶃	iklj	ikej
-2AD84	𪶄	ijfy	ijfy
-2AD85	𪶅	iwfi	iwfi
-2AD86	𪶆	iqto	iqto
-2AD87	𪶇	itdf	itdf
-2AD88	𪶈	ionn	ionn
-2AD89	𪶉	ipql	ipqe
-2AD8A	𪶊	iycf	ihcf
-2AD8B	𪶋	ivit	ivit
-2AD8C	𪶌	igcj	igcj
-2AD8D	𪶍	igdh	igdg
-2AD8E	𪶎	irvk	irvk
-2AD8F	𪶏	ifch	ifch
-2AD90	𪶐	imdf	imdf
-2AD91	𪶑	ilnt	ilnt
-2AD92	𪶒	ilqy	ilqy
-2AD93	𪶓	itmd	itmd
-2AD94	𪶔	iwff	iwff
-2AD95	𪶕	iobh	iobh
-2AD96	𪶖	iblg	iblg
-2AD97	𪶗	ifaf	ifff
-2AD98	𪶘	ibbh	ibbh
-2AD99	𪶙	idff	idff
-2AD9A	𪶚	ifin	ifny
-2AD9B	𪶛	shiu	shiu
-2AD9C	𪶜	irua	irua
-2AD9D	𪶝	igck	igck
-2AD9E	𪶞	imhd	imhd
-2AD9F	𪶟	imcw	iwcg
-2ADA0	𪶠	iwct	iwct
-2ADA1	𪶡	iwgn	iwgn
-2ADA2	𪶢	iwwt	iwws
-2ADA3	𪶣	itla	itla
-2ADA4	𪶤	iwuy	iwug
-2ADA5	𪶥	ingg	ingg
-2ADA6	𪶦	iyey	iyey
-2ADA7	𪶧	iyob	iyob
-2ADA8	𪶨	ivcn	ivcn
-2ADA9	𪶩	ickn	ickn
-2ADAA	𪶪	isgn	isgn
-2ADAB	𪶫	idwy	idwy
-2ADAC	𪶬	iadd	iatd
-2ADAD	𪶭	igqo	igqo
-2ADAE	𪶮	igon	igon
-2ADAF	𪶯	isdj	isdj
-2ADB0	𪶰	deiu	deiu
-2ADB1	𪶱	imuh	imuh
-2ADB2	𪶲	iald	iffd
-2ADB3	𪶳	iqku	iqku
-2ADB4	𪶴	iewj	iewj
-2ADB5	𪶵	itrw	ittg
-2ADB6	𪶶	iywf	iowf
-2ADB7	𪶷	ipqq	ipqk
-2ADB8	𪶸	iyxi	iyxi
-2ADB9	𪶹	iytp	iotp
-2ADBA	𪶺	iyoy	iyoy
-2ADBB	𪶻	iuqe	iuqe
-2ADBC	𪶼	iitk	iitk
-2ADBD	𪶽	iccs	iccs
-2ADBE	𪶾	ibgn	ibgn
-2ADBF	𪶿	ixtw	ixtw
-2ADC0	𪷀	ifir	igir
-2ADC1	𪷁	imtt	imtt
-2ADC2	𪷂	ajdi	ffji
-2ADC3	𪷃	ijcq	ijcq
-2ADC4	𪷄	iewq	imuq
-2ADC5	𪷅	ipoo	ipoo
-2ADC6	𪷆	ipju	ipju
-2ADC7	𪷇	iuev	iuev
-2ADC8	𪷈	ixfm	ixmy
-2ADC9	𪷉	ixlg	ixlg
-2ADCA	𪷊	inug	inru
-2ADCB	𪷋	iftf	iftf
-2ADCC	𪷌	idmo	idmo
-2ADCD	𪷍	igeq	igeq
-2ADCE	𪷎	iamt	ight
-2ADCF	𪷏	idgf	idgf
-2ADD0	𪷐	iahy	iahy
-2ADD1	𪷑	ijgf	ijgf
-2ADD2	𪷒	iaqm	iffb
-2ADD3	𪷓	ihal	ihxe
-2ADD4	𪷔	imcq	iwcq
-2ADD5	𪷕	idjy	itdy
-2ADD6	𪷖	iqdo	iqdo
-2ADD7	𪷗	ierf	imuf
-2ADD8	𪷘	irmr	itgr
-2ADD9	𪷙	iuqg	iuqg
-2ADDA	𪷚	ipwh	ipwh
-2ADDB	𪷛	ipgl	ipgl
-2ADDC	𪷜	ixii	ixii
-2ADDD	𪷝	idyx	idox
-2ADDE	𪷞	iajl	iajl
-2ADDF	𪷟	iope	ijue
-2ADE0	𪷠	iaec	iffc
-2ADE1	𪷡	ijkr	ijkr
-2ADE2	𪷢	ikgm	ikgw
-2ADE3	𪷣	wnni	tnui
-2ADE4	𪷤	iyli	iyli
-2ADE5	𪷥	iuft	iuft
-2ADE6	𪷦	iplp	iplp
-2ADE7	𪷧	ivtd	ivtu
-2ADE8	𪷨	iahn	iahn
-2ADE9	𪷩	idjs	idjs
-2ADEA	𪷪	ifnm	ifnm
-2ADEB	𪷫	igei	iswi
-2ADEC	𪷬	iahi	iahi
-2ADED	𪷭	iuff	iuff
-2ADEE	𪷮	itfk	itfd
-2ADEF	𪷯	iopi	iopi
-2ADF0	𪷰	iujk	iujk
-2ADF1	𪷱	ipfm	ipam
-2ADF2	𪷲	iyaf	iodf
-2ADF3	𪷳	ifih	ifih
-2ADF4	𪷴	ifwo	ifwo
-2ADF5	𪷵	iabc	iffc
-2ADF6	𪷶	iexc	iexc
-2ADF7	𪷷	ipdi	ipdi
-2ADF8	𪷸	iynt	iont
-2ADF9	𪷹	ujnk	ujnk
-2ADFA	𪷺	iagn	iffn
-2ADFB	𪷻	iqaa	iqaa
-2ADFC	𪷼	iqdk	iqdk
-2ADFD	𪷽	itfm	itfm
-2ADFE	𪷾	iqxg	iqxg
-2ADFF	𪷿	ixfm	ixfm
-2AE00	𪸀	ifnc	ifnc
-2AE01	𪸁	iyac	ioab
-2AE02	𪸂	ioyc	iyoc
-2AE03	𪸃	igeo	igeo
-2AE04	𪸄	iahh	iahh
-2AE05	𪸅	iqyi	iqyi
-2AE06	𪸆	iqpk	iqpk
-2AE07	𪸇	iynf	ioxf
-2AE08	𪸈	ilff	ilff
-2AE09	𪸉	iqoi	iqoi
-2AE0A	𪸊	ievq	ievq
-2AE0B	𪸋	ipfc	ipao
-2AE0C	𪸌	iunu	iunu
-2AE0D	𪸍	nou	nou
-2AE0E	𪸎	otmn	otwn
-2AE0F	𪸏	otnn	otnn
-2AE10	𪸐	ovyy	ovyy
-2AE11	𪸑	ofqn	ofqn
-2AE12	𪸒	ogxg	ogxg
-2AE13	𪸓	fqou	fqou
-2AE14	𪸔	ohg	ohg
-2AE15	𪸕	ornn	orn
-2AE16	𪸖	opwu	opwu
-2AE17	𪸗	ocqn	ocqn
-2AE18	𪸘	ofcy	ofcy
-2AE19	𪸙	ofiy	ofy
-2AE1A	𪸚	odkg	odkg
-2AE1B	𪸛	ogyy	ogyy
-2AE1C	𪸜	olwy	olwy
-2AE1D	𪸝	okln	oket
-2AE1E	𪸞	oqiy	oqiy
-2AE1F	𪸟	oqhy	oqhy
-2AE20	𪸠	oyni	oyni
-2AE21	𪸡	oxcy	oxcy
-2AE22	𪸢	onhy	onhy
-2AE23	𪸣	jou	jou
-2AE24	𪸤	odnt	odnn
-2AE25	𪸥	obg	obg
-2AE26	𪸦	ftxo	ftxo
-2AE27	𪸧	okmh	okmh
-2AE28	𪸨	oesy	obsy
-2AE29	𪸩	oplh	oplh
-2AE2A	𪸪	ong	ong
-2AE2B	𪸫	ogjq	ogjr
-2AE2C	𪸬	oakd	oakg
-2AE2D	𪸭	omy	omy
-2AE2E	𪸮	ojdy	ojdy
-2AE2F	𪸯	oevg	oevg
-2AE30	𪸰	otlk	otlk
-2AE31	𪸱	oyfy	oofy
-2AE32	𪸲	ocvk	ocvk
-2AE33	𪸳	orvk	orvk
-2AE34	𪸴	odsk	odsk
-2AE35	𪸵	ogah	ogay
-2AE36	𪸶	oaat	oaay
-2AE37	𪸷	ofqf	ofqf
-2AE38	𪸸	omaw	omaw
-2AE39	𪸹	ohet	ohet
-2AE3A	𪸺	ojqb	ojqb
-2AE3B	𪸻	ojyc	ojyy
-2AE3C	𪸼	omfk	omfk
-2AE3D	𪸽	owgf	owgf
-2AE3E	𪸾	oevh	oevh
-2AE3F	𪸿	ybou	ybou
-2AE40	𪹀	poch	pocg
-2AE41	𪹁	oblg	oblg
-2AE42	𪹂	vocf	vocf
-2AE43	𪹃	vkbo	vkbo
-2AE44	𪹄	ogmn	ogmn
-2AE45	𪹅	odmf	odmf
-2AE46	𪹆	odae	odae
-2AE47	𪹇	omdo	omdo
-2AE48	𪹈	ojgh	ojgh
-2AE49	𪹉	qvmo	qvwo
-2AE4A	𪹊	owgj	owgj
-2AE4B	𪹋	otky	otky
-2AE4C	𪹌	qlqo	qlqo
-2AE4D	𪹍	ownd	ownd
-2AE4E	𪹎	opfe	opfe
-2AE4F	𪹏	ougd	ougd
-2AE50	𪹐	oqko	oqko
-2AE51	𪹑	vkoo	vkoo
-2AE52	𪹒	odaj	odaj
-2AE53	𪹓	ogoj	ogoj
-2AE54	𪹔	ogtk	ogtk
-2AE55	𪹕	jqjo	jqjo
-2AE56	𪹖	omdt	omgt
-2AE57	𪹗	evoy	eeoy
-2AE58	𪹘	otwt	otws
-2AE59	𪹙	otec	otuc
-2AE5A	𪹚	oupy	oyuy
-2AE5B	𪹛	oube	oube
-2AE5C	𪹜	oylh	oolh
-2AE5D	𪹝	oofo	oogo
-2AE5E	𪹞	opuh	opuh
-2AE5F	𪹟	ovmy	ovmy
-2AE60	𪹠	ocwy	ocwy
-2AE61	𪹡	osse	osse
-2AE62	𪹢	okht	okht
-2AE63	𪹣	ohag	ohog
-2AE64	𪹤	oqfc	orfc
-2AE65	𪹥	owfi	owfi
-2AE66	𪹦	olou	olou
-2AE67	𪹧	oumd	oyud
-2AE68	𪹨	oyvh	oovh
-2AE69	𪹩	xjxo	xjxo
-2AE6A	𪹪	ogfn	ogfn
-2AE6B	𪹫	ofke	ofke
-2AE6C	𪹬	kkao	kkao
-2AE6D	𪹭	mhko	mhko
-2AE6E	𪹮	tfno	eeeo
-2AE6F	𪹯	owys	owys
-2AE70	𪹰	oycy	ohcy
-2AE71	𪹱	ybdo	ybdo
-2AE72	𪹲	oyct	oyct
-2AE73	𪹳	onty	onty
-2AE74	𪹴	odap	odap
-2AE75	𪹵	ossh	ossh
-2AE76	𪹶	jfto	jfto
-2AE77	𪹷	ojfe	ojae
-2AE78	𪹸	qsgo	qsgo
-2AE79	𪹹	oujn	oujn
-2AE7A	𪹺	oodm	oodm
-2AE7B	𪹻	ovas	ovas
-2AE7C	𪹼	ojan	ojan
-2AE7D	𪹽	oopk	oopk
-2AE7E	𪹾	opwi	opwi
-2AE7F	𪹿	pgio	pgho
-2AE80	𪺀	onyf	onyf
-2AE81	𪺁	oflm	oflm
-2AE82	𪺂	syso	syso
-2AE83	𪺃	oqnf	oqnf
-2AE84	𪺄	oelb	oelb
-2AE85	𪺅	optn	optn
-2AE86	𪺆	oelb	oelb
-2AE87	𪺇	oyby	oyry
-2AE88	𪺈	oght	odht
-2AE89	𪺉	ohad	ohgd
-2AE8A	𪺊	olkp	olkp
-2AE8B	𪺋	tqxo	tqxo
-2AE8C	𪺌	oipf	oipf
-2AE8D	𪺍	evf	evf
-2AE8E	𪺎	rhyq	rhyq
-2AE8F	𪺏	eeu	egeu
-2AE90	𪺐	rhyc	rhyc
-2AE91	𪺑	rhye	rhye
-2AE92	𪺒	ehtu	ehtu
-2AE93	𪺓	evhs	evhs
-2AE94	𪺔	epqe	epqf
-2AE95	𪺕	exxx	exxx
-2AE96	𪺖	rhys	rhys
-2AE97	𪺗	evhq	evhq
-2AE98	𪺘	qvhm	qvhm
-2AE99	𪺙	exty	exty
-2AE9A	𪺚	eqoo	eqoo
-2AE9B	𪺛	wqrm	wrtb
-2AE9C	𪺜	wqvb	wrvb
-2AE9D	𪺝	qqrh	rrtg
-2AE9E	𪺞	nhdy	uyg
-2AE9F	𪺟	nhdl	uvlg
-2AEA0	𪺠	nhdn	utln
-2AEA1	𪺡	nhdl	uull
-2AEA2	𪺢	thge	thgv
-2AEA3	𪺣	thgf	thgf
-2AEA4	𪺤	thgj	thgj
-2AEA5	𪺥	thgn	thgn
-2AEA6	𪺦	thgj	thgj
-2AEA7	𪺧	ahtw	ahtw
-2AEA8	𪺨	ahtf	ahtf
-2AEA9	𪺩	trta	ctan
-2AEAA	𪺪	trdx	cdxy
-2AEAB	𪺫	verh	vbtg
-2AEAC	𪺬	trvj	cvjg
-2AEAD	𪺭	trtj	ctdj
-2AEAE	𪺮	ycph	ycpg
-2AEAF	𪺯	troo	cooy
-2AEB0	𪺰	trgl	cdhl
-2AEB1	𪺱	trff	camf
-2AEB2	𪺲	trgf	cgkf
-2AEB3	𪺳	tqth	tqtg
-2AEB4	𪺴	trah	caph
-2AEB5	𪺵	trdn	chdn
-2AEB6	𪺶	awnh	fftg
-2AEB7	𪺷	qtwb	qtwb
-2AEB8	𪺸	qtqv	qtqv
-2AEB9	𪺹	qtvc	qtvc
-2AEBA	𪺺	qtlt	qtlt
-2AEBB	𪺻	qtpe	qtpe
-2AEBC	𪺼	qtde	qtde
-2AEBD	𪺽	gody	gusd
-2AEBE	𪺾	qtdf	qtdf
-2AEBF	𪺿	qtug	qtug
-2AEC0	𪻀	qtwa	qtwa
-2AEC1	𪻁	qtug	qtuo
-2AEC2	𪻂	qtrh	qtrh
-2AEC3	𪻃	qtth	qttg
-2AEC4	𪻄	qtud	qtud
-2AEC5	𪻅	qtcm	qtcm
-2AEC6	𪻆	qtrc	qttc
-2AEC7	𪻇	qttk	qttk
-2AEC8	𪻈	qtxj	qtxj
-2AEC9	𪻉	qtyy	qtyy
-2AECA	𪻊	qtfe	qtfv
-2AECB	𪻋	qtyf	qtof
-2AECC	𪻌	qtli	qtli
-2AECD	𪻍	gcy	gcy
-2AECE	𪻎	gqfg	gqfg
-2AECF	𪻏	geyy	gby
-2AED0	𪻐	gwwy	gwwy
-2AED1	𪻑	gymn	gywn
-2AED2	𪻒	gny	gny
-2AED3	𪻓	goy	goy
-2AED4	𪻔	gpqn	gpqn
-2AED5	𪻕	gdg	gdg
-2AED6	𪻖	gwfn	gwfn
-2AED7	𪻗	gdfg	gdfg
-2AED8	𪻘	ggjg	ggjg
-2AED9	𪻙	gaag	gaay
-2AEDA	𪻚	gaqy	gffr
-2AEDB	𪻛	gmgk	gmgk
-2AEDC	𪻜	gwsy	gwsy
-2AEDD	𪻝	gpgf	gpgf
-2AEDE	𪻞	gynw	gynw
-2AEDF	𪻟	gndh	gndh
-2AEE0	𪻠	ggah	ggah
-2AEE1	𪻡	ggku	ggku
-2AEE2	𪻢	grrh	grrh
-2AEE3	𪻣	gmqk	gmqk
-2AEE4	𪻤	grgw	grwy
-2AEE5	𪻥	gybh	gybh
-2AEE6	𪻦	gdfi	gdfi
-2AEE7	𪻧	gfqf	gfqf
-2AEE8	𪻨	gfnd	gfnd
-2AEE9	𪻩	gsrh	gsrh
-2AEEA	𪻪	gjeg	gjeg
-2AEEB	𪻫	gmun	gmun
-2AEEC	𪻬	grgm	grmh
-2AEED	𪻭	gpgg	gpgg
-2AEEE	𪻮	gogg	gogg
-2AEEF	𪻯	gyty	gyty
-2AEF0	𪻰	gcqt	gcqt
-2AEF1	𪻱	gbib	gbib
-2AEF2	𪻲	gxfm	gxmy
-2AEF3	𪻳	gfmf	gfmf
-2AEF4	𪻴	ggwe	ggwe
-2AEF5	𪻵	gdjf	gdjf
-2AEF6	𪻶	gdjb	gdjb
-2AEF7	𪻷	gadk	gffk
-2AEF8	𪻸	gask	gffk
-2AEF9	𪻹	jtgy	jtgy
-2AEFA	𪻺	gkhm	gkhm
-2AEFB	𪻻	gith	gith
-2AEFC	𪻼	grsy	grsy
-2AEFD	𪻽	gptk	gptk
-2AEFE	𪻾	gyde	gyde
-2AEFF	𪻿	gyac	goac
-2AF00	𪼀	guph	gyuh
-2AF01	𪼁	gyod	gyod
-2AF02	𪼂	guty	guty
-2AF03	𪼃	gdwi	gdwi
-2AF04	𪼄	gfke	gfke
-2AF05	𪼅	gepy	ggep
-2AF06	𪼆	gdri	gdri
-2AF07	𪼇	gmth	gmth
-2AF08	𪼈	wggg	wggg
-2AF09	𪼉	wgkg	wgkg
-2AF0A	𪼊	gtfh	gtfj
-2AF0B	𪼋	gttn	gten
-2AF0C	𪼌	gwyc	gwyc
-2AF0D	𪼍	gpqg	gpqg
-2AF0E	𪼎	gugc	gugc
-2AF0F	𪼏	gccs	gccs
-2AF10	𪼐	gdqq	gdrr
-2AF11	𪼑	gahf	gahf
-2AF12	𪼒	gapq	gffq
-2AF13	𪼓	glag	glag
-2AF14	𪼔	gwge	gwge
-2AF15	𪼕	gytd	gytd
-2AF16	𪼖	gpvw	gpew
-2AF17	𪼗	gfyy	gfyy
-2AF18	𪼘	gapg	gffg
-2AF19	𪼙	gugg	gugg
-2AF1A	𪼚	gjqq	gjqq
-2AF1B	𪼛	gwys	gwys
-2AF1C	𪼜	gwgn	gwgr
-2AF1D	𪼝	gyin	gyiy
-2AF1E	𪼞	guaj	gyuj
-2AF1F	𪼟	gnih	gnig
-2AF20	𪼠	gwxc	gwxc
-2AF21	𪼡	gglg	gglg
-2AF22	𪼢	glff	glff
-2AF23	𪼣	gtmd	gtmd
-2AF24	𪼤	gqdy	gqdy
-2AF25	𪼥	gyuo	gouw
-2AF26	𪼦	gujn	gujn
-2AF27	𪼧	ggjk	ghgk
-2AF28	𪼨	gpxe	gpxe
-2AF29	𪼩	gddj	gddj
-2AF2A	𪼪	gted	gtud
-2AF2B	𪼫	gulb	gulb
-2AF2C	𪼬	gfss	gfss
-2AF2D	𪼭	gpdn	gpdn
-2AF2E	𪼮	gple	gple
-2AF2F	𪼯	gugt	gugy
-2AF30	𪼰	gwfr	gegr
-2AF31	𪼱	gygm	gygm
-2AF32	𪼲	gipo	gipo
-2AF33	𪼳	rcyd	rcyd
-2AF34	𪼴	rcyy	rcyy
-2AF35	𪼵	duxy	duxy
-2AF36	𪼶	gnyn	gnnn
-2AF37	𪼷	gnyg	gnng
-2AF38	𪼸	gnyo	gnno
-2AF39	𪼹	gnyg	gnng
-2AF3A	𪼺	kman	kmay
-2AF3B	𪼻	gnyw	gnnw
-2AF3C	𪼼	gnyh	gnnh
-2AF3D	𪼽	wwwn	thwy
-2AF3E	𪼾	wwkn	wwky
-2AF3F	𪼿	gnyv	gnnv
-2AF40	𪽀	tfkf	tfkf
-2AF41	𪽁	tghy	tghy
-2AF42	𪽂	dtcg	dtcg
-2AF43	𪽃	tgdh	tgdg
-2AF44	𪽄	tgik	tgik
-2AF45	𪽅	yqag	oqag
-2AF46	𪽆	tmfh	twgk
-2AF47	𪽇	lvn	lvn
-2AF48	𪽈	lnrt	lnrt
-2AF49	𪽉	mgeu	mgeu
-2AF4A	𪽊	lfqn	lfqn
-2AF4B	𪽋	elf	elf
-2AF4C	𪽌	lyy	lyy
-2AF4D	𪽍	lskf	lskf
-2AF4E	𪽎	lskg	lskg
-2AF4F	𪽏	lwgc	lwgc
-2AF50	𪽐	tlwj	tlwj
-2AF51	𪽑	lqrh	lqtg
-2AF52	𪽒	lycq	lycq
-2AF53	𪽓	ldkh	ldkh
-2AF54	𪽔	lhqn	lhqn
-2AF55	𪽕	qnll	qnle
-2AF56	𪽖	vfbl	ngbl
-2AF57	𪽗	nygb	nygb
-2AF58	𪽘	lfqf	lfqf
-2AF59	𪽙	ldwh	ldwg
-2AF5A	𪽚	wwal	wwal
-2AF5B	𪽛	nawl	nawl
-2AF5C	𪽜	lnhc	lnhc
-2AF5D	𪽝	lfcm	lfcm
-2AF5E	𪽞	ujnl	ujnl
-2AF5F	𪽟	lqou	lqou
-2AF60	𪽠	riqm	riqm
-2AF61	𪽡	ctol	ctol
-2AF62	𪽢	lwyo	lwyo
-2AF63	𪽣	pujl	pujl
-2AF64	𪽤	lllg	lllg
-2AF65	𪽥	lxxu	lxxu
-2AF66	𪽦	lugt	lugy
-2AF67	𪽧	rgkh	rgkh
-2AF68	𪽨	ugti	ugqi
-2AF69	𪽩	uwev	uwbe
-2AF6A	𪽪	utay	utay
-2AF6B	𪽫	urhy	urhy
-2AF6C	𪽬	ufii	ufi
-2AF6D	𪽭	uge	ugai
-2AF6E	𪽮	uhne	uhne
-2AF6F	𪽯	uxhj	uxhj
-2AF70	𪽰	ukhi	ukhi
-2AF71	𪽱	upwl	upwe
-2AF72	𪽲	ugmd	ugmd
-2AF73	𪽳	usvd	ugvd
-2AF74	𪽴	uanm	uanm
-2AF75	𪽵	ubry	ubry
-2AF76	𪽶	ugkh	ugkh
-2AF77	𪽷	ugun	ugun
-2AF78	𪽸	ufht	ufha
-2AF79	𪽹	ubjy	ubjy
-2AF7A	𪽺	udjq	utdr
-2AF7B	𪽻	rsy	rsy
-2AF7C	𪽼	ryy	ryy
-2AF7D	𪽽	rrgg	rrg
-2AF7E	𪽾	rmu	rmu
-2AF7F	𪽿	rqkq	rqkq
-2AF80	𪾀	rakg	rakg
-2AF81	𪾁	rifc	rifc
-2AF82	𪾂	rgkq	rgkq
-2AF83	𪾃	rnhh	rnkg
-2AF84	𪾄	rrvc	rrvc
-2AF85	𪾅	rugt	rugy
-2AF86	𪾆	hcqh	bqhh
-2AF87	𪾇	hcty	bty
-2AF88	𪾈	hcsv	bsvg
-2AF89	𪾉	hcbb	bbbj
-2AF8A	𪾊	dnlf	dnyl
-2AF8B	𪾋	jclf	jclf
-2AF8C	𪾌	sklf	sklf
-2AF8D	𪾍	kqlf	kqlf
-2AF8E	𪾎	qblf	qblf
-2AF8F	𪾏	hlnl	hlnl
-2AF90	𪾐	qkql	qkql
-2AF91	𪾑	rqnl	rqnl
-2AF92	𪾒	itul	itul
-2AF93	𪾓	fdnl	fdnl
-2AF94	𪾔	edml	edml
-2AF95	𪾕	eudl	eugl
-2AF96	𪾖	lwvo	lqou
-2AF97	𪾗	wgvl	wgvl
-2AF98	𪾘	qxxl	qxxl
-2AF99	𪾙	wftl	etll
-2AF9A	𪾚	ovpl	ovpl
-2AF9B	𪾛	inhl	inhl
-2AF9C	𪾜	lful	lful
-2AF9D	𪾝	telt	tult
-2AF9E	𪾞	xnjl	xnjl
-2AF9F	𪾟	hgng	hgng
-2AFA0	𪾠	hqyy	hqyy
-2AFA1	𪾡	hdnn	hdny
-2AFA2	𪾢	hmqn	hmqn
-2AFA3	𪾣	hpgg	hpgg
-2AFA4	𪾤	hdnt	hdy
-2AFA5	𪾥	hkgn	hkgn
-2AFA6	𪾦	hhnt	hhnt
-2AFA7	𪾧	hwgc	hwgc
-2AFA8	𪾨	hkfn	hkfn
-2AFA9	𪾩	hpgf	hpgf
-2AFAA	𪾪	huqw	huqw
-2AFAB	𪾫	hegl	hege
-2AFAC	𪾬	htdn	htdn
-2AFAD	𪾭	hssy	hssy
-2AFAE	𪾮	hetf	hetf
-2AFAF	𪾯	hrqw	hrqw
-2AFB0	𪾰	hyty	hyty
-2AFB1	𪾱	hith	hith
-2AFB2	𪾲	hujg	hujg
-2AFB3	𪾳	hnhh	hnkg
-2AFB4	𪾴	hnoy	hnoy
-2AFB5	𪾵	hgxi	hgxi
-2AFB6	𪾶	htff	htgf
-2AFB7	𪾷	hwye	hwyb
-2AFB8	𪾸	hprw	hprw
-2AFB9	𪾹	haqh	haqh
-2AFBA	𪾺	pnth	pnth
-2AFBB	𪾻	iwyh	iwyh
-2AFBC	𪾼	hfpu	hfpu
-2AFBD	𪾽	huyy	huyy
-2AFBE	𪾾	htwk	htwk
-2AFBF	𪾿	huoj	huoj
-2AFC0	𪿀	hpjy	hpjy
-2AFC1	𪿁	ujnh	ujnh
-2AFC2	𪿂	tmgh	tmgh
-2AFC3	𪿃	rhvf	rhvf
-2AFC4	𪿄	htun	htun
-2AFC5	𪿅	hywo	howo
-2AFC6	𪿆	cbtr	cnhr
-2AFC7	𪿇	cbte	cnhe
-2AFC8	𪿈	tdsy	tdsy
-2AFC9	𪿉	tdit	tdit
-2AFCA	𪿊	tdgg	tdgo
-2AFCB	𪿋	tdaw	tddw
-2AFCC	𪿌	tdcs	tdcs
-2AFCD	𪿍	tdkj	tdkj
-2AFCE	𪿎	tdtf	tdtf
-2AFCF	𪿏	tdga	tdga
-2AFD0	𪿐	tdlj	tdlj
-2AFD1	𪿑	dfqn	dfqn
-2AFD2	𪿒	dhbh	dhnn
-2AFD3	𪿓	dxgg	dxgg
-2AFD4	𪿔	daqn	daqn
-2AFD5	𪿕	dqkg	dqkg
-2AFD6	𪿖	dyxy	dyxy
-2AFD7	𪿗	dnxn	dnxn
-2AFD8	𪿘	dckg	dckg
-2AFD9	𪿙	ddoy	ddoy
-2AFDA	𪿚	dffy	dffy
-2AFDB	𪿛	djy	djy
-2AFDC	𪿜	dpqn	dpqn
-2AFDD	𪿝	iwdf	igwd
-2AFDE	𪿞	ddtf	ddtf
-2AFDF	𪿟	ddfe	ddfe
-2AFE0	𪿠	dkeg	dkmu
-2AFE1	𪿡	dpqf	dpqf
-2AFE2	𪿢	duh	duh
-2AFE3	𪿣	dvfb	dngb
-2AFE4	𪿤	ddqn	ddqn
-2AFE5	𪿥	dsty	dsty
-2AFE6	𪿦	dgey	dgey
-2AFE7	𪿧	driy	driy
-2AFE8	𪿨	ddjd	dtdd
-2AFE9	𪿩	dndg	dndg
-2AFEA	𪿪	drdf	drdf
-2AFEB	𪿫	dcuq	dcgr
-2AFEC	𪿬	ddun	ddun
-2AFED	𪿭	dpey	dpge
-2AFEE	𪿮	dpwk	dpwk
-2AFEF	𪿯	depy	dgep
-2AFF0	𪿰	dwfw	dwfw
-2AFF1	𪿱	dtel	dtul
-2AFF2	𪿲	dpqm	dpqb
-2AFF3	𪿳	dyfq	dofq
-2AFF4	𪿴	dydg	dydg
-2AFF5	𪿵	dfwl	dggl
-2AFF6	𪿶	ddhi	ddhi
-2AFF7	𪿷	dpnh	dpnh
-2AFF8	𪿸	dddh	dddh
-2AFF9	𪿹	dhby	dhny
-2AFFA	𪿺	dtuh	dtuh
-2AFFB	𪿻	dahu	dahu
-2AFFC	𪿼	dbci	dbci
-2AFFD	𪿽	dria	dtfa
-2AFFE	𪿾	datl	dffl
-2AFFF	𪿿	dedt	dedt
-2B000	𫀀	gcfi	gcfi
-2B001	𫀁	fivg	fhjv
-2B002	𫀂	ftyi	ftyi
-2B003	𫀃	pymy	pymy
-2B004	𫀄	dfit	dfii
-2B005	𫀅	pyhk	pyhk
-2B006	𫀆	fiqn	fiqn
-2B007	𫀇	pydi	pygf
-2B008	𫀈	pymk	pymk
-2B009	𫀉	pytl	pytl
-2B00A	𫀊	pyye	pyye
-2B00B	𫀋	pydw	pydw
-2B00C	𫀌	pygy	pygy
-2B00D	𫀍	pyjy	pyjy
-2B00E	𫀎	pyyg	pyyg
-2B00F	𫀏	fipq	fhjq
-2B010	𫀐	pygh	pygy
-2B011	𫀑	pyhj	pyhj
-2B012	𫀒	pyjr	pyjr
-2B013	𫀓	pykn	pykn
-2B014	𫀔	pyqs	pyqs
-2B015	𫀕	pyvn	pyen
-2B016	𫀖	pyrq	pyrq
-2B017	𫀗	pyvq	pyeq
-2B018	𫀘	pyvi	pyvi
-2B019	𫀙	fict	fhjt
-2B01A	𫀚	pyjl	pyjl
-2B01B	𫀛	pybb	pygb
-2B01C	𫀜	dwti	dwti
-2B01D	𫀝	jlfi	jlgi
-2B01E	𫀞	pywk	pywk
-2B01F	𫀟	fint	fins
-2B020	𫀠	pyih	pyih
-2B021	𫀡	pytc	pytc
-2B022	𫀢	pymc	pymc
-2B023	𫀣	pytw	pytw
-2B024	𫀤	fikt	fhjt
-2B025	𫀥	ybmj	yrbj
-2B026	𫀦	tfqy	tfqy
-2B027	𫀧	taf	taf
-2B028	𫀨	tmqn	tmqn
-2B029	𫀩	ttfh	ttfh
-2B02A	𫀪	tlg	tlg
-2B02B	𫀫	tmtn	tmtn
-2B02C	𫀬	tqvg	tqvg
-2B02D	𫀭	tvah	tvgh
-2B02E	𫀮	tivg	tivg
-2B02F	𫀯	tvjg	tvjg
-2B030	𫀰	tiqb	tqiu
-2B031	𫀱	trgk	trgk
-2B032	𫀲	tdqn	tdqn
-2B033	𫀳	dqgt	dqgt
-2B034	𫀴	tjfg	tjfg
-2B035	𫀵	tpgn	tpgn
-2B036	𫀶	tpfq	tpfq
-2B037	𫀷	tvyn	tvyn
-2B038	𫀸	tnnk	tnnk
-2B039	𫀹	tjeg	tjeg
-2B03A	𫀺	tqtt	tqtt
-2B03B	𫀻	tyvw	tovw
-2B03C	𫀼	tlny	tlny
-2B03D	𫀽	tjmy	tjmy
-2B03E	𫀾	trit	trit
-2B03F	𫀿	txey	txey
-2B040	𫁀	tvfp	tvgp
-2B041	𫁁	tkhl	tkhl
-2B042	𫁂	tlfc	tlfc
-2B043	𫁃	tetl	tetl
-2B044	𫁄	tiie	tiie
-2B045	𫁅	hmtc	hmtc
-2B046	𫁆	tfol	tfol
-2B047	𫁇	trie	trie
-2B048	𫁈	tujn	tujn
-2B049	𫁉	temq	temr
-2B04A	𫁊	pwyn	pwyt
-2B04B	𫁋	pqmk	pqmk
-2B04C	𫁌	pqgf	pqgf
-2B04D	𫁍	pwri	pwtf
-2B04E	𫁎	pwan	pwan
-2B04F	𫁏	pwwt	pwwt
-2B050	𫁐	pwvt	pwvt
-2B051	𫁑	pqkn	pqkn
-2B052	𫁒	pqwy	pqwy
-2B053	𫁓	pwwb	pwwb
-2B054	𫁔	pwag	pwag
-2B055	𫁕	pqql	pqqe
-2B056	𫁖	pqrc	pqtc
-2B057	𫁗	pqrm	pqrm
-2B058	𫁘	pwxf	pwkv
-2B059	𫁙	pqqv	pqrv
-2B05A	𫁚	pqqf	pqqf
-2B05B	𫁛	pqaa	pqaa
-2B05C	𫁜	pwdq	pwdq
-2B05D	𫁝	pqtk	pqtk
-2B05E	𫁞	uqhh	uqhh
-2B05F	𫁟	ufny	ufny
-2B060	𫁠	ummg	ummg
-2B061	𫁡	uqyg	uqgg
-2B062	𫁢	upgf	upgf
-2B063	𫁣	uqeg	uqmf
-2B064	𫁤	uvug	uvug
-2B065	𫁥	uyhk	uohk
-2B066	𫁦	undg	undg
-2B067	𫁧	utff	utff
-2B068	𫁨	unhh	unkg
-2B069	𫁩	ujng	ujng
-2B06A	𫁪	uuuf	uuuf
-2B06B	𫁫	ubth	ubtg
-2B06C	𫁬	utjr	utjr
-2B06D	𫁭	uool	uooe
-2B06E	𫁮	gwmu	gwmu
-2B06F	𫁯	ujtb	ujtb
-2B070	𫁰	thu	thu
-2B071	𫁱	tbgf	tbgf
-2B072	𫁲	tfqb	tfqb
-2B073	𫁳	tfnh	tfnh
-2B074	𫁴	tuwu	tuwu
-2B075	𫁵	tufj	tufj
-2B076	𫁶	tnyu	tnyu
-2B077	𫁷	tccu	tccu
-2B078	𫁸	tdnt	tdu
-2B079	𫁹	tamh	tamh
-2B07A	𫁺	togf	tof
-2B07B	𫁻	twbf	twbf
-2B07C	𫁼	tmhy	tmhy
-2B07D	𫁽	tnyw	tnyw
-2B07E	𫁾	teu	tgeu
-2B07F	𫁿	tlj	tlj
-2B080	𫂀	tfpb	tfpb
-2B081	𫂁	tjdu	tjdu
-2B082	𫂂	ttxu	ttxu
-2B083	𫂃	tuyu	tuyu
-2B084	𫂄	tlnb	tlnb
-2B085	𫂅	trxj	trxj
-2B086	𫂆	tlgy	tlgy
-2B087	𫂇	trqy	trqy
-2B088	𫂈	tyny	tonc
-2B089	𫂉	tvcb	tvbj
-2B08A	𫂊	tsgh	tsgh
-2B08B	𫂋	tafs	tfsu
-2B08C	𫂌	tlwn	tlwe
-2B08D	𫂍	tkjj	tkjj
-2B08E	𫂎	tqjd	tqjd
-2B08F	𫂏	tovy	tovy
-2B090	𫂐	tdwi	tdwi
-2B091	𫂑	tdun	tdun
-2B092	𫂒	tgri	tgtf
-2B093	𫂓	tftj	tftj
-2B094	𫂔	tldt	tldu
-2B095	𫂕	twuk	twuk
-2B096	𫂖	tepc	tepc
-2B097	𫂗	toyp	topu
-2B098	𫂘	tssg	tssg
-2B099	𫂙	tgkt	tskt
-2B09A	𫂚	tstu	tstx
-2B09B	𫂛	tlki	tlki
-2B09C	𫂜	thmc	thmc
-2B09D	𫂝	tmwt	tmwq
-2B09E	𫂞	tyvi	tovi
-2B09F	𫂟	tyfq	tofq
-2B0A0	𫂠	tgjn	tgjn
-2B0A1	𫂡	tgmi	tsmm
-2B0A2	𫂢	tdwm	tdwm
-2B0A3	𫂣	tade	tdwe
-2B0A4	𫂤	tqje	tqje
-2B0A5	𫂥	tglm	tglm
-2B0A6	𫂦	tpyi	tpyi
-2B0A7	𫂧	tgki	tskk
-2B0A8	𫂨	tffl	tffl
-2B0A9	𫂩	tmgh	tmgy
-2B0AA	𫂪	ttdv	ttdv
-2B0AB	𫂫	tbuf	tbuf
-2B0AC	𫂬	ttqh	ttqs
-2B0AD	𫂭	teuy	teuy
-2B0AE	𫂮	tadn	tdwn
-2B0AF	𫂯	tyny	tyey
-2B0B0	𫂰	tfag	tfag
-2B0B1	𫂱	tohh	tohh
-2B0B2	𫂲	eou	bou
-2B0B3	𫂳	mou	mou
-2B0B4	𫂴	obn	obn
-2B0B5	𫂵	ojf	ojf
-2B0B6	𫂶	otfh	otgh
-2B0B7	𫂷	otyf	otyf
-2B0B8	𫂸	oamh	oamh
-2B0B9	𫂹	odg	odg
-2B0BA	𫂺	olg	olg
-2B0BB	𫂻	ohjg	ohjg
-2B0BC	𫂼	oqiy	oqiy
-2B0BD	𫂽	oadt	oadt
-2B0BE	𫂾	oldy	oldy
-2B0BF	𫂿	qsou	rsou
-2B0C0	𫃀	opvg	opvg
-2B0C1	𫃁	ofiy	ogiy
-2B0C2	𫃂	obcy	obcy
-2B0C3	𫃃	orgb	orbh
-2B0C4	𫃄	owcn	owcn
-2B0C5	𫃅	oylk	oylk
-2B0C6	𫃆	jgho	jgho
-2B0C7	𫃇	okbg	okbg
-2B0C8	𫃈	ovhn	oehn
-2B0C9	𫃉	sogn	sogn
-2B0CA	𫃊	oafx	offx
-2B0CB	𫃋	oqfh	oqfh
-2B0CC	𫃌	onae	onae
-2B0CD	𫃍	oyvh	oovh
-2B0CE	𫃎	oyfq	oofq
-2B0CF	𫃏	ojyi	ojyi
-2B0D0	𫃐	ouny	ouny
-2B0D1	𫃑	oool	oooe
-2B0D2	𫃒	oaan	oadn
-2B0D3	𫃓	omnp	omkp
-2B0D4	𫃔	ohkb	ohkb
-2B0D5	𫃕	ouxn	ouxn
-2B0D6	𫃖	otvb	otvb
-2B0D7	𫃗	ofno	ofno
-2B0D8	𫃘	olaf	olag
-2B0D9	𫃙	lony	eony
-2B0DA	𫃚	xhy	xhy
-2B0DB	𫃛	txnn	txnn
-2B0DC	𫃜	xkg	xkg
-2B0DD	𫃝	xwnn	xwnn
-2B0DE	𫃞	xkhh	xkhh
-2B0DF	𫃟	xfiy	xfy
-2B0E0	𫃠	xqnn	xqnn
-2B0E1	𫃡	xug	xug
-2B0E2	𫃢	xwsy	xwsy
-2B0E3	𫃣	xpbg	xpbg
-2B0E4	𫃤	xivg	xivg
-2B0E5	𫃥	xkhy	xkhy
-2B0E6	𫃦	xegc	xegc
-2B0E7	𫃧	xqjn	xqjn
-2B0E8	𫃨	xujn	xujn
-2B0E9	𫃩	xvnf	xvng
-2B0EA	𫃪	xgbu	xgbu
-2B0EB	𫃫	xdah	xdah
-2B0EC	𫃬	xhic	xhic
-2B0ED	𫃭	xegd	xegd
-2B0EE	𫃮	xtyg	xtyg
-2B0EF	𫃯	xveh	xveh
-2B0F0	𫃰	xcdd	xcdd
-2B0F1	𫃱	xvgi	xvgi
-2B0F2	𫃲	xivh	xivh
-2B0F3	𫃳	xjqy	xjqy
-2B0F4	𫃴	xqmd	xqmd
-2B0F5	𫃵	xovg	xovg
-2B0F6	𫃶	xitk	xitk
-2B0F7	𫃷	xnhg	xnhg
-2B0F8	𫃸	xrev	xrev
-2B0F9	𫃹	xiqp	xqip
-2B0FA	𫃺	xjgg	xggj
-2B0FB	𫃻	xpwk	xpwk
-2B0FC	𫃼	xouf	xouf
-2B0FD	𫃽	xfvg	xfvg
-2B0FE	𫃾	xagy	xffs
-2B0FF	𫃿	xefy	xegy
-2B100	𫄀	xpff	xpff
-2B101	𫄁	xaje	xaje
-2B102	𫄂	xith	xitg
-2B103	𫄃	xybt	xybt
-2B104	𫄄	xnov	xnov
-2B105	𫄅	xdgt	xdgn
-2B106	𫄆	xdyf	xdyf
-2B107	𫄇	xfal	xfal
-2B108	𫄈	xaik	xaik
-2B109	𫄉	xkhk	xkhk
-2B10A	𫄊	xiyi	xiyi
-2B10B	𫄋	xyff	xyff
-2B10C	𫄌	xkhv	xkhv
-2B10D	𫄍	ximo	xiwo
-2B10E	𫄎	xnlv	xnlv
-2B10F	𫄏	xtdt	xtdk
-2B110	𫄐	xwvd	xwvd
-2B111	𫄑	xwyv	xwyv
-2B112	𫄒	xist	xist
-2B113	𫄓	xlfd	xlfd
-2B114	𫄔	xiuo	xiuw
-2B115	𫄕	xlhi	xlhi
-2B116	𫄖	xidl	xidl
-2B117	𫄗	xiio	xiio
-2B118	𫄘	xtei	xtei
-2B119	𫄙	xnn	xnn
-2B11A	𫄚	xgxg	xgxg
-2B11B	𫄛	xwyn	xwyn
-2B11C	𫄜	xtfn	xen
-2B11D	𫄝	xxhh	xxhh
-2B11E	𫄞	xgig	xdhg
-2B11F	𫄟	xtbn	xtbn
-2B120	𫄠	xgjg	xgjg
-2B121	𫄡	xmgk	xmgk
-2B122	𫄢	xwdy	xwdy
-2B123	𫄣	xpey	xpey
-2B124	𫄤	xdpy	xdpy
-2B125	𫄥	xgmy	xgmy
-2B126	𫄦	xfcl	xfce
-2B127	𫄧	xthp	xthp
-2B128	𫄨	xqdh	xrdh
-2B129	𫄩	xtxu	xtxy
-2B12A	𫄪	xfue	xfue
-2B12B	𫄫	xynd	xynd
-2B12C	𫄬	xans	xans
-2B12D	𫄭	xtjt	xtjt
-2B12E	𫄮	xecl	xbcl
-2B12F	𫄯	xlwt	xlwt
-2B130	𫄰	xupy	xyuy
-2B131	𫄱	xfuk	xfuk
-2B132	𫄲	xajd	xajd
-2B133	𫄳	xthh	xthh
-2B134	𫄴	xyxf	xyxf
-2B135	𫄵	xfke	xfke
-2B136	𫄶	xxkj	xxkj
-2B137	𫄷	xujn	xujn
-2B138	𫄸	xtgo	xtgo
-2B139	𫄹	xmwk	xmwk
-2B13A	𫄺	rmkf	tfbf
-2B13B	𫄻	rmwy	tfby
-2B13C	𫄼	rmas	tfbs
-2B13D	𫄽	vhgm	vhgb
-2B13E	𫄾	rmem	tfbb
-2B13F	𫄿	aqkm	aqkb
-2B140	𫅀	lfnb	lfnb
-2B141	𫅁	lwxb	lwxb
-2B142	𫅂	ldf	ldf
-2B143	𫅃	pqjj	pqjj
-2B144	𫅄	liqb	lqiu
-2B145	𫅅	lyjj	lyjj
-2B146	𫅆	mqqv	mrrv
-2B147	𫅇	lqf	lqf
-2B148	𫅈	lxxw	lxxw
-2B149	𫅉	lsgn	lsgn
-2B14A	𫅊	lkfk	lkfk
-2B14B	𫅋	lwgj	lwgj
-2B14C	𫅌	lfuf	lfuf
-2B14D	𫅍	lued	lumd
-2B14E	𫅎	udbj	ubk
-2B14F	𫅏	uggh	uggh
-2B150	𫅐	udmd	umdy
-2B151	𫅑	udjg	ujgg
-2B152	𫅒	udna	unan
-2B153	𫅓	udud	uuj
-2B154	𫅔	udve	uvy
-2B155	𫅕	udda	udqy
-2B156	𫅖	ugdk	ugdk
-2B157	𫅗	udfm	ufam
-2B158	𫅘	ugak	ugfk
-2B159	𫅙	udmj	umuj
-2B15A	𫅚	ugdi	ugdi
-2B15B	𫅛	udme	umee
-2B15C	𫅜	wyck	wyck
-2B15D	𫅝	ugdg	ugdg
-2B15E	𫅞	gvck	gvuk
-2B15F	𫅟	ugdc	ugdc
-2B160	𫅠	ugds	ugds
-2B161	𫅡	udnk	unhk
-2B162	𫅢	fnf	fnf
-2B163	𫅣	fqnd	fqng
-2B164	𫅤	nwgc	nwgc
-2B165	𫅥	mnng	mnng
-2B166	𫅦	ubtn	ubtn
-2B167	𫅧	nudh	nuh
-2B168	𫅨	nlj	nlj
-2B169	𫅩	ngjq	nrnr
-2B16A	𫅪	ndjd	ntdd
-2B16B	𫅫	rdfn	rdfr
-2B16C	𫅬	ujng	ujnr
-2B16D	𫅭	prgn	prwn
-2B16E	𫅮	nujn	nrnn
-2B16F	𫅯	ngkp	nrnp
-2B170	𫅰	djdn	hdhr
-2B171	𫅱	thun	thun
-2B172	𫅲	ntun	nrnn
-2B173	𫅳	ftxx	ftxx
-2B174	𫅴	ftxc	ftxc
-2B175	𫅵	ftxt	ftxt
-2B176	𫅶	ftxy	ftxj
-2B177	𫅷	awsx	awsx
-2B178	𫅸	ftxo	ftxw
-2B179	𫅹	tfil	tflg
-2B17A	𫅺	tfij	tfdj
-2B17B	𫅻	tfia	tfma
-2B17C	𫅼	tfip	tflp
-2B17D	𫅽	tfij	tfdj
-2B17E	𫅾	tfil	tfql
-2B17F	𫅿	tfim	tfxm
-2B180	𫆀	bbh	bbh
-2B181	𫆁	bqwy	bqwy
-2B182	𫆂	bwgg	btyg
-2B183	𫆃	nhtb	hghb
-2B184	𫆄	bdgn	bdgn
-2B185	𫆅	bktf	bktf
-2B186	𫆆	bctd	bctd
-2B187	𫆇	besy	besy
-2B188	𫆈	rntb	rntb
-2B189	𫆉	tobf	tobf
-2B18A	𫆊	bamw	bamw
-2B18B	𫆋	bgkh	bgkh
-2B18C	𫆌	buwl	buwl
-2B18D	𫆍	bgve	bgve
-2B18E	𫆎	thhb	thhb
-2B18F	𫆏	ilrb	ilrb
-2B190	𫆐	bkkf	bkkf
-2B191	𫆑	bwgj	bwgj
-2B192	𫆒	bpqn	bpqn
-2B193	𫆓	bgke	bgke
-2B194	𫆔	xfih	xfig
-2B195	𫆕	dfih	dfig
-2B196	𫆖	efyy	mufy
-2B197	𫆗	eqbh	muqb
-2B198	𫆘	efyy	eghy
-2B199	𫆙	ipef	ipmu
-2B19A	𫆚	emg	mumg
-2B19B	𫆛	eway	eway
-2B19C	𫆜	mwwx	mwwx
-2B19D	𫆝	euft	muut
-2B19E	𫆞	evag	muva
-2B19F	𫆟	eipl	eipe
-2B1A0	𫆠	eudj	eugj
-2B1A1	𫆡	yceh	yceh
-2B1A2	𫆢	fwte	fwte
-2B1A3	𫆣	eldg	eldg
-2B1A4	𫆤	eqg	eqg
-2B1A5	𫆥	yneq	yneq
-2B1A6	𫆦	eith	muih
-2B1A7	𫆧	etvh	mutg
-2B1A8	𫆨	euej	euej
-2B1A9	𫆩	ekkp	ekkp
-2B1AA	𫆪	elqt	elqt
-2B1AB	𫆫	mwwc	mwwc
-2B1AC	𫆬	idfe	idfe
-2B1AD	𫆭	mwwp	mwwp
-2B1AE	𫆮	ebti	mubi
-2B1AF	𫆯	egwt	eghq
-2B1B0	𫆰	gqtw	gqtw
-2B1B1	𫆱	esrc	esrc
-2B1B2	𫆲	eafb	muab
-2B1B3	𫆳	ejlc	mujc
-2B1B4	𫆴	pnte	pntu
-2B1B5	𫆵	egjn	mugn
-2B1B6	𫆶	hjye	fjye
-2B1B7	𫆷	eyfx	eyfx
-2B1B8	𫆸	mwwf	mwwf
-2B1B9	𫆹	eadi	effi
-2B1BA	𫆺	mwwh	mwwh
-2B1BB	𫆻	exjq	muxq
-2B1BC	𫆼	eauy	efyy
-2B1BD	𫆽	ycex	ycex
-2B1BE	𫆾	eafy	effy
-2B1BF	𫆿	leop	leop
-2B1C0	𫇀	edth	edth
-2B1C1	𫇁	etgq	mutq
-2B1C2	𫇂	ngcb	ngcb
-2B1C3	𫇃	egmx	egmx
-2B1C4	𫇄	ycee	ycee
-2B1C5	𫇅	ahnr	ahnr
-2B1C6	𫇆	ahnh	ahnh
-2B1C7	𫇇	ahnt	ahny
-2B1C8	𫇈	ahnf	ahnf
-2B1C9	𫇉	ahnm	ahnw
-2B1CA	𫇊	thpb	thpb
-2B1CB	𫇋	thri	thri
-2B1CC	𫇌	thdn	thdn
-2B1CD	𫇍	thdl	thdl
-2B1CE	𫇎	gcfi	gcfk
-2B1CF	𫇏	gcfw	gcfw
-2B1D0	𫇐	gcfg	gcfg
-2B1D1	𫇑	gcft	gcft
-2B1D2	𫇒	swwv	swwe
-2B1D3	𫇓	wfsg	essg
-2B1D4	𫇔	fkmn	fkwn
-2B1D5	𫇕	wfkg	wfkg
-2B1D6	𫇖	tdyk	tdyk
-2B1D7	𫇗	fkuo	fkuw
-2B1D8	𫇘	tdgm	tdsm
-2B1D9	𫇙	wfkl	wfkl
-2B1DA	𫇚	tetf	tutf
-2B1DB	𫇛	tehl	tuhe
-2B1DC	𫇜	teak	tufk
-2B1DD	𫇝	tenc	tunc
-2B1DE	𫇞	tejc	tujc
-2B1DF	𫇟	tedn	tuhn
-2B1E0	𫇠	teff	tuff
-2B1E1	𫇡	teai	tual
-2B1E2	𫇢	teut	tuuy
-2B1E3	𫇣	teut	tuuy
-2B1E4	𫇤	fclc	fclc
-2B1E5	𫇥	uhu	uhu
-2B1E6	𫇦	apb	apb
-2B1E7	𫇧	awnb	ffwn
-2B1E8	𫇨	akj	ffkj
-2B1E9	𫇩	agf	ffgf
-2B1EA	𫇪	amqu	amru
-2B1EB	𫇫	awqu	ffwr
-2B1EC	𫇬	aqqu	ffqr
-2B1ED	𫇭	ayly	ayey
-2B1EE	𫇮	aant	ffan
-2B1EF	𫇯	akgn	ffkn
-2B1F0	𫇰	ahjf	ffhj
-2B1F1	𫇱	awbf	ffwb
-2B1F2	𫇲	awff	fftf
-2B1F3	𫇳	awhf	ffwh
-2B1F4	𫇴	aqvf	aqvf
-2B1F5	𫇵	aveb	ffvb
-2B1F6	𫇶	agmf	ffgf
-2B1F7	𫇷	aftn	fffn
-2B1F8	𫇸	atj	ffth
-2B1F9	𫇹	awxw	ffww
-2B1FA	𫇺	ayff	ffof
-2B1FB	𫇻	aibb	ffib
-2B1FC	𫇼	aimy	ffiy
-2B1FD	𫇽	apeu	apeu
-2B1FE	𫇾	aiff	ffif
-2B1FF	𫇿	agki	ffsk
-2B200	𫈀	akqw	ffkw
-2B201	𫈁	alfj	fflj
-2B202	𫈂	amtu	ffmt
-2B203	𫈃	aqtg	aqtg
-2B204	𫈄	awnw	ffww
-2B205	𫈅	awwk	ffwk
-2B206	𫈆	awlk	ffwk
-2B207	𫈇	arxb	ffrx
-2B208	𫈈	awdk	awdk
-2B209	𫈉	aujf	aujf
-2B20A	𫈊	aiyb	ffiy
-2B20B	𫈋	ayxx	ffox
-2B20C	𫈌	apfw	ffpg
-2B20D	𫈍	anhu	ffnu
-2B20E	𫈎	acal	acae
-2B20F	𫈏	acej	aceh
-2B210	𫈐	afuf	ffff
-2B211	𫈑	agyu	ffgy
-2B212	𫈒	ageu	ffge
-2B213	𫈓	agah	ffgy
-2B214	𫈔	ajqf	ffjf
-2B215	𫈕	akib	ffkb
-2B216	𫈖	aqju	ffqj
-2B217	𫈗	atkf	fftk
-2B218	𫈘	awyv	awuv
-2B219	𫈙	atgy	atgy
-2B21A	𫈚	aytu	ffyt
-2B21B	𫈛	apmf	ffom
-2B21C	𫈜	aimf	ffim
-2B21D	𫈝	annu	ffnn
-2B21E	𫈞	aiyx	ffix
-2B21F	𫈟	abai	abai
-2B220	𫈠	alkf	ffef
-2B221	𫈡	agmp	fgmp
-2B222	𫈢	adjb	ffdb
-2B223	𫈣	albb	fflb
-2B224	𫈤	agvi	ffgi
-2B225	𫈥	assk	assk
-2B226	𫈦	amwt	ffmd
-2B227	𫈧	ajmy	ffjy
-2B228	𫈨	alwj	alwj
-2B229	𫈩	ajfb	ajfb
-2B22A	𫈪	awxi	awxs
-2B22B	𫈫	atdw	fftw
-2B22C	𫈬	apwn	ffpn
-2B22D	𫈭	aiud	ffiu
-2B22E	𫈮	ayeu	ffye
-2B22F	𫈯	augy	ffuy
-2B230	𫈰	aiwk	aiwk
-2B231	𫈱	ayde	ffye
-2B232	𫈲	ainf	ainf
-2B233	𫈳	aiii	ffii
-2B234	𫈴	awga	ffwa
-2B235	𫈵	axqc	axqc
-2B236	𫈶	agme	ffge
-2B237	𫈷	asmk	ffsk
-2B238	𫈸	adun	ffdn
-2B239	𫈹	adlj	ffdl
-2B23A	𫈺	asyw	asyw
-2B23B	𫈻	adfy	adfy
-2B23C	𫈼	aldt	ffld
-2B23D	𫈽	alfo	fflo
-2B23E	𫈾	awhh	ffwh
-2B23F	𫈿	awnc	fftc
-2B240	𫉀	arno	ffro
-2B241	𫉁	aepc	aepc
-2B242	𫉂	apjs	ffps
-2B243	𫉃	aitj	ffij
-2B244	𫉄	ayfj	ayfj
-2B245	𫉅	avkn	avkn
-2B246	𫉆	alle	ffeu
-2B247	𫉇	axic	ffxc
-2B248	𫉈	agkr	ffsr
-2B249	𫉉	aalw	ffaw
-2B24A	𫉊	afwy	fffy
-2B24B	𫉋	agtj	agtj
-2B24C	𫉌	adfn	ffdn
-2B24D	𫉍	afwt	fffq
-2B24E	𫉎	asgk	asgk
-2B24F	𫉏	aakc	aakc
-2B250	𫉐	gjgy	hghy
-2B251	𫉑	aufj	ffuf
-2B252	𫉒	aiph	ffih
-2B253	𫉓	umhi	umhj
-2B254	𫉔	awnh	ffwg
-2B255	𫉕	awsk	awsk
-2B256	𫉖	aefb	ffeb
-2B257	𫉗	aifu	ffif
-2B258	𫉘	ayvh	ffoh
-2B259	𫉙	aiqo	ffio
-2B25A	𫉚	ayyn	ayyn
-2B25B	𫉛	abtv	ffbv
-2B25C	𫉜	axfm	ffxm
-2B25D	𫉝	aggn	ffgn
-2B25E	𫉞	akkf	ffkf
-2B25F	𫉟	aqqf	ffqf
-2B260	𫉠	awfb	ffwb
-2B261	𫉡	aeyf	aeyf
-2B262	𫉢	arrk	ffrk
-2B263	𫉣	aide	ffiu
-2B264	𫉤	abjr	abjr
-2B265	𫉥	afwl	afqe
-2B266	𫉦	agqt	agqt
-2B267	𫉧	ajto	ajto
-2B268	𫉨	ajmc	ffjc
-2B269	𫉩	akwo	akqo
-2B26A	𫉪	atxt	atxt
-2B26B	𫉫	awfh	ffwh
-2B26C	𫉬	aqtc	aqtc
-2B26D	𫉭	aufq	ffuq
-2B26E	𫉮	aujw	ffuw
-2B26F	𫉯	aiwc	aiwc
-2B270	𫉰	aigl	ffil
-2B271	𫉱	aoge	aogv
-2B272	𫉲	apff	apaf
-2B273	𫉳	ackc	ackc
-2B274	𫉴	annj	annj
-2B275	𫉵	afce	afce
-2B276	𫉶	gjgl	hghl
-2B277	𫉷	afuf	ffff
-2B278	𫉸	askw	askw
-2B279	𫉹	asrf	ffsf
-2B27A	𫉺	aahi	aahi
-2B27B	𫉻	ajsb	ffjb
-2B27C	𫉼	aldh	aldh
-2B27D	𫉽	gjgp	hghp
-2B27E	𫉾	gjgb	hghb
-2B27F	𫉿	gjgi	hghi
-2B280	𫊀	apwg	ffpg
-2B281	𫊁	ainf	ainf
-2B282	𫊂	ayyf	ayyf
-2B283	𫊃	gjgk	hghk
-2B284	𫊄	axil	ffxl
-2B285	𫊅	ajmi	ajmf
-2B286	𫊆	atdc	atdc
-2B287	𫊇	atfk	fftk
-2B288	𫊈	awfh	awfg
-2B289	𫊉	aihh	aihh
-2B28A	𫊊	aode	aodu
-2B28B	𫊋	aiws	ffis
-2B28C	𫊌	aglo	aglo
-2B28D	𫊍	aann	aann
-2B28E	𫊎	awnf	atnf
-2B28F	𫊏	atlf	atlf
-2B290	𫊐	adfq	adfq
-2B291	𫊑	adtl	ffdl
-2B292	𫊒	aqof	ffqf
-2B293	𫊓	aiao	ffio
-2B294	𫊔	afto	afto
-2B295	𫊕	atft	ffty
-2B296	𫊖	aeyj	ffej
-2B297	𫊗	aahl	ffal
-2B298	𫊘	ajah	ffjh
-2B299	𫊙	aqgf	aqgf
-2B29A	𫊚	arii	arik
-2B29B	𫊛	akhb	akhb
-2B29C	𫊜	allg	allg
-2B29D	𫊝	hakd	hkd
-2B29E	𫊞	havd	hvd
-2B29F	𫊟	hatf	htfd
-2B2A0	𫊠	hamh	hwtg
-2B2A1	𫊡	hath	hthd
-2B2A2	𫊢	hayj	hyjd
-2B2A3	𫊣	haqo	hqoi
-2B2A4	𫊤	jxn	jxn
-2B2A5	𫊥	jfg	jfg
-2B2A6	𫊦	juhh	juhh
-2B2A7	𫊧	javn	javt
-2B2A8	𫊨	jrnn	jrn
-2B2A9	𫊩	jeyy	jbyy
-2B2AA	𫊪	jtay	jtay
-2B2AB	𫊫	cuju	cuju
-2B2AC	𫊬	jmdy	jmdy
-2B2AD	𫊭	mdju	mdju
-2B2AE	𫊮	jhnt	jhnt
-2B2AF	𫊯	jtuh	jtuh
-2B2B0	𫊰	jqhy	jqhy
-2B2B1	𫊱	qiju	qiju
-2B2B2	𫊲	cdju	cdju
-2B2B3	𫊳	jgkq	jgkr
-2B2B4	𫊴	jrta	jrta
-2B2B5	𫊵	jffy	jffy
-2B2B6	𫊶	jiqn	jigq
-2B2B7	𫊷	jqsy	hrsy
-2B2B8	𫊸	jtdj	jtdj
-2B2B9	𫊹	jwfc	jwfc
-2B2BA	𫊺	jxiy	jxiy
-2B2BB	𫊻	jvfy	jvfy
-2B2BC	𫊼	nju	nju
-2B2BD	𫊽	jkqj	jkqj
-2B2BE	𫊾	jtmt	jtmt
-2B2BF	𫊿	jwca	jwca
-2B2C0	𫋀	jpsy	jpsy
-2B2C1	𫋁	juh	juh
-2B2C2	𫋂	jgvv	jgvv
-2B2C3	𫋃	jfy	jfy
-2B2C4	𫋄	jrgb	jrbh
-2B2C5	𫋅	jryp	jrpy
-2B2C6	𫋆	jqg	jqg
-2B2C7	𫋇	jqys	jqsy
-2B2C8	𫋈	jrny	jrny
-2B2C9	𫋉	yntj	ftyj
-2B2CA	𫋊	gkmj	gkmj
-2B2CB	𫋋	jgil	jdhl
-2B2CC	𫋌	jwam	jwam
-2B2CD	𫋍	jptk	jptk
-2B2CE	𫋎	juth	juth
-2B2CF	𫋏	jdfk	jdfk
-2B2D0	𫋐	jamy	jamy
-2B2D1	𫋑	jgyg	jgtg
-2B2D2	𫋒	dcjj	dcjj
-2B2D3	𫋓	jawk	jffk
-2B2D4	𫋔	jyxf	jyxf
-2B2D5	𫋕	jpey	jpge
-2B2D6	𫋖	jgkj	jgkj
-2B2D7	𫋗	jiwy	jiwy
-2B2D8	𫋘	jxil	jxil
-2B2D9	𫋙	jxcj	jxcj
-2B2DA	𫋚	jfkf	jfkf
-2B2DB	𫋛	jage	jffe
-2B2DC	𫋜	jelf	jelf
-2B2DD	𫋝	jwys	jwys
-2B2DE	𫋞	jwgn	jwgr
-2B2DF	𫋟	jahl	jahl
-2B2E0	𫋠	jmau	jmau
-2B2E1	𫋡	ynjj	ognj
-2B2E2	𫋢	jnup	jnup
-2B2E3	𫋣	jadj	jdwj
-2B2E4	𫋤	jfnf	jfnf
-2B2E5	𫋥	jooe	jooe
-2B2E6	𫋦	jfhc	jfhc
-2B2E7	𫋧	jyaw	joaw
-2B2E8	𫋨	jygi	jysl
-2B2E9	𫋩	jhqo	jhqo
-2B2EA	𫋪	tlxx	tlxx
-2B2EB	𫋫	dwtl	dwtl
-2B2EC	𫋬	tluj	tluj
-2B2ED	𫋭	tmdh	tmds
-2B2EE	𫋮	tfkh	tfks
-2B2EF	𫋯	trgh	trgs
-2B2F0	𫋰	ttdh	ttds
-2B2F1	𫋱	tmmh	tmms
-2B2F2	𫋲	puaq	puar
-2B2F3	𫋳	puyn	puyt
-2B2F4	𫋴	uyeu	uyeu
-2B2F5	𫋵	pujh	pujh
-2B2F6	𫋶	puvh	puvh
-2B2F7	𫋷	puch	pucg
-2B2F8	𫋸	pude	pude
-2B2F9	𫋹	puaq	puaq
-2B2FA	𫋺	puiq	puqi
-2B2FB	𫋻	puwc	puwc
-2B2FC	𫋼	puxi	puxi
-2B2FD	𫋽	puqe	puqf
-2B2FE	𫋾	pudn	pudn
-2B2FF	𫋿	pust	pust
-2B300	𫌀	pugm	pugm
-2B301	𫌁	pufn	pufn
-2B302	𫌂	putv	putv
-2B303	𫌃	puth	puth
-2B304	𫌄	pucd	pucd
-2B305	𫌅	pujr	pujr
-2B306	𫌆	puvc	puec
-2B307	𫌇	pubc	pubc
-2B308	𫌈	puwm	puqm
-2B309	𫌉	puuo	puuo
-2B30A	𫌊	puaf	pudf
-2B30B	𫌋	puju	puju
-2B30C	𫌌	pumi	pumi
-2B30D	𫌍	tdje	tdje
-2B30E	𫌎	ewke	ewke
-2B30F	𫌏	nhde	uqfe
-2B310	𫌐	puft	pufn
-2B311	𫌑	puuj	puuj
-2B312	𫌒	puxq	puxq
-2B313	𫌓	pumu	pumu
-2B314	𫌔	puvd	puvu
-2B315	𫌕	pudh	pudh
-2B316	𫌖	pufl	pugl
-2B317	𫌗	puyf	puyf
-2B318	𫌘	puoc	puoc
-2B319	𫌙	putj	putj
-2B31A	𫌚	sty	sty
-2B31B	𫌛	smth	smth
-2B31C	𫌜	hqvd	hqvd
-2B31D	𫌝	hqkq	hqkq
-2B31E	𫌞	shqb	shqb
-2B31F	𫌟	gaeq	gaeq
-2B320	𫌠	wsgq	wsgq
-2B321	𫌡	fwfq	gghq
-2B322	𫌢	hqff	hqff
-2B323	𫌣	hqas	hqas
-2B324	𫌤	fnmq	fnwq
-2B325	𫌥	vhqq	vvhq
-2B326	𫌦	tfqq	tfqq
-2B327	𫌧	hqym	hqym
-2B328	𫌨	qimq	qimq
-2B329	𫌩	mqqk	mqqk
-2B32A	𫌪	remq	remq
-2B32B	𫌫	gliq	slmq
-2B32C	𫌬	sfiq	sfiq
-2B32D	𫌭	mqtt	mqtt
-2B32E	𫌮	qedn	qmfn
-2B32F	𫌯	qetj	qetj
-2B330	𫌰	qejr	qejr
-2B331	𫌱	qenh	qmfg
-2B332	𫌲	yaj	yaj
-2B333	𫌳	yvg	yvg
-2B334	𫌴	yyy	yyy
-2B335	𫌵	ccyf	ccyf
-2B336	𫌶	ygig	ydhg
-2B337	𫌷	jnyd	jnyd
-2B338	𫌸	wayf	wayy
-2B339	𫌹	ycyg	ycyg
-2B33A	𫌺	syf	syf
-2B33B	𫌻	yyey	yyey
-2B33C	𫌼	ylh	ylh
-2B33D	𫌽	yevg	yevg
-2B33E	𫌾	ytxi	ytxi
-2B33F	𫌿	ygvv	ygvv
-2B340	𫍀	yqg	yqg
-2B341	𫍁	yakh	takh
-2B342	𫍂	yith	yith
-2B343	𫍃	ycel	ycee
-2B344	𫍄	ynuh	ynuh
-2B345	𫍅	ycbs	ycns
-2B346	𫍆	yrvn	ytgn
-2B347	𫍇	ypwk	ypwk
-2B348	𫍈	ypqv	tpqe
-2B349	𫍉	yssy	yssy
-2B34A	𫍊	yahf	yahf
-2B34B	𫍋	yukg	tukg
-2B34C	𫍌	ycep	ycep
-2B34D	𫍍	yafy	yfsy
-2B34E	𫍎	ykbt	ykby
-2B34F	𫍏	ynty	ynty
-2B350	𫍐	hidy	hhdy
-2B351	𫍑	yywy	yowy
-2B352	𫍒	ypxm	ypxm
-2B353	𫍓	yuto	yutw
-2B354	𫍔	yhaa	yhga
-2B355	𫍕	yntw	yntw
-2B356	𫍖	ynlw	ynrw
-2B357	𫍗	yecu	yecu
-2B358	𫍘	ynfj	ynhj
-2B359	𫍙	ybn	ybn
-2B35A	𫍚	ytdy	ytdy
-2B35B	𫍛	ywvn	ywvt
-2B35C	𫍜	yfcy	yfcy
-2B35D	𫍝	yanw	yanw
-2B35E	𫍞	ytuh	ytuh
-2B35F	𫍟	ytbn	ytbn
-2B360	𫍠	yqbn	yqbn
-2B361	𫍡	ypxn	ypxn
-2B362	𫍢	yatq	yatq
-2B363	𫍣	ymgk	ymgk
-2B364	𫍤	ytdj	ytdj
-2B365	𫍥	yiqn	yqiy
-2B366	𫍦	ypey	ypey
-2B367	𫍧	ygoy	ygus
-2B368	𫍨	ydfe	ydfe
-2B369	𫍩	ykmw	ykmw
-2B36A	𫍪	ynny	ynny
-2B36B	𫍫	ydjn	ydjn
-2B36C	𫍬	ymun	ymun
-2B36D	𫍭	yuvg	yuvg
-2B36E	𫍮	ynbm	ynbm
-2B36F	𫍯	ydgt	ydgk
-2B370	𫍰	ylny	ylny
-2B371	𫍱	ymdj	ymdj
-2B372	𫍲	yvhc	yehc
-2B373	𫍳	ytgf	ytgf
-2B374	𫍴	yovg	yovg
-2B375	𫍵	ygqt	ygqt
-2B376	𫍶	ygct	ygct
-2B377	𫍷	yrqc	yrqc
-2B378	𫍸	yynn	yynn
-2B379	𫍹	yhag	yheg
-2B37A	𫍺	ytlt	ytlt
-2B37B	𫍻	yfkk	yfkk
-2B37C	𫍼	yujf	yujf
-2B37D	𫍽	ylge	ylge
-2B37E	𫍾	ypns	ypns
-2B37F	𫍿	yuen	yuen
-2B380	𫎀	wwkw	wwkw
-2B381	𫎁	fjwk	fjwk
-2B382	𫎂	tvwk	tvwk
-2B383	𫎃	ywfu	owfu
-2B384	𫎄	gkus	gkus
-2B385	𫎅	egf	gegf
-2B386	𫎆	ewwy	geww
-2B387	𫎇	opge	opfe
-2B388	𫎈	eedy	geed
-2B389	𫎉	sfie	sfie
-2B38A	𫎊	eeay	eayy
-2B38B	𫎋	eede	edeg
-2B38C	𫎌	eeov	eovg
-2B38D	𫎍	eedn	edan
-2B38E	𫎎	hmhh	hmhh
-2B38F	𫎏	mgfh	mgfh
-2B390	𫎐	mtnn	mtnn
-2B391	𫎑	mqhh	mqhh
-2B392	𫎒	myn	myt
-2B393	𫎓	mpgg	mpgg
-2B394	𫎔	wfmu	wfmy
-2B395	𫎕	mgmh	mymh
-2B396	𫎖	mwgk	mwgk
-2B397	𫎗	mgik	mdhk
-2B398	𫎘	rrmu	rrmu
-2B399	𫎙	mukq	mukq
-2B39A	𫎚	lmqh	lmqh
-2B39B	𫎛	qaqm	qaqm
-2B39C	𫎜	fitm	ftmu
-2B39D	𫎝	mxxr	mxxr
-2B39E	𫎞	mnhh	mnkg
-2B39F	𫎟	mftj	mftj
-2B3A0	𫎠	ynam	ynam
-2B3A1	𫎡	ahnm	ahnm
-2B3A2	𫎢	myin	myiy
-2B3A3	𫎣	gcly	gclr
-2B3A4	𫎤	wvmm	wvmm
-2B3A5	𫎥	jvdm	jvdm
-2B3A6	𫎦	mdxt	mdxy
-2B3A7	𫎧	mqkg	mqkg
-2B3A8	𫎨	mwgi	mwgg
-2B3A9	𫎩	mpws	mpws
-2B3AA	𫎪	musy	musy
-2B3AB	𫎫	msjh	msjh
-2B3AC	𫎬	ujam	ujam
-2B3AD	𫎭	foca	foca
-2B3AE	𫎮	fogf	fogf
-2B3AF	𫎯	foaj	foaj
-2B3B0	𫎰	foxl	foxl
-2B3B1	𫎱	fhdl	fhde
-2B3B2	𫎲	fhfi	fhfi
-2B3B3	𫎳	fhxf	fhxf
-2B3B4	𫎴	fhmk	fhmk
-2B3B5	𫎵	fhdq	fhdq
-2B3B6	𫎶	fhai	fhai
-2B3B7	𫎷	fhbi	fhbi
-2B3B8	𫎸	fhlr	fhlr
-2B3B9	𫎹	fhjf	fhjf
-2B3BA	𫎺	fhce	fhce
-2B3BB	𫎻	fhjg	fhjg
-2B3BC	𫎼	fhnv	fhnv
-2B3BD	𫎽	fhfl	fhfl
-2B3BE	𫎾	fhsb	fhsb
-2B3BF	𫎿	fhdq	fhdr
-2B3C0	𫏀	khfy	khfy
-2B3C1	𫏁	khgu	khgu
-2B3C2	𫏂	khty	khty
-2B3C3	𫏃	khty	khty
-2B3C4	𫏄	khaf	khfg
-2B3C5	𫏅	khmd	khmd
-2B3C6	𫏆	khny	khny
-2B3C7	𫏇	khaw	khaw
-2B3C8	𫏈	khiq	khiq
-2B3C9	𫏉	khqk	khqk
-2B3CA	𫏊	khwf	khwf
-2B3CB	𫏋	khtj	khtj
-2B3CC	𫏌	khgo	khgs
-2B3CD	𫏍	khnt	khnt
-2B3CE	𫏎	khvq	khvq
-2B3CF	𫏏	khge	khge
-2B3D0	𫏐	lrkh	lrkh
-2B3D1	𫏑	khlq	khlq
-2B3D2	𫏒	khwc	khwc
-2B3D3	𫏓	khtx	khtx
-2B3D4	𫏔	dmjh	dljh
-2B3D5	𫏕	lcah	lcah
-2B3D6	𫏖	khec	khec
-2B3D7	𫏗	khwc	khtc
-2B3D8	𫏘	khil	khil
-2B3D9	𫏙	khrv	khrv
-2B3DA	𫏚	khwk	khwk
-2B3DB	𫏛	khyh	khoh
-2B3DC	𫏜	khlg	khlg
-2B3DD	𫏝	khog	khog
-2B3DE	𫏞	khor	khor
-2B3DF	𫏟	khul	khue
-2B3E0	𫏠	khjq	khjq
-2B3E1	𫏡	khqe	khqe
-2B3E2	𫏢	khte	khte
-2B3E3	𫏣	khgg	khgg
-2B3E4	𫏤	khye	khoe
-2B3E5	𫏥	khyn	khyn
-2B3E6	𫏦	khvh	khvg
-2B3E7	𫏧	khfj	khfj
-2B3E8	𫏨	khqd	khqu
-2B3E9	𫏩	khkp	khkp
-2B3EA	𫏪	tmdj	tmdj
-2B3EB	𫏫	tmda	tmda
-2B3EC	𫏬	tmdt	tmdt
-2B3ED	𫏭	tmdt	tmdt
-2B3EE	𫏮	tmdp	tmdp
-2B3EF	𫏯	tmdc	tmdc
-2B3F0	𫏰	tmdu	tmdu
-2B3F1	𫏱	tmdj	tmdj
-2B3F2	𫏲	lfnn	lfnn
-2B3F3	𫏳	lat	lay
-2B3F4	𫏴	lrg	lrg
-2B3F5	𫏵	bilj	bilj
-2B3F6	𫏶	ldww	ldww
-2B3F7	𫏷	lhfg	lhfg
-2B3F8	𫏸	lqdn	lqdn
-2B3F9	𫏹	ltfh	ltgg
-2B3FA	𫏺	lefc	legc
-2B3FB	𫏻	ovlh	ovlh
-2B3FC	𫏼	fwfl	ggpl
-2B3FD	𫏽	ujnl	ujnl
-2B3FE	𫏾	lltk	lltk
-2B3FF	𫏿	ltfl	ltfl
-2B400	𫐀	lias	lias
-2B401	𫐁	gjhl	gjgl
-2B402	𫐂	plvl	plvl
-2B403	𫐃	llel	llel
-2B404	𫐄	lgqn	lgqn
-2B405	𫐅	lmh	lmh
-2B406	𫐆	ldln	ldet
-2B407	𫐇	lmwy	lmwy
-2B408	𫐈	ldcy	ldcy
-2B409	𫐉	lwyc	lwyc
-2B40A	𫐊	cdlj	cdlj
-2B40B	𫐋	rvyl	rvyl
-2B40C	𫐌	luah	luah
-2B40D	𫐍	ltmt	ltmt
-2B40E	𫐎	ldsk	ldsk
-2B40F	𫐏	lmfk	lmfk
-2B410	𫐐	lvqn	leqn
-2B411	𫐑	lpnn	lpng
-2B412	𫐒	lqyg	lqyg
-2B413	𫐓	lcbs	lcns
-2B414	𫐔	lfcl	lfcl
-2B415	𫐕	ldhv	ldhv
-2B416	𫐖	lnwe	lnwe
-2B417	𫐗	logy	loug
-2B418	𫐘	ldgn	ldgn
-2B419	𫐙	llll	llll
-2B41A	𫐚	usnn	usnn
-2B41B	𫐛	ugmi	usmn
-2B41C	𫐜	ucny	ucny
-2B41D	𫐝	uyyw	uyyw
-2B41E	𫐞	hypk	hpk
-2B41F	𫐟	api	aypi
-2B420	𫐠	spi	spi
-2B421	𫐡	wgnp	wgnp
-2B422	𫐢	dpd	dpd
-2B423	𫐣	gmwp	gmwp
-2B424	𫐤	ysyp	ospk
-2B425	𫐥	ftxp	ftxp
-2B426	𫐦	dqpv	dqpv
-2B427	𫐧	rfwp	rgpi
-2B428	𫐨	fopi	fopi
-2B429	𫐩	wwfp	wwfp
-2B42A	𫐪	lqip	eqip
-2B42B	𫐫	fqqp	fqqp
-2B42C	𫐬	agfp	ffgp
-2B42D	𫐭	evhp	evhp
-2B42E	𫐮	wgmp	wgmp
-2B42F	𫐯	vwyp	ewpi
-2B430	𫐰	vqpv	eqpv
-2B431	𫐱	pfip	pfip
-2B432	𫐲	pghp	pghp
-2B433	𫐳	ehfd	ehfu
-2B434	𫐴	ewyp	gewp
-2B435	𫐵	topi	topi
-2B436	𫐶	qkqp	qkqp
-2B437	𫐷	ovpd	ovpd
-2B438	𫐸	pahp	pnpd
-2B439	𫐹	nhyp	nhpd
-2B43A	𫐺	rvnp	rvnp
-2B43B	𫐻	qbtp	qbtp
-2B43C	𫐼	upyp	yupp
-2B43D	𫐽	oitp	oitp
-2B43E	𫐾	egip	gedp
-2B43F	𫐿	gkip	skep
-2B440	𫑀	jfhp	jggp
-2B441	𫑁	qtdp	qtdp
-2B442	𫑂	qrmp	qtfp
-2B443	𫑃	ynjp	ospi
-2B444	𫑄	fgpd	fgpd
-2B445	𫑅	gkip	skwp
-2B446	𫑆	fcyp	fcyp
-2B447	𫑇	radp	rdwp
-2B448	𫑈	pjmp	pjmp
-2B449	𫑉	ytmp	ytmp
-2B44A	𫑊	lkmp	ekmp
-2B44B	𫑋	gkip	skcp
-2B44C	𫑌	mnmp	mkyp
-2B44D	𫑍	khgp	khgp
-2B44E	𫑎	tthp	tthp
-2B44F	𫑏	vfbp	ngbp
-2B450	𫑐	gkip	skyp
-2B451	𫑑	mnmp	mktp
-2B452	𫑒	gkip	skwp
-2B453	𫑓	wnnp	tnlp
-2B454	𫑔	oopp	oopp
-2B455	𫑕	ujfp	ujfp
-2B456	𫑖	djdp	djdp
-2B457	𫑗	qtbh	qtbh
-2B458	𫑘	fnyb	fnyb
-2B459	𫑙	qytb	qytb
-2B45A	𫑚	ghnb	ghnb
-2B45B	𫑛	antb	anbh
-2B45C	𫑜	iqbh	qibh
-2B45D	𫑝	atdb	atdb
-2B45E	𫑞	egnb	endb
-2B45F	𫑟	ybh	ybh
-2B460	𫑠	aabh	aabh
-2B461	𫑡	kjnb	kjnb
-2B462	𫑢	tfth	dtbh
-2B463	𫑣	kgmb	kgmb
-2B464	𫑤	lebh	lebh
-2B465	𫑥	dfeb	dfeb
-2B466	𫑦	jpvb	jpvb
-2B467	𫑧	akkb	akkb
-2B468	𫑨	qobh	qobh
-2B469	𫑩	ugyb	ugyb
-2B46A	𫑪	flbh	flbh
-2B46B	𫑫	uqwb	uqwb
-2B46C	𫑬	slab	slab
-2B46D	𫑭	ynjb	onnb
-2B46E	𫑮	djfb	djfb
-2B46F	𫑯	gvcf	gvbf
-2B470	𫑰	uegb	uegb
-2B471	𫑱	gvce	gvbe
-2B472	𫑲	elvb	elvb
-2B473	𫑳	sgvy	sgvy
-2B474	𫑴	sgdb	sgdb
-2B475	𫑵	sgld	sgld
-2B476	𫑶	sggu	sggu
-2B477	𫑷	sgwi	sgwg
-2B478	𫑸	sgnn	sgnn
-2B479	𫑹	sgsw	sgsw
-2B47A	𫑺	sgwh	sgth
-2B47B	𫑻	sgtk	sgtk
-2B47C	𫑼	sgwf	sgwf
-2B47D	𫑽	sgni	sgnk
-2B47E	𫑾	sgyi	sgyi
-2B47F	𫑿	sgao	sgfo
-2B480	𫒀	tltn	tltn
-2B481	𫒁	jfgh	jfgh
-2B482	𫒂	qijf	qijf
-2B483	𫒃	tgjx	tgjx
-2B484	𫒄	ocdf	ocdf
-2B485	𫒅	tgjc	tgjc
-2B486	𫒆	qhg	qhg
-2B487	𫒇	qtan	qtan
-2B488	𫒈	qvf	qvf
-2B489	𫒉	qbh	qbh
-2B48A	𫒊	qdhh	qdhh
-2B48B	𫒋	qty	qty
-2B48C	𫒌	qwjh	qwjh
-2B48D	𫒍	qtfh	qtfh
-2B48E	𫒎	qiy	qiy
-2B48F	𫒏	qlg	qlg
-2B490	𫒐	qkxb	qkxb
-2B491	𫒑	qwfn	qwfn
-2B492	𫒒	qrgg	qrg
-2B493	𫒓	qqhy	qqhy
-2B494	𫒔	qcfg	qcfg
-2B495	𫒕	qfff	qfff
-2B496	𫒖	qsg	qsg
-2B497	𫒗	qjxt	qjnt
-2B498	𫒘	qrmh	qtfb
-2B499	𫒙	qpfy	qpfy
-2B49A	𫒚	qyoy	qyoy
-2B49B	𫒛	qpbg	qpbg
-2B49C	𫒜	qyfn	pyfn
-2B49D	𫒝	qgjq	qgjr
-2B49E	𫒞	qaah	qaah
-2B49F	𫒟	qwty	qwgs
-2B4A0	𫒠	qtxi	qtxi
-2B4A1	𫒡	qtnh	qtnh
-2B4A2	𫒢	qpqf	qpqf
-2B4A3	𫒣	yogq	yoqf
-2B4A4	𫒤	qybg	qybg
-2B4A5	𫒥	qynn	qynn
-2B4A6	𫒦	qfhg	qfhg
-2B4A7	𫒧	qfy	qfy
-2B4A8	𫒨	qfjh	qfjh
-2B4A9	𫒩	qdwf	qdwg
-2B4AA	𫒪	qvqn	qeqn
-2B4AB	𫒫	qrqy	qrqy
-2B4AC	𫒬	qwqq	qwqq
-2B4AD	𫒭	qpgy	qpgy
-2B4AE	𫒮	qpxc	qpxc
-2B4AF	𫒯	qcjq	qcjq
-2B4B0	𫒰	qfth	qftg
-2B4B1	𫒱	qjtd	qjtd
-2B4B2	𫒲	qrdf	qrdf
-2B4B3	𫒳	qtky	qtky
-2B4B4	𫒴	qptk	qptk
-2B4B5	𫒵	qukc	qukc
-2B4B6	𫒶	qbkb	qbkb
-2B4B7	𫒷	qngf	qngf
-2B4B8	𫒸	qfkq	qfkq
-2B4B9	𫒹	qlqn	qlqn
-2B4BA	𫒺	wnnq	tntq
-2B4BB	𫒻	qych	qycg
-2B4BC	𫒼	qubp	qubp
-2B4BD	𫒽	qooq	qoor
-2B4BE	𫒾	qxmw	qxmw
-2B4BF	𫒿	qaqh	qaqh
-2B4C0	𫓀	qafl	qafe
-2B4C1	𫓁	qmpi	qmpi
-2B4C2	𫓂	qwga	qwga
-2B4C3	𫓃	qphw	wphw
-2B4C4	𫓄	qfkf	qfkf
-2B4C5	𫓅	qduh	qduh
-2B4C6	𫓆	qfgf	qfsf
-2B4C7	𫓇	qgmi	qsmm
-2B4C8	𫓈	qgym	qgym
-2B4C9	𫓉	qjgf	qjgf
-2B4CA	𫓊	qhgc	qhgc
-2B4CB	𫓋	qhhh	qhhh
-2B4CC	𫓌	qtwk	qtwk
-2B4CD	𫓍	qttt	qttt
-2B4CE	𫓎	qxdx	qxdx
-2B4CF	𫓏	qdgt	qdgn
-2B4D0	𫓐	qmau	qmau
-2B4D1	𫓑	qaqn	qffn
-2B4D2	𫓒	qmae	qmae
-2B4D3	𫓓	wftq	etpq
-2B4D4	𫓔	qugt	qugy
-2B4D5	𫓕	qyjg	qyjg
-2B4D6	𫓖	fkuq	fkuq
-2B4D7	𫓗	qhaf	qhff
-2B4D8	𫓘	qyww	qoww
-2B4D9	𫓙	qxwy	qxwy
-2B4DA	𫓚	qnyf	qnrf
-2B4DB	𫓛	qddj	qddj
-2B4DC	𫓜	qyjd	qyju
-2B4DD	𫓝	qggq	qggq
-2B4DE	𫓞	qssk	qssk
-2B4DF	𫓟	qkkc	qkko
-2B4E0	𫓠	qfnb	qfnb
-2B4E1	𫓡	qlft	qlft
-2B4E2	𫓢	qnlw	qnrw
-2B4E3	𫓣	qjxo	qjjo
-2B4E4	𫓤	qtag	qtag
-2B4E5	𫓥	qwy	qwy
-2B4E6	𫓦	qbg	qbg
-2B4E7	𫓧	qfwy	qgy
-2B4E8	𫓨	qat	qay
-2B4E9	𫓩	qwwy	qwwy
-2B4EA	𫓪	qwcy	qwcy
-2B4EB	𫓫	qwgn	qwgn
-2B4EC	𫓬	qamh	qamh
-2B4ED	𫓭	qmdy	qmdy
-2B4EE	𫓮	qqvg	qqvg
-2B4EF	𫓯	qffg	qffg
-2B4F0	𫓰	qdgt	qdgg
-2B4F1	𫓱	qtdj	qtdj
-2B4F2	𫓲	qqjg	qqjg
-2B4F3	𫓳	qpyn	qpyn
-2B4F4	𫓴	qcrh	qctg
-2B4F5	𫓵	qdfe	qdfe
-2B4F6	𫓶	qkeg	qkeg
-2B4F7	𫓷	qtnh	qtnh
-2B4F8	𫓸	qgot	qgot
-2B4F9	𫓹	qadw	qdwy
-2B4FA	𫓺	qhal	qhet
-2B4FB	𫓻	qwyn	qwyn
-2B4FC	𫓼	qtkg	qtkg
-2B4FD	𫓽	qpfi	qpfi
-2B4FE	𫓾	qyce	qyce
-2B4FF	𫓿	qoqw	qoqw
-2B500	𫔀	qgli	qslg
-2B501	𫔁	qfam	qfam
-2B502	𫔂	qjgh	qjgh
-2B503	𫔃	qjtq	qjtq
-2B504	𫔄	qcbs	qcns
-2B505	𫔅	qfpi	qfpi
-2B506	𫔆	qlfc	qlfc
-2B507	𫔇	qtlx	qtlx
-2B508	𫔈	qube	qube
-2B509	𫔉	qmmv	qmmv
-2B50A	𫔊	qpwj	qpwj
-2B50B	𫔋	qffw	qffw
-2B50C	𫔌	qaet	qaet
-2B50D	𫔍	qtol	qtol
-2B50E	𫔎	qcbk	qcnk
-2B50F	𫔏	qnbb	qnbb
-2B510	𫔐	qfkc	qfkc
-2B511	𫔑	qylg	qylg
-2B512	𫔒	qceo	qceo
-2B513	𫔓	qfwy	qfwy
-2B514	𫔔	qmwk	qmwk
-2B515	𫔕	qodm	qodm
-2B516	𫔖	dpey	dpey
-2B517	𫔗	dgdn	dgdn
-2B518	𫔘	uhk	uhk
-2B519	𫔙	auf	auf
-2B51A	𫔚	ukhk	ukhk
-2B51B	𫔛	uwxv	uwxv
-2B51C	𫔜	udd	udd
-2B51D	𫔝	uhd	uhd
-2B51E	𫔞	umd	umd
-2B51F	𫔟	uwai	uway
-2B520	𫔠	utui	utui
-2B521	𫔡	ugku	ugku
-2B522	𫔢	ukkh	ukkh
-2B523	𫔣	utjk	utjk
-2B524	𫔤	uyfh	uygh
-2B525	𫔥	uadw	udwi
-2B526	𫔦	tfua	tfua
-2B527	𫔧	uwww	uwww
-2B528	𫔨	uwge	uwgv
-2B529	𫔩	uajd	uffd
-2B52A	𫔪	uujn	uujn
-2B52B	𫔫	ueed	uged
-2B52C	𫔬	dnub	gqub
-2B52D	𫔭	ugak	ugak
-2B52E	𫔮	ued	ued
-2B52F	𫔯	uufk	uufk
-2B530	𫔰	ucak	ucak
-2B531	𫔱	uyoi	uyoi
-2B532	𫔲	uftb	uftb
-2B533	𫔳	uyfh	uygk
-2B534	𫔴	uwyd	uwyd
-2B535	𫔵	ugct	ugct
-2B536	𫔶	uths	uths
-2B537	𫔷	ugan	ugan
-2B538	𫔸	jfhu	jggu
-2B539	𫔹	uyml	uyml
-2B53A	𫔺	bdy	bdy
-2B53B	𫔻	byy	byy
-2B53C	𫔼	bmg	bmg
-2B53D	𫔽	bcfg	mcfg
-2B53E	𫔾	bbg	bbg
-2B53F	𫔿	bjsh	bjsh
-2B540	𫕀	budy	budy
-2B541	𫕁	bgkg	bgkg
-2B542	𫕂	bpqv	bpqv
-2B543	𫕃	bcbb	bcnb
-2B544	𫕄	bhwy	bhwy
-2B545	𫕅	byjg	byjg
-2B546	𫕆	bgka	bgka
-2B547	𫕇	bgxf	bgxf
-2B548	𫕈	bjqn	bjqn
-2B549	𫕉	befc	begc
-2B54A	𫕊	bexc	bexc
-2B54B	𫕋	bemf	bemf
-2B54C	𫕌	brna	brna
-2B54D	𫕍	bpgg	bpgg
-2B54E	𫕎	bwcn	bwcn
-2B54F	𫕏	btnf	btnf
-2B550	𫕐	bdqq	bdrr
-2B551	𫕑	bqgl	bqgl
-2B552	𫕒	bumd	byud
-2B553	𫕓	bcck	bcck
-2B554	𫕔	bdui	bdui
-2B555	𫕕	bafk	bafk
-2B556	𫕖	bskn	bskn
-2B557	𫕗	byti	byti
-2B558	𫕘	bxgg	bxgg
-2B559	𫕙	xtvi	xtvi
-2B55A	𫕚	wyww	wyww
-2B55B	𫕛	fkwy	fkwy
-2B55C	𫕜	wngy	qowy
-2B55D	𫕝	fbj	fbj
-2B55E	𫕞	fff	fff
-2B55F	𫕟	fef	fef
-2B560	𫕠	fcb	fcb
-2B561	𫕡	fuxb	fuxb
-2B562	𫕢	fxgu	fxu
-2B563	𫕣	vyfv	vyfv
-2B564	𫕤	fwtf	fwtf
-2B565	𫕥	fkmu	fkmu
-2B566	𫕦	fiyu	fiyu
-2B567	𫕧	fawv	fffv
-2B568	𫕨	fcde	fcde
-2B569	𫕩	fjaf	fjaf
-2B56A	𫕪	figj	figj
-2B56B	𫕫	frde	frde
-2B56C	𫕬	fafl	fafe
-2B56D	𫕭	fihj	fihj
-2B56E	𫕮	fafb	fafb
-2B56F	𫕯	feto	feto
-2B570	𫕰	fedh	fedg
-2B571	𫕱	fwys	fwys
-2B572	𫕲	fwgp	fwgp
-2B573	𫕳	fafg	fafg
-2B574	𫕴	fujn	fujn
-2B575	𫕵	filf	filf
-2B576	𫕶	fnkf	fnkf
-2B577	𫕷	fidy	fidy
-2B578	𫕸	geqh	geqh
-2B579	𫕹	getg	getg
-2B57A	𫕺	geuf	geug
-2B57B	𫕻	gege	gege
-2B57C	𫕼	geuq	geuq
-2B57D	𫕽	wgkd	wgkd
-2B57E	𫕾	lfhd	lfhd
-2B57F	𫕿	udwd	uqod
-2B580	𫖀	dmjs	dljs
-2B581	𫖁	dmjq	dlji
-2B582	𫖂	vfbd	ngbf
-2B583	𫖃	dmjm	dljm
-2B584	𫖄	wwnd	wthf
-2B585	𫖅	afdx	afdy
-2B586	𫖆	akfw	akfw
-2B587	𫖇	afwf	afwf
-2B588	𫖈	nafj	nafj
-2B589	𫖉	afae	afae
-2B58A	𫖊	afsj	afsj
-2B58B	𫖋	afnc	afnc
-2B58C	𫖌	gkah	gkgj
-2B58D	𫖍	nhkh	nkgh
-2B58E	𫖎	yinh	ying
-2B58F	𫖏	nhkc	nkgc
-2B590	𫖐	fash	fffg
-2B591	𫖑	fnhn	fnhn
-2B592	𫖒	fnhf	fnhf
-2B593	𫖓	fnhf	fnhf
-2B594	𫖔	fnhe	fnhe
-2B595	𫖕	fnhf	fnhf
-2B596	𫖖	fnhu	fnhu
-2B597	𫖗	ujuf	ujuf
-2B598	𫖘	ujca	ujca
-2B599	𫖙	ujhm	ujhm
-2B59A	𫖚	ujpw	ujpw
-2B59B	𫖛	ujah	ujfg
-2B59C	𫖜	ujte	ujte
-2B59D	𫖝	xxdm	xxdm
-2B59E	𫖞	rydm	rydm
-2B59F	𫖟	svdm	svdm
-2B5A0	𫖠	ehdm	ehdm
-2B5A1	𫖡	fpgm	fpgm
-2B5A2	𫖢	jfim	jfim
-2B5A3	𫖣	hmdm	hmdm
-2B5A4	𫖤	wngm	qodm
-2B5A5	𫖥	jgkm	jgkm
-2B5A6	𫖦	kdmk	kdmk
-2B5A7	𫖧	dmji	dmji
-2B5A8	𫖨	ejdm	gejm
-2B5A9	𫖩	vlqm	vlrm
-2B5AA	𫖪	tndm	tndm
-2B5AB	𫖫	pqdm	pqdm
-2B5AC	𫖬	dmwe	dmwe
-2B5AD	𫖭	ckdm	ckdm
-2B5AE	𫖮	mndm	mndm
-2B5AF	𫖯	iqdm	qidm
-2B5B0	𫖰	qqdm	qqdm
-2B5B1	𫖱	vedm	vdmy
-2B5B2	𫖲	kmdm	kmdm
-2B5B3	𫖳	vtkm	vtkm
-2B5B4	𫖴	gmdm	gmdm
-2B5B5	𫖵	rgmm	rmdm
-2B5B6	𫖶	ynem	ynem
-2B5B7	𫖷	ansm	ansm
-2B5B8	𫖸	drim	drim
-2B5B9	𫖹	dhim	dhim
-2B5BA	𫖺	sqqm	srrm
-2B5BB	𫖻	wcmj	wcwj
-2B5BC	𫖼	mfgs	wfgs
-2B5BD	𫖽	mftc	wftb
-2B5BE	𫖾	wgef	wgef
-2B5BF	𫖿	mfud	wfud
-2B5C0	𫗀	mfiu	wfix
-2B5C1	𫗁	mfvp	wfvp
-2B5C2	𫗂	mfvp	wfvp
-2B5C3	𫗃	mfwn	wfwn
-2B5C4	𫗄	mfwn	wfwn
-2B5C5	𫗅	thlj	thlj
-2B5C6	𫗆	mtjn	wtjn
-2B5C7	𫗇	mqjd	wrjd
-2B5C8	𫗈	mqfb	wrfb
-2B5C9	𫗉	mqdh	wrdg
-2B5CA	𫗊	mquj	wruj
-2B5CB	𫗋	mqgt	wrgt
-2B5CC	𫗌	dfau	dfau
-2B5CD	𫗍	ftwe	ftwv
-2B5CE	𫗎	wgvn	wvan
-2B5CF	𫗏	wpde	wvde
-2B5D0	𫗐	wgvg	wvwg
-2B5D1	𫗑	wpqc	wvqc
-2B5D2	𫗒	wgvv	wgvv
-2B5D3	𫗓	wptk	wvtk
-2B5D4	𫗔	wpsd	wvsd
-2B5D5	𫗕	wpff	wvff
-2B5D6	𫗖	wgvd	wvdf
-2B5D7	𫗗	wpnh	wvnh
-2B5D8	𫗘	wptl	wvtl
-2B5D9	𫗙	wgvm	wvgm
-2B5DA	𫗚	ilre	ilrv
-2B5DB	𫗛	wppj	whvj
-2B5DC	𫗜	wpfj	wvfj
-2B5DD	𫗝	wgvl	wgvl
-2B5DE	𫗞	qnfh	qnfh
-2B5DF	𫗟	qnfq	qnfq
-2B5E0	𫗠	qnty	qnty
-2B5E1	𫗡	qndg	qndg
-2B5E2	𫗢	qntf	qntf
-2B5E3	𫗣	qnnt	qnnt
-2B5E4	𫗤	qndv	qndv
-2B5E5	𫗥	qnpl	qnpl
-2B5E6	𫗦	qngy	qnsy
-2B5E7	𫗧	qngi	qnsk
-2B5E8	𫗨	qnye	qnyv
-2B5E9	𫗩	qnlq	qnlq
-2B5EA	𫗪	qntv	qntv
-2B5EB	𫗫	qnde	qnde
-2B5EC	𫗬	qndd	qndd
-2B5ED	𫗭	qnle	qnle
-2B5EE	𫗮	qnrg	qnrg
-2B5EF	𫗯	qnwd	qnwd
-2B5F0	𫗰	qnwp	qntp
-2B5F1	𫗱	qnuo	qnuw
-2B5F2	𫗲	qnar	qndr
-2B5F3	𫗳	qnxj	qnxj
-2B5F4	𫗴	qnyg	qnyg
-2B5F5	𫗵	qnye	qnye
-2B5F6	𫗶	uthh	uthh
-2B5F7	𫗷	uths	uths
-2B5F8	𫗸	uthj	uthj
-2B5F9	𫗹	uthy	uthy
-2B5FA	𫗺	utht	utht
-2B5FB	𫗻	uthe	uthe
-2B5FC	𫗼	tjff	tjff
-2B5FD	𫗽	tjtg	tjtg
-2B5FE	𫗾	tjfn	tjfn
-2B5FF	𫗿	tjnh	tjnh
-2B600	𫘀	tjft	tjgt
-2B601	𫘁	tjgm	tjgm
-2B602	𫘂	tjws	tjws
-2B603	𫘃	tjuw	tjuw
-2B604	𫘄	tjpm	tjpm
-2B605	𫘅	ccyy	cocy
-2B606	𫘆	cfwy	cogy
-2B607	𫘇	caqn	coaq
-2B608	𫘈	cmcy	cowc
-2B609	𫘉	coy	cooy
-2B60A	𫘊	csg	cosg
-2B60B	𫘋	cgmg	cogg
-2B60C	𫘌	chaq	cohq
-2B60D	𫘍	ckmk	cokk
-2B60E	𫘎	trtc	ctco
-2B60F	𫘏	cdmd	codf
-2B610	𫘐	ctgf	cotf
-2B611	𫘑	cugd	coud
-2B612	𫘒	cgef	cosf
-2B613	𫘓	clwt	colt
-2B614	𫘔	cwqj	cowj
-2B615	𫘕	cuvo	couw
-2B616	𫘖	xqac	xqao
-2B617	𫘗	casw	cofw
-2B618	𫘘	khtc	khto
-2B619	𫘙	cmgo	cowo
-2B61A	𫘚	colw	coow
-2B61B	𫘛	cfh	cgfh
-2B61C	𫘜	cyy	cgyy
-2B61D	𫘝	cnwy	cgnw
-2B61E	𫘞	ctbn	cgtb
-2B61F	𫘟	chcy	cgby
-2B620	𫘠	cgcf	cggf
-2B621	𫘡	ciqn	cgiq
-2B622	𫘢	cskg	cgsk
-2B623	𫘣	cjfh	cgjf
-2B624	𫘤	cctd	cgcd
-2B625	𫘥	cjxx	cgjx
-2B626	𫘦	cqrm	cgqb
-2B627	𫘧	cviy	cgvi
-2B628	𫘨	cjgh	cgjh
-2B629	𫘩	crgg	cgrg
-2B62A	𫘪	cdri	cgdi
-2B62B	𫘫	cjpv	cgjv
-2B62C	𫘬	cexd	cged
-2B62D	𫘭	cdqq	cgdr
-2B62E	𫘮	cumd	cgyd
-2B62F	𫘯	culj	cguj
-2B630	𫘰	cylg	cgyg
-2B631	𫘱	cmwk	cgmk
-2B632	𫘲	mevj	mevj
-2B633	𫘳	mevp	mevp
-2B634	𫘴	menf	menf
-2B635	𫘵	ymkb	ymkb
-2B636	𫘶	rgyk	rymk
-2B637	𫘷	ymkj	ymkj
-2B638	𫘸	denb	denb
-2B639	𫘹	deqy	deqy
-2B63A	𫘺	devf	devf
-2B63B	𫘻	depm	depw
-2B63C	𫘼	demf	demf
-2B63D	𫘽	dewc	dewc
-2B63E	𫘾	dede	dede
-2B63F	𫘿	devk	devk
-2B640	𫙀	defj	defj
-2B641	𫙁	deqq	deqq
-2B642	𫙂	deov	deov
-2B643	𫙃	dejq	dejq
-2B644	𫙄	gkmh	gkmh
-2B645	𫙅	gkme	gkme
-2B646	𫙆	xwfh	xwfh
-2B647	𫙇	xuwh	xuwh
-2B648	𫙈	rqcw	tlqw
-2B649	𫙉	rqcq	rqcr
-2B64A	𫙊	rqcd	tlqu
-2B64B	𫙋	tjrc	tjtc
-2B64C	𫙌	ffhc	ffhc
-2B64D	𫙍	rqcl	tlql
-2B64E	𫙎	rqcf	tlqf
-2B64F	𫙏	qofh	qofh
-2B650	𫙐	qoaj	qoaj
-2B651	𫙑	qomc	qomc
-2B652	𫙒	qoxh	qoxh
-2B653	𫙓	qdkq	qdkr
-2B654	𫙔	qohn	qohn
-2B655	𫙕	qopw	qopw
-2B656	𫙖	qonx	qonx
-2B657	𫙗	qona	qona
-2B658	𫙘	qosg	qosg
-2B659	𫙙	qoqc	qoqc
-2B65A	𫙚	qoth	qots
-2B65B	𫙛	qodi	qogf
-2B65C	𫙜	qoyv	qoyv
-2B65D	𫙝	qoud	qoug
-2B65E	𫙞	qocc	qocc
-2B65F	𫙟	qovh	qovg
-2B660	𫙠	qoey	qoge
-2B661	𫙡	qorn	qorn
-2B662	𫙢	qogs	qogs
-2B663	𫙣	jfqo	jfqo
-2B664	𫙤	qosm	qosw
-2B665	𫙥	qoik	qoik
-2B666	𫙦	trqo	cqro
-2B667	𫙧	qorp	qorp
-2B668	𫙨	qowc	qotc
-2B669	𫙩	qouk	qouk
-2B66A	𫙪	qovd	qovd
-2B66B	𫙫	qodn	qodn
-2B66C	𫙬	qoml	qoml
-2B66D	𫙭	qdqu	qdqu
-2B66E	𫙮	qoqs	qoqs
-2B66F	𫙯	qowe	qowe
-2B670	𫙰	qoxl	qoxl
-2B671	𫙱	qofn	qofn
-2B672	𫙲	qoih	qoih
-2B673	𫙳	qotf	qotf
-2B674	𫙴	qoyw	qoow
-2B675	𫙵	qonj	qonj
-2B676	𫙶	qoxl	qoxl
-2B677	𫙷	qokm	qokm
-2B678	𫙸	qoua	qoua
-2B679	𫙹	qomj	qomj
-2B67A	𫙺	qokt	qoky
-2B67B	𫙻	qopl	qopl
-2B67C	𫙼	qowu	qowu
-2B67D	𫙽	qoay	qofy
-2B67E	𫙾	qohf	qohf
-2B67F	𫙿	qoqc	qoqc
-2B680	𫚀	qour	qour
-2B681	𫚁	qoum	qoum
-2B682	𫚂	qofy	qofy
-2B683	𫚃	wfqo	erro
-2B684	𫚄	qodl	qotl
-2B685	𫚅	qovq	qovi
-2B686	𫚆	qodm	qodm
-2B687	𫚇	qonj	qonj
-2B688	𫚈	qggg	qggg
-2B689	𫚉	qgag	qgag
-2B68A	𫚊	qgnr	qgnr
-2B68B	𫚋	qgfy	qgfy
-2B68C	𫚌	qgit	qgit
-2B68D	𫚍	qgwv	qgwv
-2B68E	𫚎	qggw	qggw
-2B68F	𫚏	qgsg	qgsg
-2B690	𫚐	qgmd	qgmd
-2B691	𫚑	qgnt	qgnt
-2B692	𫚒	qgxj	qgxj
-2B693	𫚓	gqjg	gqjg
-2B694	𫚔	qglk	qglk
-2B695	𫚕	qgjh	qgjh
-2B696	𫚖	hxqg	hxqg
-2B697	𫚗	qgwk	qgwk
-2B698	𫚘	qgwf	qgwf
-2B699	𫚙	qggy	qgsy
-2B69A	𫚚	qgbn	qgbn
-2B69B	𫚛	qguq	qguq
-2B69C	𫚜	qgfq	qggq
-2B69D	𫚝	qgjs	qgjs
-2B69E	𫚞	tqtg	tqtg
-2B69F	𫚟	tryg	cywg
-2B6A0	𫚠	qgub	qgub
-2B6A1	𫚡	qgvh	qgvh
-2B6A2	𫚢	qgav	qgav
-2B6A3	𫚣	qgwq	qgwr
-2B6A4	𫚤	qgux	qgux
-2B6A5	𫚥	qgnc	qgnc
-2B6A6	𫚦	qgpk	qgpk
-2B6A7	𫚧	qggj	qggj
-2B6A8	𫚨	qgub	qgub
-2B6A9	𫚩	qgfe	qgfe
-2B6AA	𫚪	qgck	qgck
-2B6AB	𫚫	qgks	qgks
-2B6AC	𫚬	qgpe	qgpe
-2B6AD	𫚭	qgvn	qgvn
-2B6AE	𫚮	nwvo	nqoy
-2B6AF	𫚯	dmwo	dwqo
-2B6B0	𫚰	xxwo	xxqo
-2B6B1	𫚱	wvgc	qoqc
-2B6B2	𫚲	pqwo	pqqo
-2B6B3	𫚳	wvgk	qohk
-2B6B4	𫚴	twvo	tqoy
-2B6B5	𫚵	qtbo	qtbo
-2B6B6	𫚶	tuho	tuho
-2B6B7	𫚷	mmgo	mmgo
-2B6B8	𫚸	wvge	qode
-2B6B9	𫚹	qbwo	qbqo
-2B6BA	𫚺	rewo	reqo
-2B6BB	𫚻	vbwo	vbqo
-2B6BC	𫚼	wvge	qoku
-2B6BD	𫚽	mtfo	mtfo
-2B6BE	𫚾	kgdo	kgdo
-2B6BF	𫚿	whto	whto
-2B6C0	𫛀	vfbo	ngbo
-2B6C1	𫛁	gaho	gaho
-2B6C2	𫛂	jqao	jqao
-2B6C3	𫛃	mgyo	mgyo
-2B6C4	𫛄	hiwo	hhqo
-2B6C5	𫛅	ufho	ugqo
-2B6C6	𫛆	veho	veho
-2B6C7	𫛇	vcxo	vcxo
-2B6C8	𫛈	wvgy	qoby
-2B6C9	𫛉	bbwo	bbqo
-2B6CA	𫛊	nuto	nuto
-2B6CB	𫛋	ckno	cknp
-2B6CC	𫛌	skso	skso
-2B6CD	𫛍	dwfo	dwfo
-2B6CE	𫛎	ttdo	ttdo
-2B6CF	𫛏	pwyo	pwyo
-2B6D0	𫛐	lako	lako
-2B6D1	𫛑	fkko	fkko
-2B6D2	𫛒	rgjo	rhgo
-2B6D3	𫛓	wvgh	qofg
-2B6D4	𫛔	etno	etno
-2B6D5	𫛕	pqto	pqto
-2B6D6	𫛖	qtco	qtco
-2B6D7	𫛗	kako	kako
-2B6D8	𫛘	rrro	rrro
-2B6D9	𫛙	pqto	pqto
-2B6DA	𫛚	gaqg	gaqg
-2B6DB	𫛛	fcqg	fcqg
-2B6DC	𫛜	giqg	dhqg
-2B6DD	𫛝	myqg	myqg
-2B6DE	𫛞	qynw	qgnw
-2B6DF	𫛟	dxqg	dxyg
-2B6E0	𫛠	snqg	snqg
-2B6E1	𫛡	tpqg	tpqg
-2B6E2	𫛢	psqg	psqg
-2B6E3	𫛣	qynw	qgpw
-2B6E4	𫛤	lkqg	ekqg
-2B6E5	𫛥	guwg	gudg
-2B6E6	𫛦	dfng	dfng
-2B6E7	𫛧	hiqg	hiqg
-2B6E8	𫛨	uaqg	uaqg
-2B6E9	𫛩	pvqg	pvqg
-2B6EA	𫛪	vkqg	vkqg
-2B6EB	𫛫	kmqg	kmqg
-2B6EC	𫛬	wtqg	wgsg
-2B6ED	𫛭	qtgg	qtgg
-2B6EE	𫛮	umig	iqgg
-2B6EF	𫛯	xyqg	xyqg
-2B6F0	𫛰	adwg	dwqg
-2B6F1	𫛱	hjqg	hjqg
-2B6F2	𫛲	mfkg	mfkg
-2B6F3	𫛳	ebcg	ebcg
-2B6F4	𫛴	ujfg	ujfg
-2B6F5	𫛵	nbmg	nbmg
-2B6F6	𫛶	gkig	skeg
-2B6F7	𫛷	deqg	deqg
-2B6F8	𫛸	jghg	jghg
-2B6F9	𫛹	hitg	hitg
-2B6FA	𫛺	qynd	qgwd
-2B6FB	𫛻	yacg	oacg
-2B6FC	𫛼	wgdg	wgdg
-2B6FD	𫛽	ssqg	ssqg
-2B6FE	𫛾	qegg	qegg
-2B6FF	𫛿	fotg	fotg
-2B700	𫜀	jdfg	jdfg
-2B701	𫜁	umig	itqg
-2B702	𫜂	ujqg	ujqg
-2B703	𫜃	sjqg	sjqg
-2B704	𫜄	usgg	usgg
-2B705	𫜅	qyne	qgle
-2B706	𫜆	ynwg	onwg
-2B707	𫜇	hlqo	hloo
-2B708	𫜈	txgo	txho
-2B709	𫜉	hlqy	hloy
-2B70A	𫜊	hlql	hlrl
-2B70B	𫜋	ynjl	oxxe
-2B70C	𫜌	ynjw	oxxw
-2B70D	𫜍	ynjk	oxxk
-2B70E	𫜎	ynjj	oxxj
-2B70F	𫜏	oqax	oqgx
-2B710	𫜐	swwm	swww
-2B711	𫜑	gtdh	gtdh
-2B712	𫜒	gtpx	gtpx
-2B713	𫜓	gtke	gtke
-2B714	𫜔	gtrf	gtrf
-2B715	𫜕	fpgt	fpgt
-2B716	𫜖	yfqk	ofqk
-2B717	𫜗	yssj	ossj
-2B718	𫜘	gmhw	gmhw
-2B719	𫜙	lfon	lfon
-2B71A	𫜚	lfon	lfon
-2B71B	𫜛	lfoh	lfoh
-2B71C	𫜜	wgnj	wgnj
-2B71D	𫜝	kkxf	kkxf
-2B71E	𫜞	lfox	lfox
-2B71F	𫜟	usgn	usgn
-2B720	𫜠	hndb	hndb
-2B721	𫜡	hndy	hndy
-2B722	𫜢	vnug	enug
-2B723	𫜣	vnuu	enuu
-2B724	𫜤	thld	thld
-2B725	𫜥	hbmm	hbmw
-2B726	𫜦	hbgy	hbsy
-2B727	𫜧	hbps	jbps
-2B728	𫜨	hwbc	hwbc
-2B729	𫜩	dhvb	dhvb
-2B72A	𫜪	hwbq	hwbr
-2B72B	𫜫	hwby	hwbs
-2B72C	𫜬	hwbj	hwbj
-2B72D	𫜭	hwbr	hwbr
-2B72E	𫜮	hwbe	hwbe
-2B72F	𫜯	hwbk	hwbk
-2B730	𫜰	fmub	fmub
-2B731	𫜱	amhd	amhd
-2B732	𫜲	dedx	dedy
-2B733	𫜳	mfqn	mfqn
-2B734	𫜴	ssoa	ssoa
-2B735
-2B736
-2B737
-2B738
-2B739
-2B73A
-2B73B
-2B73C
-2B73D
-2B73E
-2B73F
+2A700	𪜀	fnv	fnv	fnv
+2A701	𪜁	gbj	gbj	gbj
+2A702	𪜂	gvyu	gvyu	gvyu
+2A703	𪜃	gkvn	gkvn	gkvn
+2A704	𪜄	gisk	dhsk	dhsk
+2A705	𪜅	sufj	sufj	sufj
+2A706	𪜆	gxxh	gxxg	gxxg
+2A707	𪜇	dnww	gqww	gqww
+2A708	𪜈	hgan	hgan	hgan
+2A709	𪜉	khgh	khgf	khgf
+2A70A	𪜊	ynb	ynb	ynb
+2A70B	𪜋	ygat	ygat	ygat
+2A70C	𪜌	ejd	bjd	bjd
+2A70D	𪜍	tfiq	tfqi	tfqi
+2A70E	𪜎	tdjm	tdjw	tdjw
+2A70F	𪜏	tdut	tdut	tdut
+2A710	𪜐	nwxv	nwxv	nwxv
+2A711	𪜑	gsnb	gsnb	gsnb
+2A712	𪜒	nfkd	nfkd	nfkd
+2A713	𪜓	wrhn	wtgn	wtgn
+2A714	𪜔	vmad	vmad	vmad
+2A715	𪜕	ftjn	ftjn	ftjn
+2A716	𪜖	nfmd	nflf	nfmd
+2A717	𪜗	vakg	vakg	vakg
+2A718	𪜘	dhcn	dbnn	dhcn
+2A719	𪜙	vdja	vdja	vdja
+2A71A	𪜚	istn	istn	istn
+2A71B	𪜛	ebnh	ebnh	ebnh
+2A71C	𪜜	uxbh	uxbh	uxbh
+2A71D	𪜝	cbaw	cnhw	cnhw
+2A71E	𪜞	fcdt	fcdt	fcdt
+2A71F	𪜟	ybvc	ybvc	ykbc
+2A720	𪜠	ymyu	ywyu	ywyu
+2A721	𪜡	ntha	hgta	hgta
+2A722	𪜢	yhjf	yhjf	yhjf
+2A723	𪜣	ucwa	ucwy	ywcy
+2A724	𪜤	ywwy	ywwy	ywwy
+2A725	𪜥	ylkh	ylkh	ylkh
+2A726	𪜦	ypsl	ypsl	ykpl
+2A727	𪜧	wqy	wry	wry
+2A728	𪜨	wgvg	wgvg	wgvg
+2A729	𪜩	wqcy	wqcy	wqcy
+2A72A	𪜪	wqxn	wqxn	wqxn
+2A72B	𪜫	wnfg	wnhg	wnhf
+2A72C	𪜬	wfiu	wfu	wfiu
+2A72D	𪜭	wlng	wlng	wmng
+2A72E	𪜮	whg	whg	whg
+2A72F	𪜯	wkln	wket	wket
+2A730	𪜰	wty	wty	wty
+2A731	𪜱	wtu	wtu	wtu
+2A732	𪜲	wryy	wryy	wryy
+2A733	𪜳	wnan	wnan	wnan
+2A734	𪜴	wxcy	wxcy	wxcy
+2A735	𪜵	wxjg	wxjg	wxjg
+2A736	𪜶	wldy	wldy	wldy
+2A737	𪜷	wesy	wbsy	wbsy
+2A738	𪜸	wpbg	wpbg	wpbg
+2A739	𪜹	wng	wng	wnt
+2A73A	𪜺	wxfy	wxfy	wxfy
+2A73B	𪜻	wfoy	wfoy	wfoy
+2A73C	𪜼	wahh	wgtg	wahg
+2A73D	𪜽	wjff	wjff	wjff
+2A73E	𪜾	wegl	wege	wege
+2A73F	𪜿	wjvg	wjvg	wjvg
+2A740	𪝀	wqeg	wqmf	wqeh
+2A741	𪝁	wekx	wbkx	wbkx
+2A742	𪝂	wyjg	wyjg	wyjg
+2A743	𪝃	wtcy	wgsy	wgsy
+2A744	𪝄	wdun	wdun	wdun
+2A745	𪝅	wsty	wsty	wsty
+2A746	𪝆	wayn	wffy	wayt
+2A747	𪝇	whmt	whmt	whmt
+2A748	𪝈	wepc	wepc	wepc
+2A749	𪝉	wtsy	wtsy	wtsy
+2A74A	𪝊	wyqg	woqg	woqg
+2A74B	𪝋	wshg	wshg	wshg
+2A74C	𪝌	walg	walg	walg
+2A74D	𪝍	wdeg	wdmu	wdeg
+2A74E	𪝎	wswc	wswc	wswc
+2A74F	𪝏	waqk	waqk	waqk
+2A750	𪝐	wdjb	wdjb	wdjb
+2A751	𪝑	wjlg	wjlg	wjlg
+2A752	𪝒	wwdc	wthc	wwdc
+2A753	𪝓	wwae	wwae	wwae
+2A754	𪝔	wqbn	wqbn	wqbn
+2A755	𪝕	wwvl	wwvl	wwvl
+2A756	𪝖	wamy	wamy	wamy
+2A757	𪝗	swwq	swwq	swwq
+2A758	𪝘	wdep	wdep	wdep
+2A759	𪝙	wfcl	wfcl	wfcl
+2A75A	𪝚	wjiq	wjiq	wjiq
+2A75B	𪝛	wrvc	wrvc	wrvc
+2A75C	𪝜	wwnh	wtnh	wwnh
+2A75D	𪝝	weud	weud	weud
+2A75E	𪝞	wuwl	wuwl	wuwl
+2A75F	𪝟	wxrr	wxrr	wxrr
+2A760	𪝠	wlat	wlay	wlay
+2A761	𪝡	wajd	wajd	wajd
+2A762	𪝢	wlye	wlye	wlye
+2A763	𪝣	wpdk	wpdk	wpdk
+2A764	𪝤	wpgw	wpgw	wpgw
+2A765	𪝥	wdmj	wdmj	wdmj
+2A766	𪝦	wfkk	wfkk	wfkk
+2A767	𪝧	wjoo	wjoo	wjoo
+2A768	𪝨	wqao	wqgo	wqao
+2A769	𪝩	wudh	wulh	wugh
+2A76A	𪝪	wnhh	wnhh	wnhh
+2A76B	𪝫	wgoc	wgoc	wgoc
+2A76C	𪝬	wdyf	wdyf	wdyf
+2A76D	𪝭	whad	whkd	whad
+2A76E	𪝮	wytq	wytq	wytq
+2A76F	𪝯	wujf	wujf	wujf
+2A770	𪝰	wgcy	wgco	wgco
+2A771	𪝱	wmwh	wmwh	wmwh
+2A772	𪝲	towg	towg	towg
+2A773	𪝳	wiaw	wiag	wiaw
+2A774	𪝴	wsdp	wsdp	wsdp
+2A775	𪝵	wqyj	wqyj	wqyj
+2A776	𪝶	wynf	wynf	wynf
+2A777	𪝷	wfvq	wfeq	wfeq
+2A778	𪝸	wafy	wffy	wafy
+2A779	𪝹	wynt	wynt	wynt
+2A77A	𪝺	wfnc	wfnc	wfnc
+2A77B	𪝻	wgcs	wgcg	wgcs
+2A77C	𪝼	wmmv	wmmv	wmmv
+2A77D	𪝽	whmm	whmm	whmm
+2A77E	𪝾	wdej	wdej	wdcj
+2A77F	𪝿	jbqb	jbqb	jbqb
+2A780	𪞀	iqqh	igqh	igqh
+2A781	𪞁	qkqc	qkqc	qkqc
+2A782	𪞂	qkqj	qkqj	qkqf
+2A783	𪞃	iqjg	igqg	igqg
+2A784	𪞄	tfqd	tfqd	tfqd
+2A785	𪞅	ycqk	ycqk	ycqk
+2A786	𪞆	iqho	igqo	igqo
+2A787	𪞇	tygv	tygv	wgwv
+2A788	𪞈	wxfj	wxf	wxff
+2A789	𪞉	fkaw	fkaw	fkaw
+2A78A	𪞊	wumk	wyuk	wyuk
+2A78B	𪞋	vcew	veaw	vcew
+2A78C	𪞌	ulyk	ulyk	ulyk
+2A78D	𪞍	uvok	uvjk	uvok
+2A78E	𪞎	mdd	mdd	mdd
+2A78F	𪞏	pqbb	pqbb	pqbb
+2A790	𪞐	pwbf	pwbf	pwbf
+2A791	𪞑	pwkh	pwkh	pwkh
+2A792	𪞒	pfqf	pfqf	pfqf
+2A793	𪞓	pwye	pwyv	pwye
+2A794	𪞔	pqbc	pqbc	pqbc
+2A795	𪞕	pdhl	pdhe	pdhe
+2A796	𪞖	umyy	uwyy	uwyy
+2A797	𪞗	umty	umty	umty
+2A798	𪞘	uwgn	uwgn	uwgn
+2A799	𪞙	uyy	uyy	uyy
+2A79A	𪞚	unyy	unyy	unyy
+2A79B	𪞛	ulg	ulg	ulg
+2A79C	𪞜	urg	urg	urg
+2A79D	𪞝	ucfh	ucgh	ucgh
+2A79E	𪞞	udnt	udnn	udny
+2A79F	𪞟	dwuu	dwuu	dwuu
+2A7A0	𪞠	uwyb	uwyb	uwyb
+2A7A1	𪞡	uwfi	uwfi	uwfi
+2A7A2	𪞢	udff	udff	udff
+2A7A3	𪞣	uhaq	uhqn	uhaq
+2A7A4	𪞤	uwyn	uwyn	uwyn
+2A7A5	𪞥	upfi	upfi	upfi
+2A7A6	𪞦	uleg	ulmu	uleg
+2A7A7	𪞧	uwyq	uwyq	uwyq
+2A7A8	𪞨	uyps	uyps	uyks
+2A7A9	𪞩	uawy	uawy	uawy
+2A7AA	𪞪	uwqu	uwru	uwru
+2A7AB	𪞫	ugkt	uskt	ugkt
+2A7AC	𪞬	uujh	uujj	uujf
+2A7AD	𪞭	uffq	uffq	uffq
+2A7AE	𪞮	ufwc	ufwc	ufwc
+2A7AF	𪞯	uype	uype	uyke
+2A7B0	𪞰	uucy	uuco	uuco
+2A7B1	𪞱	fpmb	fpwb	fpwb
+2A7B2	𪞲	mhkg	whkd	whkd
+2A7B3	𪞳	tfum	tfuw	tfuw
+2A7B4	𪞴	myfk	wyfk	wyfk
+2A7B5	𪞵	mfvd	wfvd	wfvd
+2A7B6	𪞶	tygb	tygb	tygb
+2A7B7	𪞷	bmah	bmah	bmah
+2A7B8	𪞸	ybtf	yrbf	yrbf
+2A7B9	𪞹	bmvn	bmvn	bmvn
+2A7BA	𪞺	bmen	bmen	bmen
+2A7BB	𪞻	ybkd	yrbd	yrbd
+2A7BC	𪞼	ybuw	yrbw	yrbw
+2A7BD	𪞽	ybme	yrbe	yrbe
+2A7BE	𪞾	fwjh	gjh	fwjh
+2A7BF	𪞿	gbnj	gbnj	gbnj
+2A7C0	𪟀	vyn	vyt	vyt
+2A7C1	𪟁	dcjh	dcyj	dcyj
+2A7C2	𪟂	hkvn	hkvt	hkvt
+2A7C3	𪟃	ddjh	ddjh	ddjh
+2A7C4	𪟄	ubtj	ubtj	ubtj
+2A7C5	𪟅	unwj	unwj	unwj
+2A7C6	𪟆	gcej	gcmj	gcej
+2A7C7	𪟇	rwjh	rwjh	rwjh
+2A7C8	𪟈	ftjj	ftjj	ftjj
+2A7C9	𪟉	dufj	dufj	dufj
+2A7CA	𪟊	degv	degv	degv
+2A7CB	𪟋	afjh	afjh	akfj
+2A7CC	𪟌	fkuj	fkuj	fkuj
+2A7CD	𪟍	uejh	uejh	uejh
+2A7CE	𪟎	jtyj	jtyj	jtyj
+2A7CF	𪟏	tguj	tguj	tguj
+2A7D0	𪟐	wveh	wveh	wveh
+2A7D1	𪟑	yqkv	yqkv	yqkv
+2A7D2	𪟒	yttj	yttj	yttj
+2A7D3	𪟓	vbjx	vbjx	vbjx
+2A7D4	𪟔	lwwj	lwwj	lwwj
+2A7D5	𪟕	tadj	tdwj	tadj
+2A7D6	𪟖	vhgj	vhgj	vhgj
+2A7D7	𪟗	lksj	eksj	eksj
+2A7D8	𪟘	rgln	ret	rget
+2A7D9	𪟙	vcln	vet	vcet
+2A7DA	𪟚	qkln	qket	qket
+2A7DB	𪟛	ivyl	ivye	ivye
+2A7DC	𪟜	iitl	iite	iite
+2A7DD	𪟝	gmln	gmet	gmet
+2A7DE	𪟞	llft	left	left
+2A7DF	𪟟	qqlv	qlqe	qlqe
+2A7E0	𪟠	ujln	ujet	ujet
+2A7E1	𪟡	llsk	lesk	lesk
+2A7E2	𪟢	wgwl	wgwe	wgwe
+2A7E3	𪟣	kkml	kkme	kkme
+2A7E4	𪟤	gall	gale	gale
+2A7E5	𪟥	agal	ffge	agae
+2A7E6	𪟦	llwy	lewy	lewy
+2A7E7	𪟧	llll	lele	lele
+2A7E8	𪟨	nxv	nxv	nxv
+2A7E9	𪟩	xgdu	xgdu	xgdu
+2A7EA	𪟪	uxgi	uxdh	uxdh
+2A7EB	𪟫	xxrg	xxrg	xxrg
+2A7EC	𪟬	aed	aed	aed
+2A7ED	𪟭	aanh	aanh	aanh
+2A7EE	𪟮	aqnr	arnr	arnr
+2A7EF	𪟯	ajfd	ajfd	ajfd
+2A7F0	𪟰	awtk	awtk	awtk
+2A7F1	𪟱	aosd	aosd	aosd
+2A7F2	𪟲	aujm	aujm	aujm
+2A7F3	𪟳	tfqh	tfqh	tfqh
+2A7F4	𪟴	fkfn	dftn	dftn
+2A7F5	𪟵	fjvy	fjvy	fjfy
+2A7F6	𪟶	ufik	ugik	ugik
+2A7F7	𪟷	hjch	hjcg	hjfg
+2A7F8	𪟸	ufuy	ugyy	ugyy
+2A7F9	𪟹	fpxc	fpxc	fpxc
+2A7FA	𪟺	fjwj	fjwj	fjfj
+2A7FB	𪟻	wywf	wywf	wywf
+2A7FC	𪟼	ywww	ywww	ywww
+2A7FD	𪟽	hbj	hbb	hbj
+2A7FE	𪟾	fihi	fhi	fihi
+2A7FF	𪟿	hjhy	fjhy	hjfh
+2A800	𪠀	hpgf	hpgf	hpgf
+2A801	𪠁	wgkb	wgkb	wgkb
+2A802	𪠂	cvcb	cvbh	cvcb
+2A803	𪠃	dcd	dcgd	dcgd
+2A804	𪠄	djnv	djnv	djnv
+2A805	𪠅	dfkd	dfld	dfkd
+2A806	𪠆	duak	duak	duak
+2A807	𪠇	dfoi	dfoi	dfoi
+2A808	𪠈	dkkn	dkkn	dkkn
+2A809	𪠉	dhqh	dhqh	dhqh
+2A80A	𪠊	djdi	djdi	djdi
+2A80B	𪠋	dfhd	dfhd	dfhd
+2A80C	𪠌	dxdm	dxdm	dxdm
+2A80D	𪠍	ddei	ddei	ddei
+2A80E	𪠎	dwcn	dwcn	dwcn
+2A80F	𪠏	ddhc	ddbi	ddyc
+2A810	𪠐	dwfg	dwfg	dwfg
+2A811	𪠑	dgef	dsfi	dgef
+2A812	𪠒	deut	deut	deut
+2A813	𪠓	damw	damw	damw
+2A814	𪠔	drxc	drxc	drxc
+2A815	𪠕	dnwy	dnwy	dnwy
+2A816	𪠖	dogy	doug	dogw
+2A817	𪠗	rjbk	rjbk	rjbk
+2A818	𪠘	dqeh	dqeg	dqeg
+2A819	𪠙	duen	dumy	duey
+2A81A	𪠚	dttl	dttl	dttl
+2A81B	𪠛	dkkt	dkkt	dkkt
+2A81C	𪠜	gcmh	gcwh	gcwh
+2A81D	𪠝	fcnx	fcnx	fcnx
+2A81E	𪠞	qqfc	qqfc	qqfc
+2A81F	𪠟	cdeq	cdeq	cdeq
+2A820	𪠠	ctdw	ctdw	ctdw
+2A821	𪠡	cdew	cdew	cdew
+2A822	𪠢	fcyw	fcow	fcow
+2A823	𪠣	qcu	rcu	rcu
+2A824	𪠤	vcy	vcy	vcy
+2A825	𪠥	cef	cef	cef
+2A826	𪠦	dfcy	dfcy	dfcy
+2A827	𪠧	scy	scy	scy
+2A828	𪠨	vcu	ecu	ecu
+2A829	𪠩	wfic	wfic	wfic
+2A82A	𪠪	nhfc	nhfc	nhfc
+2A82B	𪠫	udrc	uddc	uddc
+2A82C	𪠬	vdcy	vdcy	vdcy
+2A82D	𪠭	rcbg	rcbg	rcbg
+2A82E	𪠮	pwwc	pwwc	pwwc
+2A82F	𪠯	akkc	akkc	akkc
+2A830	𪠰	cccj	cccj	cccj
+2A831	𪠱	bcfy	bcfy	bcfy
+2A832	𪠲	kcu	kcu	kcu
+2A833	𪠳	klh	klh	klh
+2A834	𪠴	kqty	kqry	kqry
+2A835	𪠵	kwxn	kwxn	kwxn
+2A836	𪠶	kwfg	kwfg	kwfg
+2A837	𪠷	kqkf	krkf	krkf
+2A838	𪠸	kqiy	ktni	ktni
+2A839	𪠹	pykf	pykf	pykf
+2A83A	𪠺	krvy	krvy	krvy
+2A83B	𪠻	kgcq	kgck	kgck
+2A83C	𪠼	kmww	kmww	kmww
+2A83D	𪠽	kivg	kivg	kivg
+2A83E	𪠾	ktey	ktuy	ktey
+2A83F	𪠿	kthh	kthh	kthh
+2A840	𪡀	ktdj	ktdj	ktdj
+2A841	𪡁	kycq	kycq	kycq
+2A842	𪡂	kcgf	ktgh	kcah
+2A843	𪡃	knud	knud	knud
+2A844	𪡄	kalh	kalh	kalh
+2A845	𪡅	gkkd	gkkf	gkkf
+2A846	𪡆	krwn	krwn	krwn
+2A847	𪡇	kwqi	kwqi	kwqi
+2A848	𪡈	kwrg	kwrg	kwrg
+2A849	𪡉	ktkh	ktkh	ktkh
+2A84A	𪡊	keet	ket	ket
+2A84B	𪡋	kwgi	kwgg	kwgg
+2A84C	𪡌	iqwk	iqwk	iqwk
+2A84D	𪡍	ykqh	ykqh	ykqh
+2A84E	𪡎	klwc	kewc	kewc
+2A84F	𪡏	klpy	klpy	klpy
+2A850	𪡐	dklk	dklk	dklk
+2A851	𪡑	skiv	skiv	skiv
+2A852	𪡒	kfuf	kfuf	kfuf
+2A853	𪡓	kjxx	kjxx	kjxx
+2A854	𪡔	klah	klah	klah
+2A855	𪡕	kqrr	kqrr	kqrr
+2A856	𪡖	kqld	krld	krld
+2A857	𪡗	krqw	krqw	krqw
+2A858	𪡘	qqkh	rrkg	rrkg
+2A859	𪡙	kyvb	kyvb	kyvb
+2A85A	𪡚	kitg	kitg	kitg
+2A85B	𪡛	kusk	kusk	kusk
+2A85C	𪡜	dwkq	dwkq	dwkq
+2A85D	𪡝	kawn	kawn	kawn
+2A85E	𪡞	kkhm	kkhm	kkhm
+2A85F	𪡟	kwct	kwct	kwct
+2A860	𪡠	kriy	kriy	kriy
+2A861	𪡡	kqyg	kqyg	kqyg
+2A862	𪡢	vkkj	ekkj	ekkj
+2A863	𪡣	kpgm	kpgm	kpgm
+2A864	𪡤	irek	irek	irek
+2A865	𪡥	kiaw	kiaw	kiaw
+2A866	𪡦	kuhb	kuhb	kuhb
+2A867	𪡧	kusg	kusg	kusg
+2A868	𪡨	knoy	knoy	knoy
+2A869	𪡩	kmdo	kmdo	kmdo
+2A86A	𪡪	dfek	dfek	dfek
+2A86B	𪡫	kfke	kfke	kfke
+2A86C	𪡬	djtk	djtk	djtk
+2A86D	𪡭	ksgn	ksgn	ksgn
+2A86E	𪡮	kmfy	kmfy	kmfy
+2A86F	𪡯	kmun	kmun	kmun
+2A870	𪡰	kkvb	kkvb	kkvb
+2A871	𪡱	kdin	kgfe	kdin
+2A872	𪡲	vkgd	ekgd	ekgd
+2A873	𪡳	ukck	ukck	ukck
+2A874	𪡴	kynn	kynn	kynn
+2A875	𪡵	kike	kike	kike
+2A876	𪡶	kpqy	kpqy	kpqy
+2A877	𪡷	kbwt	kbws	kbws
+2A878	𪡸	kruv	kruv	kruv
+2A879	𪡹	fnmk	fnwk	fnwk
+2A87A	𪡺	kgom	kgum	kgom
+2A87B	𪡻	ahjd	ahjd	ahjd
+2A87C	𪡼	kkhd	kkhd	kkhd
+2A87D	𪡽	kjfh	kjgg	kjgg
+2A87E	𪡾	kttg	kttg	kttg
+2A87F	𪡿	kega	kega	kega
+2A880	𪢀	ktlt	ktlt	ktlt
+2A881	𪢁	kyja	kyja	kyja
+2A882	𪢂	kugh	kugh	kugh
+2A883	𪢃	kybt	kyrt	kybt
+2A884	𪢄	knug	knug	knug
+2A885	𪢅	krnf	krnf	krnf
+2A886	𪢆	kftp	kftp	kftp
+2A887	𪢇	kssp	kssp	kssp
+2A888	𪢈	rgkv	rgkv	rgkv
+2A889	𪢉	ktmk	ktmk	ktmk
+2A88A	𪢊	ktli	ktli	ktli
+2A88B	𪢋	kwsm	kwsm	kwsm
+2A88C	𪢌	kugi	kusl	kugi
+2A88D	𪢍	kxfk	kxfk	kxfk
+2A88E	𪢎	kbkf	kbkf	kbkf
+2A88F	𪢏	dfeb	dfeb	dfeb
+2A890	𪢐	kgkm	kskm	kgkm
+2A891	𪢑	ktwk	ktwk	ktwk
+2A892	𪢒	kovt	kovt	kovt
+2A893	𪢓	yniw	yniw	yniw
+2A894	𪢔	kyno	kogo	kono
+2A895	𪢕	kgqm	kgqm	kgqm
+2A896	𪢖	ktqn	ktqn	ktqn
+2A897	𪢗	kpnj	kpnj	kpnj
+2A898	𪢘	kugi	kusk	kudi
+2A899	𪢙	kgjh	kgjh	kgjh
+2A89A	𪢚	krjc	krjc	krjc
+2A89B	𪢛	kmeh	kmeh	kmeh
+2A89C	𪢜	kqgy	kqsy	kqgy
+2A89D	𪢝	ktfn	ktfn	ktfn
+2A89E	𪢞	xtbk	xtbk	xtbk
+2A89F	𪢟	kymd	kymu	kykg
+2A8A0	𪢠	kaui	kaul	kaui
+2A8A1	𪢡	tfkk	tfkk	tfkk
+2A8A2	𪢢	fkug	fkug	fkug
+2A8A3	𪢣	fkue	fkue	fkue
+2A8A4	𪢤	ktdk	ktdk	ktdk
+2A8A5	𪢥	kthp	kthp	kthp
+2A8A6	𪢦	sksh	sksg	sksh
+2A8A7	𪢧	kbtn	kbtn	kbtn
+2A8A8	𪢨	lyi	lyi	lyi
+2A8A9	𪢩	lgig	ldhg	ldhg
+2A8AA	𪢪	ludk	luk	lugk
+2A8AB	𪢫	llk	llk	llk
+2A8AC	𪢬	ljxx	ljxx	ljxx
+2A8AD	𪢭	luog	luod	luog
+2A8AE	𪢮	lyos	lyos	lyos
+2A8AF	𪢯	lahq	lahq	lahq
+2A8B0	𪢰	lkmy	lkmy	lkmy
+2A8B1	𪢱	fhu	gyi	fhu
+2A8B2	𪢲	fcy	fcy	fcy
+2A8B3	𪢳	fcnb	fcnb	fcnb
+2A8B4	𪢴	ffg	ffg	ffg
+2A8B5	𪢵	fmyy	fwyy	fwyy
+2A8B6	𪢶	tff	tff	tff
+2A8B7	𪢷	fynn	fynn	fynn
+2A8B8	𪢸	ffqn	ffqn	ffqn
+2A8B9	𪢹	fdmn	fdmn	fdmn
+2A8BA	𪢺	fhcy	fhcy	fhcy
+2A8BB	𪢻	feg	feg	feg
+2A8BC	𪢼	fwxn	fwxn	fwxn
+2A8BD	𪢽	ftfh	ftgh	ftfh
+2A8BE	𪢾	off	off	off
+2A8BF	𪢿	fiy	fiy	fiy
+2A8C0	𪣀	fcn	fcn	fcn
+2A8C1	𪣁	fcqn	fcqn	fcqn
+2A8C2	𪣂	fbnn	fbnn	fbnn
+2A8C3	𪣃	fgmw	fgmw	fgmw
+2A8C4	𪣄	fdfj	fdfj	fdfj
+2A8C5	𪣅	fann	fann	fann
+2A8C6	𪣆	faiy	faiy	faiy
+2A8C7	𪣇	ftpy	atpy	ftpy
+2A8C8	𪣈	fmkg	fwkg	fwkg
+2A8C9	𪣉	fyni	fyni	fyni
+2A8CA	𪣊	fntt	fntt	fntt
+2A8CB	𪣋	fdhb	fdhb	fdhb
+2A8CC	𪣌	fbg	fbg	fbg
+2A8CD	𪣍	fjen	fjbt	fjbt
+2A8CE	𪣎	friy	ftfy	friy
+2A8CF	𪣏	fyth	fyth	fyth
+2A8D0	𪣐	fyfg	fofg	fofg
+2A8D1	𪣑	fpey	fpey	fpey
+2A8D2	𪣒	fplh	fplh	fplh
+2A8D3	𪣓	fnta	fnta	fnta
+2A8D4	𪣔	fgkg	fgkg	fgkg
+2A8D5	𪣕	fdqn	fdqn	fdqn
+2A8D6	𪣖	svyf	svyf	svyf
+2A8D7	𪣗	dfef	dfef	dfef
+2A8D8	𪣘	fknd	fknd	fknd
+2A8D9	𪣙	fjug	fjug	fjug
+2A8DA	𪣚	fjvg	fjvg	fjvg
+2A8DB	𪣛	ftjh	ftjh	ftjh
+2A8DC	𪣜	ften	ftbt	ftbt
+2A8DD	𪣝	fran	fran	fran
+2A8DE	𪣞	fpqa	fpqa	fpqa
+2A8DF	𪣟	fpqf	fpqf	fpqf
+2A8E0	𪣠	fykg	fykg	fykg
+2A8E1	𪣡	itdf	itdf	itdf
+2A8E2	𪣢	fiyy	fiyy	fiyy
+2A8E3	𪣣	fvtk	fvtk	fvtk
+2A8E4	𪣤	fajg	fajg	fajg
+2A8E5	𪣥	fgah	fgay	ffhy
+2A8E6	𪣦	fjeg	fjeg	fjeg
+2A8E7	𪣧	fjjg	fjjg	fjjg
+2A8E8	𪣨	flfh	flfh	flfh
+2A8E9	𪣩	fheg	fheg	fheg
+2A8EA	𪣪	etaf	etaf	etaf
+2A8EB	𪣫	fynj	fynj	fynj
+2A8EC	𪣬	fpnn	fpng	fpnn
+2A8ED	𪣭	ihcf	ibff	ihcf
+2A8EE	𪣮	finx	finx	finx
+2A8EF	𪣯	fpeg	fpeg	fpeg
+2A8F0	𪣰	flah	flah	flah
+2A8F1	𪣱	fuqh	fuqh	fuqh
+2A8F2	𪣲	falg	fffl	falg
+2A8F3	𪣳	fdmf	fdmf	fdmf
+2A8F4	𪣴	fght	fght	fght
+2A8F5	𪣵	fuxe	fuxu	fuxe
+2A8F6	𪣶	wtcf	wgsf	wgsf
+2A8F7	𪣷	fqmd	fqmd	fqmd
+2A8F8	𪣸	wtcf	wgsf	wgsf
+2A8F9	𪣹	fyps	fyps	fyks
+2A8FA	𪣺	fnwk	fnwk	fnwk
+2A8FB	𪣻	fovg	fovg	fovg
+2A8FC	𪣼	fyod	fyod	fyod
+2A8FD	𪣽	cffb	cffb	cffb
+2A8FE	𪣾	fcex	fcex	fcex
+2A8FF	𪣿	btaf	btaf	btaf
+2A900	𪤀	ahnf	ahnf	ahnf
+2A901	𪤁	fgkf	fgkf	fgkf
+2A902	𪤂	fhlg	fhlg	fhlg
+2A903	𪤃	fjpv	fjpv	fjpv
+2A904	𪤄	flfc	flfc	flfc
+2A905	𪤅	fipq	fipq	fipq
+2A906	𪤆	frnn	frnn	frnn
+2A907	𪤇	fwgk	fwgk	fwgk
+2A908	𪤈	temf	tuwf	tewf
+2A909	𪤉	fudi	fugi	fudi
+2A90A	𪤊	iyvf	iyvf	iyvf
+2A90B	𪤋	fybc	fyrc	fyrc
+2A90C	𪤌	fccs	fccs	fccs
+2A90D	𪤍	fnae	fnae	fnae
+2A90E	𪤎	flpy	flpy	flpy
+2A90F	𪤏	fadf	fdwf	fadf
+2A910	𪤐	ffxh	ffxh	ffxh
+2A911	𪤑	flag	flag	flag
+2A912	𪤒	fwgl	fwgl	fwgl
+2A913	𪤓	ftxt	ftxt	ftxt
+2A914	𪤔	frny	frns	frny
+2A915	𪤕	fydg	fydg	fydg
+2A916	𪤖	fnhf	fuqf	fnhf
+2A917	𪤗	fnwe	fnwe	fnwe
+2A918	𪤘	cfas	cffs	cfas
+2A919	𪤙	ffoy	ffoy	ffoy
+2A91A	𪤚	fbud	fbud	fbud
+2A91B	𪤛	ftfn	deee	ftfn
+2A91C	𪤜	yyfy	yyfy	yyfy
+2A91D	𪤝	bjgf	bjgf	bjgf
+2A91E	𪤞	fnfp	fnfp	fnfp
+2A91F	𪤟	fmuf	fmuf	fmuf
+2A920	𪤠	fflg	fflg	fflg
+2A921	𪤡	fmau	fmau	fmau
+2A922	𪤢	fkks	fkks	fkks
+2A923	𪤣	ftyn	fwgn	ftyn
+2A924	𪤤	fpyi	fpyi	fpyi
+2A925	𪤥	fujn	fujn	fujn
+2A926	𪤦	fgei	fswi	fgei
+2A927	𪤧	fwfw	fegw	fegw
+2A928	𪤨	fthj	fthj	fthj
+2A929	𪤩	fqmt	fqmt	fqmt
+2A92A	𪤪	fyjg	fyjg	fyuj
+2A92B	𪤫	fobc	fobc	fobc
+2A92C	𪤬	dddf	dddf	dddf
+2A92D	𪤭	fhbh	fhbh	fhbh
+2A92E	𪤮	fpdi	fpdi	fpdi
+2A92F	𪤯	fyjd	fyju	fykg
+2A930	𪤰	ffss	ffss	ffss
+2A931	𪤱	akfu	akgu	akfu
+2A932	𪤲	fnqh	fnqh	fnqh
+2A933	𪤳	fnkf	fnkf	fnkf
+2A934	𪤴	fpgl	fpgl	fpgl
+2A935	𪤵	tkib	tkib	tkib
+2A936	𪤶	ghft	ghft	ghft
+2A937	𪤷	qmhh	qmhh	qmhh
+2A938	𪤸	qhqh	qhqh	qhqh
+2A939	𪤹	qoy	qoy	qoy
+2A93A	𪤺	qqgn	qqgn	qqgn
+2A93B	𪤻	qqhc	qqby	qqhc
+2A93C	𪤼	qyvb	qyvb	qyvb
+2A93D	𪤽	fwtq	fwtq	fwtq
+2A93E	𪤾	qfje	qfje	qfje
+2A93F	𪤿	qqff	qqff	qqff
+2A940	𪥀	yylq	oylq	oylq
+2A941	𪥁	dnb	dnb	dnb
+2A942	𪥂	dvn	dvt	dvn
+2A943	𪥃	fwsj	gsj	fwsj
+2A944	𪥄	sdu	sdu	sdu
+2A945	𪥅	dat	day	day
+2A946	𪥆	dwcu	dwcu	dwcu
+2A947	𪥇	gmwd	gmwd	gmwd
+2A948	𪥈	dguh	dguf	dguf
+2A949	𪥉	gdcb	gdcb	gdcb
+2A94A	𪥊	fidy	fdy	fidy
+2A94B	𪥋	dfiu	dfu	dfiu
+2A94C	𪥌	tmwd	tmwd	tmwd
+2A94D	𪥍	dgjn	dgjn	dgjn
+2A94E	𪥎	agdu	agdu	agdu
+2A94F	𪥏	dywy	dywy	dywy
+2A950	𪥐	dwyh	dwyh	dwyh
+2A951	𪥑	dfie	dfib	dfib
+2A952	𪥒	kqwd	kqwd	kqwd
+2A953	𪥓	dgmf	dgmf	dgmf
+2A954	𪥔	pwad	pwad	pwad
+2A955	𪥕	dnbm	dnbm	dnbm
+2A956	𪥖	jand	jand	jand
+2A957	𪥗	uejd	uejd	uejd
+2A958	𪥘	uskd	ukhd	yusd
+2A959	𪥙	rkad	tgkd	rkad
+2A95A	𪥚	dufq	dufq	dufq
+2A95B	𪥛	ujnd	ujnd	ujnd
+2A95C	𪥜	dkka	dkka	dkka
+2A95D	𪥝	tgjd	tgjd	tgjd
+2A95E	𪥞	ugld	ugld	ugld
+2A95F	𪥟	ftgd	ftgd	ftgd
+2A960	𪥠	mmmd	mmmd	mmmd
+2A961	𪥡	bued	bued	bued
+2A962	𪥢	oyod	yood	yood
+2A963	𪥣	exdq	exdk	exdk
+2A964	𪥤	hvf	hvf	hgvf
+2A965	𪥥	vthh	vthh	vthh
+2A966	𪥦	vgxg	vgxg	vgxg
+2A967	𪥧	vhg	vhg	vhg
+2A968	𪥨	vjg	vjg	vjg
+2A969	𪥩	vhcy	vhcy	vhcy
+2A96A	𪥪	vmmn	vwwn	vwwn
+2A96B	𪥫	vccy	vccy	vccy
+2A96C	𪥬	vcqn	vcqn	vcqn
+2A96D	𪥭	vmsh	vmsh	vmsh
+2A96E	𪥮	vhjg	vhjg	vhjg
+2A96F	𪥯	qhvc	qhvc	qhvc
+2A970	𪥰	vpsh	vpsh	vpsh
+2A971	𪥱	vgmi	vsmn	vgmi
+2A972	𪥲	vtdc	vtdy	vtdy
+2A973	𪥳	vkmh	vkmh	vkmh
+2A974	𪥴	thvf	thvf	thvf
+2A975	𪥵	vng	vng	vng
+2A976	𪥶	vdtb	vtgb	vtgb
+2A977	𪥷	wrvf	wrvf	wrvf
+2A978	𪥸	qrvb	qrvb	qrvb
+2A979	𪥹	vyme	vywe	vywe
+2A97A	𪥺	lalv	eaev	eaev
+2A97B	𪥻	vftp	vftp	vftp
+2A97C	𪥼	vgvv	vgvv	vgvv
+2A97D	𪥽	vdey	vdey	vdey
+2A97E	𪥾	vdqh	vdqh	vdqh
+2A97F	𪥿	vfnd	vfnd	vfnd
+2A980	𪦀	vayn	vffy	vayn
+2A981	𪦁	vtln	vtln	vtln
+2A982	𪦂	vtmd	vtmd	vtmd
+2A983	𪦃	vyhk	vohk	vohk
+2A984	𪦄	vcjy	vcjy	vcjy
+2A985	𪦅	vvlq	vvlr	vvlr
+2A986	𪦆	vdpu	vdpu	vdpu
+2A987	𪦇	vfff	vfff	vfff
+2A988	𪦈	vajv	vajv	vajv
+2A989	𪦉	viqy	vigy	vigy
+2A98A	𪦊	vkkn	vkkn	vkkn
+2A98B	𪦋	vwdc	vthc	vwdc
+2A98C	𪦌	vuqv	vfqv	vfqv
+2A98D	𪦍	ynvq	ynvq	ynvq
+2A98E	𪦎	vyde	vyde	vyde
+2A98F	𪦏	vxin	vxin	vxin
+2A990	𪦐	vvkt	vvkt	vvkt
+2A991	𪦑	ahnv	ahnv	ahnv
+2A992	𪦒	vhay	vhyy	vhay
+2A993	𪦓	vhna	vhna	vhna
+2A994	𪦔	vwgk	vwgk	vwgk
+2A995	𪦕	vwqq	vwrq	vwrq
+2A996	𪦖	vups	vyus	vyus
+2A997	𪦗	vdev	vdev	vdev
+2A998	𪦘	vftt	vftt	vftt
+2A999	𪦙	vatt	vffy	vaty
+2A99A	𪦚	vmty	vmty	vmty
+2A99B	𪦛	vpwd	vpwd	vpwd
+2A99C	𪦜	vifj	vifj	vifj
+2A99D	𪦝	vyby	vyby	vyky
+2A99E	𪦞	vnrg	vnrg	vnrg
+2A99F	𪦟	vbyu	vbyu	vbyu
+2A9A0	𪦠	ccvf	cocv	cocv
+2A9A1	𪦡	vgmi	vsmm	vgmi
+2A9A2	𪦢	veqg	veqg	veqg
+2A9A3	𪦣	vwtf	vwtf	vwtf
+2A9A4	𪦤	vxii	vxii	vxii
+2A9A5	𪦥	xxvf	xxvf	xxvf
+2A9A6	𪦦	vfqy	vfqy	vfqy
+2A9A7	𪦧	vfbh	vfbh	vfbh
+2A9A8	𪦨	vlqj	vlqj	vlqj
+2A9A9	𪦩	vmxt	vmxt	vmxt
+2A9AA	𪦪	vtln	vtln	vtln
+2A9AB	𪦫	vutk	vutk	vutk
+2A9AC	𪦬	vahm	vahm	vahm
+2A9AD	𪦭	vdwo	vdqo	vdwo
+2A9AE	𪦮	vlll	vlll	vlll
+2A9AF	𪦯	vooy	vooy	vooy
+2A9B0	𪦰	vgkk	vgkk	vgkk
+2A9B1	𪦱	vooj	vooj	vooj
+2A9B2	𪦲	vckm	vckm	vckm
+2A9B3	𪦳	vjgq	vjgr	vjgr
+2A9B4	𪦴	vtuj	vtuj	vtuj
+2A9B5	𪦵	fhwv	fhwv	fhwv
+2A9B6	𪦶	bfcy	bfcy	bfcy
+2A9B7	𪦷	bat	bay	bat
+2A9B8	𪦸	buy	buy	bywy
+2A9B9	𪦹	byy	byy	byy
+2A9BA	𪦺	brg	brg	brg
+2A9BB	𪦻	wgkb	wgkb	wgkb
+2A9BC	𪦼	brqy	brqy	brqy
+2A9BD	𪦽	ynab	ynab	ynab
+2A9BE	𪦾	bnjw	bhnw	bnjw
+2A9BF	𪦿	bwge	bwgv	bwge
+2A9C0	𪧀	bmmv	bmmv	bmmv
+2A9C1	𪧁	blfh	blfh	blfh
+2A9C2	𪧂	ahnb	ahnb	ahnb
+2A9C3	𪧃	ybtf	ybtf	ykbf
+2A9C4	𪧄	brcc	brcc	brcc
+2A9C5	𪧅	pgmj	pgmj	pgmj
+2A9C6	𪧆	pnyu	pnyu	pnyu
+2A9C7	𪧇	pnhd	pur	pnhd
+2A9C8	𪧈	plf	plf	plf
+2A9C9	𪧉	pwer	pwer	pwer
+2A9CA	𪧊	prkf	prkf	prkf
+2A9CB	𪧋	pqvf	pqvf	pqvf
+2A9CC	𪧌	pcsu	pcsu	pcsu
+2A9CD	𪧍	pfqh	pfqh	pfqh
+2A9CE	𪧎	pkhu	pkhu	pkhu
+2A9CF	𪧏	ploi	plou	ploi
+2A9D0	𪧐	pwrf	pwrf	pwrf
+2A9D1	𪧑	pawu	pawu	pawu
+2A9D2	𪧒	pwtk	pwtk	pwtk
+2A9D3	𪧓	pirf	pirf	pirf
+2A9D4	𪧔	pfjl	pawe	paer
+2A9D5	𪧕	pfrm	pftb	pfrm
+2A9D6	𪧖	prou	prou	prou
+2A9D7	𪧗	pwwl	pwwl	pwwl
+2A9D8	𪧘	povf	povf	povf
+2A9D9	𪧙	pccv	pccv	pccv
+2A9DA	𪧚	pbpf	pbpf	pbpf
+2A9DB	𪧛	pdji	pdji	pdji
+2A9DC	𪧜	pfyt	pfyt	pfyt
+2A9DD	𪧝	paao	payo	payo
+2A9DE	𪧞	pttu	pttx	pttx
+2A9DF	𪧟	pnte	pnte	pnth
+2A9E0	𪧠	pntg	pntg	pntg
+2A9E1	𪧡	fhnf	fhnf	fhnf
+2A9E2	𪧢	pfwy	pfwy	pfwy
+2A9E3	𪧣	pati	pffi	pati
+2A9E4	𪧤	ptmt	ptmt	ptmt
+2A9E5	𪧥	ppym	ppyb	ppym
+2A9E6	𪧦	pfji	pawi	pawi
+2A9E7	𪧧	pgcf	pgcf	pgcf
+2A9E8	𪧨	pjbc	pjbc	pjbc
+2A9E9	𪧩	pmdv	pwdv	pwdv
+2A9EA	𪧪	pvtl	pvtl	pvtl
+2A9EB	𪧫	pdcu	pdco	pdco
+2A9EC	𪧬	psgm	psgb	psgm
+2A9ED	𪧭	pusr	pusr	pusr
+2A9EE	𪧮	pcba	pcna	pcna
+2A9EF	𪧯	ptha	ptha	ptha
+2A9F0	𪧰	pgke	pgke	pgke
+2A9F1	𪧱	pfjk	pawk	pawk
+2A9F2	𪧲	pssc	pssc	pssc
+2A9F3	𪧳	pswf	pswf	pswf
+2A9F4	𪧴	pnlw	pnrw	pnlw
+2A9F5	𪧵	pglj	pslj	ppgv
+2A9F6	𪧶	qfu	qfu	pglj
+2A9F7	𪧷	ffwf	ffwf	qfu
+2A9F8	𪧸	uwgf	uwgf	ffwf
+2A9F9	𪧹	vamf	vawf	uwgf
+2A9FA	𪧺	jghf	jghf	jghf
+2A9FB	𪧻	tmdf	tmdg	tmdg
+2A9FC	𪧼	pqdf	pqdf	pqdf
+2A9FD	𪧽	giff	dhff	dhff
+2A9FE	𪧾	vfmy	vfmy	vfmy
+2A9FF	𪧿	mwiy	mwiy	mwiy
+2AA00	𪨀	ibmh	ibmh	ibmh
+2AA01	𪨁	ebiy	ebiy	ebiy
+2AA02	𪨂	yogi	yoiy	yogi
+2AA03	𪨃	iryf	iryf	iryf
+2AA04	𪨄	itwm	itwm	itwm
+2AA05	𪨅	itdy	itdy	itdy
+2AA06	𪨆	itoe	itoe	itoe
+2AA07	𪨇	gqkm	gqkm	gqkm
+2AA08	𪨈	dnkj	dnyj	dnyj
+2AA09	𪨉	ngmk	ngmk	ngmk
+2AA0A	𪨊	nwwi	nwwi	nwwi
+2AA0B	𪨋	ntfd	ntfd	ntfd
+2AA0C	𪨌	nuav	nuav	nuav
+2AA0D	𪨍	nwmc	nwwc	nwwc
+2AA0E	𪨎	nylk	nyek	nyek
+2AA0F	𪨏	nhie	nhhe	nhhe
+2AA10	𪨐	nyuy	nyuy	nyuy
+2AA11	𪨑	nylk	nylk	nylk
+2AA12	𪨒	nakf	nakf	nakf
+2AA13	𪨓	nymk	nymk	nykk
+2AA14	𪨔	nbhq	nbhq	nbhq
+2AA15	𪨕	ntfm	nebm	ntfm
+2AA16	𪨖	ntfl	nelh	ntfl
+2AA17	𪨗	nttj	nttj	nttj
+2AA18	𪨘	nqak	nqgk	nqak
+2AA19	𪨙	ntff	newf	ntff
+2AA1A	𪨚	nuag	nuag	nuag
+2AA1B	𪨛	nuaf	nuaf	nuaf
+2AA1C	𪨜	nyth	nyts	nyts
+2AA1D	𪨝	ntfj	netj	ntfj
+2AA1E	𪨞	novh	novh	novh
+2AA1F	𪨟	ntfj	neuj	ntfj
+2AA20	𪨠	novf	novg	novg
+2AA21	𪨡	nfuh	nfuh	nfuh
+2AA22	𪨢	mghu	mghu	mghu
+2AA23	𪨣	mtnb	mtnb	mtnb
+2AA24	𪨤	imj	imj	imj
+2AA25	𪨥	mbn	mbn	mbn
+2AA26	𪨦	mrnn	mrn	mrnn
+2AA27	𪨧	mwxb	mwxb	mwxb
+2AA28	𪨨	myhy	myhy	myhy
+2AA29	𪨩	mlnn	mlnn	mlnn
+2AA2A	𪨪	mmmg	mmmg	mmmg
+2AA2B	𪨫	mqtb	mqtb	mqtb
+2AA2C	𪨬	myxy	myxy	myxy
+2AA2D	𪨭	mxcy	mxcy	mxcy
+2AA2E	𪨮	mxcu	mxcu	mxcu
+2AA2F	𪨯	dnnm	dnmj	dnxm
+2AA30	𪨰	mmag	mmag	mmag
+2AA31	𪨱	miqb	mqiu	mqiu
+2AA32	𪨲	mrmj	mtfb	mrmj
+2AA33	𪨳	mtfh	mtgs	mtgs
+2AA34	𪨴	mriy	mtfy	mriy
+2AA35	𪨵	rfcm	rfcm	rfcm
+2AA36	𪨶	mdlj	mdlj	mdlj
+2AA37	𪨷	mgod	mgot	mgod
+2AA38	𪨸	mkqw	mkqw	mkqw
+2AA39	𪨹	mkmw	mkmw	mkmw
+2AA3A	𪨺	muwc	muwc	muwc
+2AA3B	𪨻	mdlf	mdlf	mdlf
+2AA3C	𪨼	mdfi	mdfi	mdfi
+2AA3D	𪨽	muxf	muxf	muxf
+2AA3E	𪨾	mepc	mepc	mepc
+2AA3F	𪨿	myjn	mojn	mojn
+2AA40	𪩀	mnth	mnth	mntf
+2AA41	𪩁	mbeg	mbeg	mbeg
+2AA42	𪩂	mfmf	mfmf	mfmf
+2AA43	𪩃	mjgh	mjgh	mjgh
+2AA44	𪩄	mmtk	mmtk	mmtk
+2AA45	𪩅	mrgf	mrgf	mrgf
+2AA46	𪩆	mrhb	mtgb	mrhb
+2AA47	𪩇	movf	movf	movf
+2AA48	𪩈	mdtt	mdtu	mdty
+2AA49	𪩉	mgef	msfy	mgef
+2AA4A	𪩊	mldn	mldn	mldn
+2AA4B	𪩋	mowv	mowv	mowv
+2AA4C	𪩌	mxdm	mxdm	mxdm
+2AA4D	𪩍	mgjf	mgjf	mgjf
+2AA4E	𪩎	mmmv	mmmv	mmmv
+2AA4F	𪩏	mynx	moxx	monx
+2AA50	𪩐	mpwy	mpwy	mpwy
+2AA51	𪩑	mydn	modn	modn
+2AA52	𪩒	mnug	mnru	mnug
+2AA53	𪩓	magh	mffg	magf
+2AA54	𪩔	muja	muja	mula
+2AA55	𪩕	mwxc	mwxc	mwxc
+2AA56	𪩖	mnbb	mnbb	mnbb
+2AA57	𪩗	mafr	mafr	makr
+2AA58	𪩘	mfmd	mfmd	mfmy
+2AA59	𪩙	makf	makf	makf
+2AA5A	𪩚	mwgj	mwgj	mwgj
+2AA5B	𪩛	mdhb	mdhb	mdhb
+2AA5C	𪩜	mqqc	mrrc	mrrc
+2AA5D	𪩝	mugc	mugc	mugc
+2AA5E	𪩞	mqaa	mqaa	mqaa
+2AA5F	𪩟	mhbn	mhbn	mhbn
+2AA60	𪩠	mgmx	mgmx	mgmx
+2AA61	𪩡	vcb	vcb	vcb
+2AA62	𪩢	rhkh	tghk	rhkh
+2AA63	𪩣	daf	daf	daf
+2AA64	𪩤	angj	angj	angj
+2AA65	𪩥	anyk	anyk	anyk
+2AA66	𪩦	anss	anss	anss
+2AA67	𪩧	ypsn	ypsn	ykpn
+2AA68	𪩨	qlpn	qlpn	qlpn
+2AA69	𪩩	anwp	anwp	anwp
+2AA6A	𪩪	anww	anww	anww
+2AA6B	𪩫	dwnb	dwnb	dwnb
+2AA6C	𪩬	cqhh	cqhh	cqhh
+2AA6D	𪩭	csww	csww	csww
+2AA6E	𪩮	cfwt	cfwt	cfwt
+2AA6F	𪩯	nydg	nutg	nydg
+2AA70	𪩰	magn	magn	magn
+2AA71	𪩱	cugi	cusl	cugi
+2AA72	𪩲	gmht	gmht	gmht
+2AA73	𪩳	mhgk	mhgk	mhgk
+2AA74	𪩴	mhug	mhug	mhug
+2AA75	𪩵	tfhh	tgsh	tgsh
+2AA76	𪩶	pqdh	pqdh	pqdh
+2AA77	𪩷	mhuf	mhuf	mhul
+2AA78	𪩸	mhfm	mhfm	mhfm
+2AA79	𪩹	mhrf	mhrf	mhrf
+2AA7A	𪩺	vpmw	vpmw	vpmw
+2AA7B	𪩻	mhpj	mhpj	mhpj
+2AA7C	𪩼	mheo	mheo	mheo
+2AA7D	𪩽	mhhd	mhhd	mhhd
+2AA7E	𪩾	ogwy	owms	ogwy
+2AA7F	𪩿	mhjc	mhjc	mhjc
+2AA80	𪪀	wnns	tngs	wnns
+2AA81	𪪁	ffjh	ffjh	ffjh
+2AA82	𪪂	fjfh	fjfh	fjff
+2AA83	𪪃	uagw	uagw	uagw
+2AA84	𪪄	guhn	gufn	gufn
+2AA85	𪪅	guhn	gufn	gufn
+2AA86	𪪆	guhn	gufn	gufn
+2AA87	𪪇	guhy	gufy	gufy
+2AA88	𪪈	djdh	hdhg	hdhf
+2AA89	𪪉	fuft	fuft	fuft
+2AA8A	𪪊	xqyy	xqyy	xqyy
+2AA8B	𪪋	xxft	xxft	xxft
+2AA8C	𪪌	ygmh	ogmh	ogmh
+2AA8D	𪪍	yyi	oyi	oyi
+2AA8E	𪪎	yghd	oghd	oghd
+2AA8F	𪪏	yhne	ohne	ohne
+2AA90	𪪐	yayi	oayi	oayi
+2AA91	𪪑	ytdj	otdj	otdj
+2AA92	𪪒	yvtk	ovtk	ovtk
+2AA93	𪪓	ygik	odhk	odhk
+2AA94	𪪔	ydcv	odcv	odcv
+2AA95	𪪕	yfcw	ofcw	ofcw
+2AA96	𪪖	ytfc	otfc	otfc
+2AA97	𪪗	yvcb	ovbk	ovcb
+2AA98	𪪘	ygkc	ogkc	ogkc
+2AA99	𪪙	yjgd	ojgd	ojgd
+2AA9A	𪪚	ybkd	obkd	obkd
+2AA9B	𪪛	yhag	ohag	ohag
+2AA9C	𪪜	ywht	owht	owht
+2AA9D	𪪝	yvkc	ovkc	ovkc
+2AA9E	𪪞	yfuk	ofuk	ofuk
+2AA9F	𪪟	ykkn	okkn	okkn
+2AAA0	𪪠	ywfe	owfe	owfe
+2AAA1	𪪡	ydum	odum	odum
+2AAA2	𪪢	yujd	oujd	oujd
+2AAA3	𪪣	ypgl	opgl	opgl
+2AAA4	𪪤	yfqg	ofqg	ofqg
+2AAA5	𪪥	yudm	ougm	oudm
+2AAA6	𪪦	ywho	owho	owho
+2AAA7	𪪧	yxth	oxth	oxth
+2AAA8	𪪨	yylo	oylo	oylo
+2AAA9	𪪩	gayo	gaoo	gaoo
+2AAAA	𪪪	yach	oach	oach
+2AAAB	𪪫	akfl	akgl	akfl
+2AAAC	𪪬	gfpk	gfpk	gfpk
+2AAAD	𪪭	guhp	gufp	gufp
+2AAAE	𪪮	lpd	lpd	lpd
+2AAAF	𪪯	gvap	gvap	gvap
+2AAB0	𪪰	uspd	uspd	uspd
+2AAB1	𪪱	rgpd	rgpd	rgpd
+2AAB2	𪪲	fgpd	fgpd	fgpd
+2AAB3	𪪳	wcaj	wcaj	wcaj
+2AAB4	𪪴	cfha	cgaj	cgaj
+2AAB5	𪪵	fiya	giya	giya
+2AAB6	𪪶	upma	yupa	yupa
+2AAB7	𪪷	owva	owva	owva
+2AAB8	𪪸	vdfa	edfa	edfa
+2AAB9	𪪹	pela	pela	pela
+2AABA	𪪺	xkg	xkg	xkg
+2AABB	𪪻	xgmw	xgmw	xgmw
+2AABC	𪪼	xxxf	xxxf	xxxf
+2AABD	𪪽	xtlg	xtlg	xtlg
+2AABE	𪪾	xkhc	xkhc	xkhc
+2AABF	𪪿	xbcy	xbcy	xbcy
+2AAC0	𪫀	xnhh	xnkg	xnkh
+2AAC1	𪫁	xemf	xemf	xemf
+2AAC2	𪫂	xpgw	xpgw	xpgw
+2AAC3	𪫃	uxhm	uxhm	uxhm
+2AAC4	𪫄	xwyc	xwyc	xwyc
+2AAC5	𪫅	xqoo	xqoo	xqoo
+2AAC6	𪫆	ivg	ivg	ivg
+2AAC7	𪫇	xgom	xodm	xgom
+2AAC8	𪫈	gkhe	gkhe	gkhe
+2AAC9	𪫉	jyje	jyje	jyje
+2AACA	𪫊	gaeh	gaeg	gaeg
+2AACB	𪫋	tyy	tyy	tyy
+2AACC	𪫌	tdxn	tdxy	tdxy
+2AACD	𪫍	tfny	tfny	tfny
+2AACE	𪫎	tkty	tkty	tkty
+2AACF	𪫏	tkht	tkht	tkht
+2AAD0	𪫐	tqky	tqky	tqky
+2AAD1	𪫑	tlge	tlge	tlge
+2AAD2	𪫒	thpx	thpx	thpx
+2AAD3	𪫓	tvfh	tvgh	tvgh
+2AAD4	𪫔	tqdy	tqdy	tqdy
+2AAD5	𪫕	txit	txit	txit
+2AAD6	𪫖	tgjf	tgjf	tgjf
+2AAD7	𪫗	tiqf	tigf	tigf
+2AAD8	𪫘	thkh	thkh	thkh
+2AAD9	𪫙	tlff	tlff	tlff
+2AADA	𪫚	ifch	ifcg	ifcg
+2AADB	𪫛	tsse	tsse	tsse
+2AADC	𪫜	tbmt	tbmt	tbmt
+2AADD	𪫝	ngnn	ngnn	ngnn
+2AADE	𪫞	nfg	nfg	nfg
+2AADF	𪫟	nsy	nsy	nsy
+2AAE0	𪫠	xxnu	xxnu	xxnu
+2AAE1	𪫡	ndln	ndet	ndet
+2AAE2	𪫢	nhbh	nhbn	nhbh
+2AAE3	𪫣	nhg	nhg	nhg
+2AAE4	𪫤	ncqn	ncqn	ncqn
+2AAE5	𪫥	xhnu	xhnu	xhnu
+2AAE6	𪫦	ndag	ndag	ndag
+2AAE7	𪫧	nskg	nskg	nskg
+2AAE8	𪫨	naqy	naqy	naqy
+2AAE9	𪫩	hnu	hnu	hnu
+2AAEA	𪫪	nmkg	nmkg	nmkg
+2AAEB	𪫫	wvyn	wvyn	wvyn
+2AAEC	𪫬	nhgf	nyfg	nygf
+2AAED	𪫭	nftn	nftn	nftn
+2AAEE	𪫮	ndjg	ndjg	ndjg
+2AAEF	𪫯	naoy	naoy	naoy
+2AAF0	𪫰	kknu	kknu	kknu
+2AAF1	𪫱	wwvn	wwvn	wwvn
+2AAF2	𪫲	npvg	npvg	npvg
+2AAF3	𪫳	yenu	yenu	yenu
+2AAF4	𪫴	vnnu	vnnu	vnnu
+2AAF5	𪫵	gany	gany	gany
+2AAF6	𪫶	wgnh	wgnh	wynh
+2AAF7	𪫷	dtfn	dtfn	dtfn
+2AAF8	𪫸	nfcb	nfcb	nfcb
+2AAF9	𪫹	nwwk	nwwk	nwwk
+2AAFA	𪫺	nwgi	nwgg	nwgg
+2AAFB	𪫻	npfq	npfq	npfq
+2AAFC	𪫼	ycfn	hcfn	yfnu
+2AAFD	𪫽	binu	binu	binu
+2AAFE	𪫾	vrnu	vrnu	vrnu
+2AAFF	𪫿	napy	nffp	napy
+2AB00	𪬀	ntln	ntln	ntln
+2AB01	𪬁	ntfx	ntfx	ntfx
+2AB02	𪬂	pynn	pynn	pynn
+2AB03	𪬃	npeg	npeg	npeg
+2AB04	𪬄	uxhn	uxhn	uxhn
+2AB05	𪬅	pdnu	pdnu	pdnu
+2AB06	𪬆	ytnu	ytnu	ytnu
+2AB07	𪬇	dhdt	dhdt	dhdt
+2AB08	𪬈	gkin	sken	gkin
+2AB09	𪬉	nsfg	nsfg	nsfg
+2AB0A	𪬊	hqrn	hqrn	hqrn
+2AB0B	𪬋	mnmn	mknu	mnmn
+2AB0C	𪬌	njtl	njtl	njcl
+2AB0D	𪬍	nhkn	nhku	nhkn
+2AB0E	𪬎	qvnc	qvnc	qvnc
+2AB0F	𪬏	ntjg	ntjg	ntjg
+2AB10	𪬐	uthn	uthn	uthn
+2AB11	𪬑	nnff	nngf	nngf
+2AB12	𪬒	vctn	vtnu	vctn
+2AB13	𪬓	sifn	sign	sign
+2AB14	𪬔	ngqi	ngqf	ngqi
+2AB15	𪬕	ngcj	ngcj	ngcj
+2AB16	𪬖	nuwy	nuwy	nuwy
+2AB17	𪬗	ntgf	ntgf	ntgf
+2AB18	𪬘	nuwl	nuwl	nuwl
+2AB19	𪬙	nike	nike	nike
+2AB1A	𪬚	nprw	nprw	nprw
+2AB1B	𪬛	pwwn	pwwn	pwwn
+2AB1C	𪬜	nyod	nyod	nyoy
+2AB1D	𪬝	nugn	nugn	nugn
+2AB1E	𪬞	nnhg	nnhg	nnhg
+2AB1F	𪬟	ssen	ssen	ssen
+2AB20	𪬠	nakk	nffk	nakk
+2AB21	𪬡	njcm	njcm	njcm
+2AB22	𪬢	njhl	njhe	njhe
+2AB23	𪬣	nrnk	nryk	nrnk
+2AB24	𪬤	thnt	thnt	thnt
+2AB25	𪬥	umqn	yumn	yumn
+2AB26	𪬦	npgw	npgw	npgw
+2AB27	𪬧	nnyi	nnyi	nnyi
+2AB28	𪬨	njgf	njgf	njgf
+2AB29	𪬩	kmln	kmen	kmen
+2AB2A	𪬪	whwn	whwn	whwn
+2AB2B	𪬫	ujnh	ujnh	ujnh
+2AB2C	𪬬	igen	iswn	igen
+2AB2D	𪬭	nnwh	nnwh	nnwh
+2AB2E	𪬮	nbkg	nbkg	nbkg
+2AB2F	𪬯	gkin	skqn	gkin
+2AB30	𪬰	nhxf	nhxf	nhxh
+2AB31	𪬱	nlkm	nlkm	nlkm
+2AB32	𪬲	wvne	wvnv	wvne
+2AB33	𪬳	ynnm	ynnm	ynnm
+2AB34	𪬴	usrn	usrn	usrn
+2AB35	𪬵	vfjn	vfjn	vfjn
+2AB36	𪬶	nxiu	nxix	nxix
+2AB37	𪬷	ngjf	ngjf	ngjf
+2AB38	𪬸	nuto	nutw	nuto
+2AB39	𪬹	nylj	nylj	nylj
+2AB3A	𪬺	nptl	nptl	nptl
+2AB3B	𪬻	ntmt	ntmd	ntmy
+2AB3C	𪬼	wvnm	wvnm	wvnm
+2AB3D	𪬽	qvnk	qvnk	qvnk
+2AB3E	𪬾	noqb	noqb	noqb
+2AB3F	𪬿	gmhn	gmhn	gmhn
+2AB40	𪭀	uytn	ujun	udyn
+2AB41	𪭁	fpgn	fpgn	fpgn
+2AB42	𪭂	ujdn	ujdn	ujfn
+2AB43	𪭃	nghl	ngnl	nghl
+2AB44	𪭄	nptm	nptm	nptm
+2AB45	𪭅	afan	afan	akfn
+2AB46	𪭆	nuht	nurt	nurt
+2AB47	𪭇	nugy	nugy	nugy
+2AB48	𪭈	nmmy	nmmy	nmmy
+2AB49	𪭉	agf	agf	agf
+2AB4A	𪭊	alv	aee	aee
+2AB4B	𪭋	fabd	fabd	fbxy
+2AB4C	𪭌	alf	alf	alf
+2AB4D	𪭍	awat	away	away
+2AB4E	𪭎	atld	atld	atld
+2AB4F	𪭏	davt	davd	davy
+2AB50	𪭐	aebd	aebd	aebd
+2AB51	𪭑	amhh	amhh	amhh
+2AB52	𪭒	faeb	faeb	feby
+2AB53	𪭓	hlat	hlay	hlay
+2AB54	𪭔	depa	depa	depa
+2AB55	𪭕	iada	idqa	iada
+2AB56	𪭖	xgua	xmay	xmay
+2AB57	𪭗	xyxt	yxxy	yxxy
+2AB58	𪭘	ynan	ynan	ynan
+2AB59	𪭙	ynmk	ynmk	ynmk
+2AB5A	𪭚	ynjh	ynjg	ynjg
+2AB5B	𪭛	ynaj	ynaj	ynaf
+2AB5C	𪭜	rqy	rqy	rqy
+2AB5D	𪭝	rfnh	rfnh	rfnh
+2AB5E	𪭞	rtxy	rtxy	rtxy
+2AB5F	𪭟	rtfh	rtfh	rtfh
+2AB60	𪭠	rqwy	rqwy	rqwy
+2AB61	𪭡	rwfh	twfh	rwfh
+2AB62	𪭢	rwwy	rwwy	rwwy
+2AB63	𪭣	rnny	rnny	rnny
+2AB64	𪭤	rghg	rghg	rghg
+2AB65	𪭥	rdag	rdag	rdag
+2AB66	𪭦	rkqn	rkqn	rkqn
+2AB67	𪭧	rqiy	rqiy	rqiy
+2AB68	𪭨	rtdy	rtdy	rtdy
+2AB69	𪭩	rway	rway	rway
+2AB6A	𪭪	rmmg	rmmg	rmmg
+2AB6B	𪭫	rsyn	rsyt	rsyt
+2AB6C	𪭬	rdmh	rdmh	rdmh
+2AB6D	𪭭	rrqa	rrqa	rrqa
+2AB6E	𪭮	rwww	rwww	rwww
+2AB6F	𪭯	rwfc	rwfc	rwfc
+2AB70	𪭰	rudh	ruh	rugh
+2AB71	𪭱	runw	runw	runw
+2AB72	𪭲	rcdh	rcdh	rcdh
+2AB73	𪭳	rvey	rvy	rvey
+2AB74	𪭴	rfhy	rghy	rfhy
+2AB75	𪭵	rgmw	rgmw	rgmw
+2AB76	𪭶	rkkh	rkkh	rkkh
+2AB77	𪭷	rksy	rksy	rksy
+2AB78	𪭸	rkuf	rkuf	rkuf
+2AB79	𪭹	rvqn	rvqn	rvqn
+2AB7A	𪭺	rqfy	rqfy	rqfy
+2AB7B	𪭻	rtgh	rtgh	rtgh
+2AB7C	𪭼	rtjh	rtjh	rtjh
+2AB7D	𪭽	ryfy	rofy	rofy
+2AB7E	𪭾	rueg	rueg	rueg
+2AB7F	𪭿	rnhf	rufg	rnhf
+2AB80	𪮀	rbfq	rbfq	rbfq
+2AB81	𪮁	rgmj	rsmj	rgmj
+2AB82	𪮂	rgub	rgub	rgub
+2AB83	𪮃	lrrj	lrrj	lrrj
+2AB84	𪮄	rhvv	rhvv	rhvv
+2AB85	𪮅	rtsy	rtsy	rtsy
+2AB86	𪮆	rrag	rrag	rrag
+2AB87	𪮇	rqnk	rqnk	rqnk
+2AB88	𪮈	rwgq	rwgr	rwgr
+2AB89	𪮉	rydh	rydh	rydh
+2AB8A	𪮊	ryof	ryof	ryof
+2AB8B	𪮋	rvij	rvij	rvij
+2AB8C	𪮌	rgcj	rgcj	rgcj
+2AB8D	𪮍	rafs	rfsy	rafs
+2AB8E	𪮎	rayx	rffx	rayx
+2AB8F	𪮏	rlny	rlny	rlny
+2AB90	𪮐	rkkk	rkkk	rkkk
+2AB91	𪮑	rrhg	rrhg	rrhg
+2AB92	𪮒	rrhg	rrhg	rrhg
+2AB93	𪮓	rtda	rtda	rtda
+2AB94	𪮔	ritk	ritk	ritk
+2AB95	𪮕	rnuh	rnuh	rnuh
+2AB96	𪮖	rxqc	rxqc	rxqc
+2AB97	𪮗	rdft	rdfi	rdfy
+2AB98	𪮘	rmth	rmth	rmth
+2AB99	𪮙	raaw	rffw	raaw
+2AB9A	𪮚	mumr	mumr	mumr
+2AB9B	𪮛	rjff	rjff	rjff
+2AB9C	𪮜	rtgf	rtgf	rtgf
+2AB9D	𪮝	rtkl	rtkl	rtkl
+2AB9E	𪮞	rtrw	rttg	rtrw
+2AB9F	𪮟	rwqq	rwrq	rwrq
+2ABA0	𪮠	ryon	ryon	ryon
+2ABA1	𪮡	ryve	ryve	ryve
+2ABA2	𪮢	rdri	rdri	rdri
+2ABA3	𪮣	fhfr	fhfr	rfcr
+2ABA4	𪮤	rmee	rmee	rmee
+2ABA5	𪮥	rtek	rtuk	rtek
+2ABA6	𪮦	rtjf	rtjf	rtjf
+2ABA7	𪮧	ryvh	rovh	rovh
+2ABA8	𪮨	rips	rips	rips
+2ABA9	𪮩	roeg	roeg	roeg
+2ABAA	𪮪	rnfy	rnfy	rnfy
+2ABAB	𪮫	rajt	rajt	rajt
+2ABAC	𪮬	rfkk	rfkk	rfkk
+2ABAD	𪮭	rfhi	rfhi	rfhi
+2ABAE	𪮮	rhja	rhja	rhja
+2ABAF	𪮯	rkbh	rkbh	rkbh
+2ABB0	𪮰	runy	runy	runy
+2ABB1	𪮱	rqje	rqje	rqme
+2ABB2	𪮲	rugw	rugw	rugw
+2ABB3	𪮳	ryoj	ryoj	ryoj
+2ABB4	𪮴	rnov	rnov	rnov
+2ABB5	𪮵	rgxw	rgxw	rgxw
+2ABB6	𪮶	rgkm	rskm	rgkm
+2ABB7	𪮷	rwgu	rwgu	rwgf
+2ABB8	𪮸	rsdp	rsdp	rsdp
+2ABB9	𪮹	rtdh	rtdg	rtdg
+2ABBA	𪮺	rvhl	rvhl	rvhl
+2ABBB	𪮻	rlrj	rlrj	rlrj
+2ABBC	𪮼	rtgo	rtgo	rtgo
+2ABBD	𪮽	rrrm	rrrm	rrrm
+2ABBE	𪮾	ryns	roxs	rons
+2ABBF	𪮿	rynt	ront	ront
+2ABC0	𪯀	rlkc	reko	reko
+2ABC1	𪯁	rnay	rnfy	rnay
+2ABC2	𪯂	rywn	rown	rown
+2ABC3	𪯃	raue	rffv	raue
+2ABC4	𪯄	rgjl	rhge	rake
+2ABC5	𪯅	odfc	odfc	odfc
+2ABC6	𪯆	fcff	fcff	fcff
+2ABC7	𪯇	lgcc	lgcc	lgcc
+2ABC8	𪯈	fwty	gty	fwty
+2ABC9	𪯉	tghc	tghc	tghc
+2ABCA	𪯊	nhth	nhth	nhth
+2ABCB	𪯋	guwc	gudc	gudc
+2ABCC	𪯌	wnnt	tnty	wnnt
+2ABCD	𪯍	gjqt	gjrt	gjrt
+2ABCE	𪯎	fuft	fuft	fuft
+2ABCF	𪯏	qrnt	qrnt	qrnt
+2ABD0	𪯐	upmt	yupt	yupt
+2ABD1	𪯑	gxit	gxit	gxit
+2ABD2	𪯒	yptt	yptt	ykpt
+2ABD3	𪯓	gmat	gmat	gmat
+2ABD4	𪯔	umqt	yumt	yumt
+2ABD5	𪯕	ytwf	ytwf	ytwf
+2ABD6	𪯖	nwet	nwet	nwet
+2ABD7	𪯗	aetv	aetv	aetv
+2ABD8	𪯘	aqat	aqat	aqat
+2ABD9	𪯙	upmt	yupt	yupt
+2ABDA	𪯚	ntft	neot	ntft
+2ABDB	𪯛	ytgi	ytgi	ytgi
+2ABDC	𪯜	ylkt	ylkt	ylkt
+2ABDD	𪯝	aetg	aetg	aets
+2ABDE	𪯞	ytdf	ytdf	ytdf
+2ABDF	𪯟	kkht	kkht	kkht
+2ABE0	𪯠	ykj	ykj	ykj
+2ABE1	𪯡	khyu	khyu	khyu
+2ABE2	𪯢	yyy	yyy	yyy
+2ABE3	𪯣	ylf	ylf	ylf
+2ABE4	𪯤	ywgk	ywgk	ywgk
+2ABE5	𪯥	ggyu	ggyu	ggyu
+2ABE6	𪯦	ymaw	ymaw	ymaw
+2ABE7	𪯧	yqg	yqg	yqg
+2ABE8	𪯨	ydpv	ydpv	ydpv
+2ABE9	𪯩	ywyc	ywyc	ywyc
+2ABEA	𪯪	yymk	yymk	yykk
+2ABEB	𪯫	ufrg	ufrg	ufrg
+2ABEC	𪯬	rgkf	rgkf	rgkf
+2ABED	𪯭	adjf	ahdf	ahdf
+2ABEE	𪯮	kylf	kylf	kylf
+2ABEF	𪯯	dhwf	dhwf	dhwf
+2ABF0	𪯰	wtuc	wgst	wgsc
+2ABF1	𪯱	rty	rty	rty
+2ABF2	𪯲	yrh	yrh	yrh
+2ABF3	𪯳	ytcy	ytcy	ytcy
+2ABF4	𪯴	yhkg	yhkg	yhkg
+2ABF5	𪯵	agyn	agyt	agyt
+2ABF6	𪯶	ytgd	ytgd	ytgd
+2ABF7	𪯷	yudh	yuh	yugh
+2ABF8	𪯸	ytrg	ytrg	ytrg
+2ABF9	𪯹	ydey	ydey	ydey
+2ABFA	𪯺	ywgn	ywgn	ywgn
+2ABFB	𪯻	ypgh	ypgh	ypgh
+2ABFC	𪯼	yyjg	yyjg	yyjg
+2ABFD	𪯽	ythc	ythc	ythc
+2ABFE	𪯾	ykmy	ykmy	ykmy
+2ABFF	𪯿	yamw	yamy	yamw
+2AC00	𪰀	yrla	ytga	yrla
+2AC01	𪰁	ywya	ywya	ywya
+2AC02	𪰂	yxjm	yxjm	yxjm
+2AC03	𪰃	ytaf	ytdg	ytag
+2AC04	𪰄	ytja	ytja	ytja
+2AC05	𪰅	ytqb	ytqb	ytqb
+2AC06	𪰆	jag	jag	jag
+2AC07	𪰇	jqhh	jqhh	jqhh
+2AC08	𪰈	jfqn	jfqn	jfqn
+2AC09	𪰉	jfjh	jfjh	jfjh
+2AC0A	𪰊	jhf	jhf	jhf
+2AC0B	𪰋	jty	jty	jty
+2AC0C	𪰌	jtfn	jen	jtfn
+2AC0D	𪰍	jufh	jufh	jufh
+2AC0E	𪰎	yjf	yjf	yjf
+2AC0F	𪰏	jskg	jskg	jskg
+2AC10	𪰐	jsgg	jsgg	jsgg
+2AC11	𪰑	jgyu	jgyu	jgyu
+2AC12	𪰒	jdg	jdg	jdg
+2AC13	𪰓	jgwf	jgwf	jgwf
+2AC14	𪰔	jmdu	jmdu	jmdu
+2AC15	𪰕	jtdy	jtdy	jtdy
+2AC16	𪰖	jtdu	jtdu	jtdu
+2AC17	𪰗	jntt	jntt	jntt
+2AC18	𪰘	jlkf	jekf	jekf
+2AC19	𪰙	jfkg	jfkg	jfkg
+2AC1A	𪰚	jftx	jftx	jftx
+2AC1B	𪰛	ffjg	ffjg	ffjg
+2AC1C	𪰜	jaag	jaay	jaay
+2AC1D	𪰝	jahj	jahj	jahj
+2AC1E	𪰞	jafh	jffg	jffg
+2AC1F	𪰟	jrhf	jtgh	jrhf
+2AC20	𪰠	jtah	jtgh	jtah
+2AC21	𪰡	jtyg	jtyg	jtyg
+2AC22	𪰢	jyth	jyth	jyth
+2AC23	𪰣	jng	jng	jng
+2AC24	𪰤	jivg	jivg	jivg
+2AC25	𪰥	jgkg	jgkg	jgkg
+2AC26	𪰦	jwwf	jwwf	jwwf
+2AC27	𪰧	jpdc	jpdc	jpdc
+2AC28	𪰨	jnyn	jnyn	jnyn
+2AC29	𪰩	janx	janx	janx
+2AC2A	𪰪	jsww	jsww	jsww
+2AC2B	𪰫	jdfa	jdfa	jdfa
+2AC2C	𪰬	jgtj	jgtj	jgtj
+2AC2D	𪰭	jevh	jevh	jevh
+2AC2E	𪰮	jrmj	jtgj	jrmj
+2AC2F	𪰯	jghc	jghc	jghc
+2AC30	𪰰	jffh	jffh	jffh
+2AC31	𪰱	jght	jght	jght
+2AC32	𪰲	jdjb	jdjb	jdjb
+2AC33	𪰳	jdhd	jdhd	jdhd
+2AC34	𪰴	jwdc	jthc	jwdc
+2AC35	𪰵	jcll	jcle	jcle
+2AC36	𪰶	jxjm	jxjm	jxjm
+2AC37	𪰷	jvfp	jvgp	jvgp
+2AC38	𪰸	jgxi	jgxi	jgxi
+2AC39	𪰹	jfjf	jfjf	jfjf
+2AC3A	𪰺	jlqt	jlqt	jlqt
+2AC3B	𪰻	jwgk	jwgk	jwgk
+2AC3C	𪰼	jyvk	jovk	jovk
+2AC3D	𪰽	jylh	jolh	jolh
+2AC3E	𪰾	jghj	jghj	jghj
+2AC3F	𪰿	jghb	jghb	jghb
+2AC40	𪱀	jlxi	jlxi	jlxi
+2AC41	𪱁	jqrf	jqrf	jqrf
+2AC42	𪱂	jqtj	jqtj	jqtj
+2AC43	𪱃	jtxt	jtxt	jtxt
+2AC44	𪱄	jpgw	jpgw	jpgw
+2AC45	𪱅	jifj	jifj	jifj
+2AC46	𪱆	jjfe	jjae	jjae
+2AC47	𪱇	jgjn	jgjn	jgjn
+2AC48	𪱈	jjjj	jjjj	jjjj
+2AC49	𪱉	jasw	jffw	jasw
+2AC4A	𪱊	jtgk	jtgk	jtgk
+2AC4B	𪱋	jugk	jugk	jugk
+2AC4C	𪱌	jool	jooe	jooe
+2AC4D	𪱍	jujn	jujn	jujn
+2AC4E	𪱎	jtgj	jtgj	jtgj
+2AC4F	𪱏	jqmt	jqmt	jqmt
+2AC50	𪱐	ujih	ujih	ujih
+2AC51	𪱑	jdjf	jdjf	jdjf
+2AC52	𪱒	jyke	jyke	jyke
+2AC53	𪱓	joyc	jyoc	jyoc
+2AC54	𪱔	jwfq	jetq	jetq
+2AC55	𪱕	jbch	jbch	jbch
+2AC56	𪱖	jwyw	jwyw	jwyw
+2AC57	𪱗	uljn	uljn	uljn
+2AC58	𪱘	maev	maev	maev
+2AC59	𪱙	ecy	ecy	ecy
+2AC5A	𪱚	ehg	ehg	ehgg
+2AC5B	𪱛	vtef	vtef	vtef
+2AC5C	𪱜	ckeg	ckeg	ckeg
+2AC5D	𪱝	bief	bief	bief
+2AC5E	𪱞	afed	afed	afed
+2AC5F	𪱟	gjge	gjge	gyte
+2AC60	𪱠	egoc	egoc	egoc
+2AC61	𪱡	ewfi	ewfi	ewfi
+2AC62	𪱢	ethj	ethj	ethj
+2AC63	𪱣	emun	emun	emun
+2AC64	𪱤	dett	dety	dety
+2AC65	𪱥	efam	efam	efam
+2AC66	𪱦	ergg	ergg	ergg
+2AC67	𪱧	eypq	eypq	eykq
+2AC68	𪱨	eujn	eujn	eujn
+2AC69	𪱩	eybc	eyrc	eyrc
+2AC6A	𪱪	eudo	eugo	eudo
+2AC6B	𪱫	qkxe	qkxe	qkxe
+2AC6C	𪱬	eief	eief	eief
+2AC6D	𪱭	eyoe	eyoe	eyoe
+2AC6E	𪱮	ynem	ynem	ynem
+2AC6F	𪱯	ynen	ynen	ynen
+2AC70	𪱰	deyf	deof	deof
+2AC71	𪱱	sghu	sghu	sghu
+2AC72	𪱲	shg	shg	shgg
+2AC73	𪱳	skg	skg	skg
+2AC74	𪱴	svg	svg	svg
+2AC75	𪱵	vsu	vsu	vsu
+2AC76	𪱶	fjsi	fjsi	fjsi
+2AC77	𪱷	smy	smy	smy
+2AC78	𪱸	swuy	swuy	swuy
+2AC79	𪱹	siy	siy	siy
+2AC7A	𪱺	sdag	sdag	sdag
+2AC7B	𪱻	ssg	ssgg	ssg
+2AC7C	𪱼	fiwn	fwgn	fiwn
+2AC7D	𪱽	seh	seh	sehh
+2AC7E	𪱾	sqiy	sqiy	sqiy
+2AC7F	𪱿	stbg	stbg	stbg
+2AC80	𪲀	srgg	srg	srgg
+2AC81	𪲁	uqsu	uqsy	uqsu
+2AC82	𪲂	snjg	snjg	snjg
+2AC83	𪲃	sadg	sady	sady
+2AC84	𪲄	sdoy	ssoy	sdoy
+2AC85	𪲅	figh	fguf	figf
+2AC86	𪲆	sdnf	sdny	sdny
+2AC87	𪲇	smag	smag	smag
+2AC88	𪲈	shhg	shhg	shhg
+2AC89	𪲉	srgk	srgk	srgk
+2AC8A	𪲊	smyy	swyy	swyy
+2AC8B	𪲋	stfh	stgh	stgh
+2AC8C	𪲌	symy	symy	symy
+2AC8D	𪲍	sumh	sumh	sumh
+2AC8E	𪲎	syjh	syjh	syjh
+2AC8F	𪲏	sxty	sxty	sxty
+2AC90	𪲐	sgqb	sgqb	sgqb
+2AC91	𪲑	gbsu	gbsu	gbsu
+2AC92	𪲒	sfoy	sfoy	sfoy
+2AC93	𪲓	sgku	sgku	sgku
+2AC94	𪲔	sgmy	sgmy	sgmy
+2AC95	𪲕	gmic	smwc	gmic
+2AC96	𪲖	sksy	sksy	sksy
+2AC97	𪲗	sloy	sloy	sloy
+2AC98	𪲘	strt	stry	stry
+2AC99	𪲙	staf	staf	staf
+2AC9A	𪲚	sieg	simu	sieg
+2AC9B	𪲛	sonn	sonn	sonn
+2AC9C	𪲜	uwgs	uwgs	uwgs
+2AC9D	𪲝	sysy	sosy	sosy
+2AC9E	𪲞	sudn	sunn	sufq
+2AC9F	𪲟	sfuf	sfuf	sfuf
+2ACA0	𪲠	gvws	gvws	gvws
+2ACA1	𪲡	ssfc	ssfc	ssfc
+2ACA2	𪲢	sfhn	sfhn	sfin
+2ACA3	𪲣	afsh	fsqh	afsh
+2ACA4	𪲤	smqb	smqb	smqb
+2ACA5	𪲥	gkic	skwc	gkic
+2ACA6	𪲦	sitr	sitr	sitr
+2ACA7	𪲧	swwh	swwh	swwh
+2ACA8	𪲨	sqrn	sqrn	sqrn
+2ACA9	𪲩	spjg	spjg	spjg
+2ACAA	𪲪	ylks	ylks	ylks
+2ACAB	𪲫	ubts	ubts	ubts
+2ACAC	𪲬	gmho	ymhs	ymho
+2ACAD	𪲭	fqyq	fqyq	fqyq
+2ACAE	𪲮	syny	sony	sony
+2ACAF	𪲯	sveh	sveh	sveh
+2ACB0	𪲰	sqmd	sqmd	sqmd
+2ACB1	𪲱	syod	syod	syod
+2ACB2	𪲲	sdkc	sdkc	sdkc
+2ACB3	𪲳	sgms	sgms	syms
+2ACB4	𪲴	sdks	sdks	sdks
+2ACB5	𪲵	ssbm	ssbm	ssbm
+2ACB6	𪲶	sftk	sftk	sftk
+2ACB7	𪲷	slsy	slsy	slsy
+2ACB8	𪲸	gmii	smsk	gmii
+2ACB9	𪲹	jtys	jtys	jtys
+2ACBA	𪲺	sjqb	sjqb	sjqb
+2ACBB	𪲻	srdh	srdf	srdf
+2ACBC	𪲼	swyg	swyg	swyg
+2ACBD	𪲽	qsrr	rsrr	rsrr
+2ACBE	𪲾	sesk	sesk	sesk
+2ACBF	𪲿	udgi	udsk	udgi
+2ACC0	𪳀	sujg	sujg	sujg
+2ACC1	𪳁	syac	soac	soac
+2ACC2	𪳂	suth	suth	suth
+2ACC3	𪳃	spvm	spvw	spvw
+2ACC4	𪳄	sypm	sypw	sykw
+2ACC5	𪳅	sitk	sitk	sitk
+2ACC6	𪳆	scel	scee	scee
+2ACC7	𪳇	slkp	sekp	sekp
+2ACC8	𪳈	gams	gaws	gaws
+2ACC9	𪳉	ssny	ssny	ssny
+2ACCA	𪳊	sdes	sdes	sdes
+2ACCB	𪳋	sgnn	sgnn	sgnn
+2ACCC	𪳌	sfel	sfee	sfee
+2ACCD	𪳍	sbcc	sbcc	sbcc
+2ACCE	𪳎	bosu	bosu	bosu
+2ACCF	𪳏	skky	skky	skky
+2ACD0	𪳐	hhsu	hhsu	hhsu
+2ACD1	𪳑	sjoy	sjoy	sjoy
+2ACD2	𪳒	sjiq	sjqi	sjqi
+2ACD3	𪳓	keys	tfwa	kges
+2ACD4	𪳔	riwa	srsg	riwa
+2ACD5	𪳕	stux	stux	stux
+2ACD6	𪳖	stap	stgp	stap
+2ACD7	𪳗	sepc	sepc	sepc
+2ACD8	𪳘	spge	spfe	spfe
+2ACD9	𪳙	uwys	uwys	uwys
+2ACDA	𪳚	spgi	spsj	spgi
+2ACDB	𪳛	svfj	svfj	svfj
+2ACDC	𪳜	sbio	sbio	sbio
+2ACDD	𪳝	ssgo	ssgo	ssgo
+2ACDE	𪳞	sftt	sftt	sftt
+2ACDF	𪳟	ssqq	ssqq	ssqq
+2ACE0	𪳠	shxr	shxr	shxr
+2ACE1	𪳡	smhx	smhx	smhx
+2ACE2	𪳢	smfg	smfg	smfg
+2ACE3	𪳣	shmk	shmk	shmk
+2ACE4	𪳤	stfp	stfp	stfp
+2ACE5	𪳥	sqjn	sqjn	sqjn
+2ACE6	𪳦	wnns	tnrs	wnns
+2ACE7	𪳧	sdqb	sqdb	sqdb
+2ACE8	𪳨	pqfs	pqfs	pqfs
+2ACE9	𪳩	syhq	syhq	syhq
+2ACEA	𪳪	sihv	sibv	sihv
+2ACEB	𪳫	cccm	cccm	cccm
+2ACEC	𪳬	snfy	snfy	snfy
+2ACED	𪳭	fwfi	ggsj	fwfi
+2ACEE	𪳮	sfpu	sfpu	sfpu
+2ACEF	𪳯	ssif	ssif	ssif
+2ACF0	𪳰	sajs	sffs	sajs
+2ACF1	𪳱	skhh	skhh	skhh
+2ACF2	𪳲	stdj	stdj	stdj
+2ACF3	𪳳	sthx	sthx	sthx
+2ACF4	𪳴	smlc	swlc	swlc
+2ACF5	𪳵	seto	seto	seto
+2ACF6	𪳶	spfu	spau	spau
+2ACF7	𪳷	ijgs	ijgs	ijgs
+2ACF8	𪳸	suef	suef	suef
+2ACF9	𪳹	sbue	sbue	sbue
+2ACFA	𪳺	slkm	sekm	sekm
+2ACFB	𪳻	scbs	scns	scns
+2ACFC	𪳼	ifti	iftf	ifti
+2ACFD	𪳽	ssdl	ssdl	ssdl
+2ACFE	𪳾	sfal	sfal	sfay
+2ACFF	𪳿	jsyc	jsoc	jsoc
+2AD00	𪴀	smau	smau	smau
+2AD01	𪴁	skhq	skhi	skhi
+2AD02	𪴂	sjly	sjly	sjly
+2AD03	𪴃	stmd	stmd	stmd
+2AD04	𪴄	rifb	tffb	rifb
+2AD05	𪴅	stgh	stgg	stgg
+2AD06	𪴆	suxn	suxn	suxn
+2AD07	𪴇	syno	sogo	sono
+2AD08	𪴈	scbs	scns	scns
+2AD09	𪴉	sxxt	smxt	smxt
+2AD0A	𪴊	sgmu	sgmu	sgmu
+2AD0B	𪴋	skak	skak	skak
+2AD0C	𪴌	stpn	stpn	stpn
+2AD0D	𪴍	oyms	oyms	oyks
+2AD0E	𪴎	spxm	spxm	spxm
+2AD0F	𪴏	sbjc	sbjc	sbjc
+2AD10	𪴐	sfvp	sfvp	sfvp
+2AD11	𪴑	sddj	sddj	sddj
+2AD12	𪴒	srcy	rrcy	srcy
+2AD13	𪴓	stjy	stjy	stjy
+2AD14	𪴔	spdi	spdi	spdi
+2AD15	𪴕	snwj	snwj	snwj
+2AD16	𪴖	sfss	sfss	sfss
+2AD17	𪴗	suxw	suxw	suxw
+2AD18	𪴘	sjfc	sjfc	sjfc
+2AD19	𪴙	stfm	stfm	stfm
+2AD1A	𪴚	stgo	stgo	stgo
+2AD1B	𪴛	ssfi	ssfi	ssfi
+2AD1C	𪴜	sfsh	sfsh	sfsh
+2AD1D	𪴝	sqoj	sqoj	sqoj
+2AD1E	𪴞	rise	rise	rise
+2AD1F	𪴟	sfcl	sfce	sfce
+2AD20	𪴠	sfdp	sfdp	sfdp
+2AD21	𪴡	stji	stji	stji
+2AD22	𪴢	sdhh	sdhh	sdhh
+2AD23	𪴣	spwm	spwm	spwm
+2AD24	𪴤	swfq	serq	serq
+2AD25	𪴥	spgm	spgm	spgm
+2AD26	𪴦	sysf	sysf	sysf
+2AD27	𪴧	stui	stul	stui
+2AD28	𪴨	oguw	ouff	ogui
+2AD29	𪴩	yqwy	yqwy	yqwy
+2AD2A	𪴪	dfqw	dfqw	dfqw
+2AD2B	𪴫	nfqw	nfqw	nfqw
+2AD2C	𪴬	xtgw	xtgw	xtgw
+2AD2D	𪴭	rcqw	rcqw	rcqw
+2AD2E	𪴮	ajqw	ajqw	ajqw
+2AD2F	𪴯	jogw	joqw	jogw
+2AD30	𪴰	adkw	ffdw	adkw
+2AD31	𪴱	wcnw	wcnw	wcnw
+2AD32	𪴲	ndjw	ndjw	ndjw
+2AD33	𪴳	awww	ffww	awww
+2AD34	𪴴	ugow	ugow	ugow
+2AD35	𪴵	qrhf	qrhf	qrhf
+2AD36	𪴶	hgjg	hgjg	hgjg
+2AD37	𪴷	hceh	hceh	hceh
+2AD38	𪴸	hfnt	hfnt	hfnt
+2AD39	𪴹	ghic	ghic	ghic
+2AD3A	𪴺	swwh	swwh	swwh
+2AD3B	𪴻	gigk	dhgk	dhgk
+2AD3C	𪴼	hdat	hdah	hday
+2AD3D	𪴽	gigt	dhgt	dhgt
+2AD3E	𪴾	lyhg	lyhg	lyhg
+2AD3F	𪴿	wfgh	egnh	egnh
+2AD40	𪵀	gqqn	gqqn	gqqn
+2AD41	𪵁	gqbc	gqbc	gqbc
+2AD42	𪵂	gqyb	gqyb	gqyb
+2AD43	𪵃	gqvq	gqvq	gqvq
+2AD44	𪵄	gqhq	gqhq	gqhq
+2AD45	𪵅	gqwa	gqwa	gqwa
+2AD46	𪵆	gqfw	gqfw	gqfw
+2AD47	𪵇	gqgm	gqsm	gqgm
+2AD48	𪵈	dfnc	dfnc	dfnc
+2AD49	𪵉	kfmc	kfwc	kfwc
+2AD4A	𪵊	xtdt	xtdt	xtdt
+2AD4B	𪵋	ftbc	ftbc	ftbc
+2AD4C	𪵌	mcwq	wcwq	wcwq
+2AD4D	𪵍	wgkc	wgkc	wgkc
+2AD4E	𪵎	cbmc	cbwc	cbwc
+2AD4F	𪵏	ydec	ydec	ydec
+2AD50	𪵐	gehc	sywc	gehc
+2AD51	𪵑	fnmj	fnwj	fnwj
+2AD52	𪵒	ajmc	ffjc	ajmc
+2AD53	𪵓	ngcc	ngcc	ngcc
+2AD54	𪵔	txgi	txyi	txyi
+2AD55	𪵕	xxwm	xxqm	xxwm
+2AD56	𪵖	tfnn	env	tfnn
+2AD57	𪵗	tfne	eef	tfne
+2AD58	𪵘	tfno	eoi	tfno
+2AD59	𪵙	tfnk	eqkd	tfnk
+2AD5A	𪵚	tfnx	eyxi	tfnx
+2AD5B	𪵛	tfni	egfi	tfni
+2AD5C	𪵜	tfnd	eudi	tfnd
+2AD5D	𪵝	sstn	sseb	sstn
+2AD5E	𪵞	tfni	evii	tfni
+2AD5F	𪵟	tfnh	enhd	tfnh
+2AD60	𪵠	tfnw	exmw	tfnw
+2AD61	𪵡	tfnx	eoxx	tfnx
+2AD62	𪵢	tfnm	epgm	tfnm
+2AD63	𪵣	fcrn	fcrn	fcrn
+2AD64	𪵤	rnsk	rskd	rnsk
+2AD65	𪵥	rntu	rtxi	rntx
+2AD66	𪵦	ujrn	ujrn	ujrn
+2AD67	𪵧	rngt	rgqt	rngt
+2AD68	𪵨	ciu	ciu	ciu
+2AD69	𪵩	ighy	ighy	ighy
+2AD6A	𪵪	diu	diu	diu
+2AD6B	𪵫	iay	iayy	iayy
+2AD6C	𪵬	itmn	itwn	itwn
+2AD6D	𪵭	idgn	idgn	idgn
+2AD6E	𪵮	irj	irj	irj
+2AD6F	𪵯	iet	itut	iet
+2AD70	𪵰	ixhh	ixhh	ixhh
+2AD71	𪵱	iddn	idgq	idgq
+2AD72	𪵲	immg	ihng	ihng
+2AD73	𪵳	itdy	itdy	itdy
+2AD74	𪵴	itmh	itmh	itmh
+2AD75	𪵵	ynie	ynie	ynie
+2AD76	𪵶	inln	inne	inet
+2AD77	𪵷	iafg	iafg	iafg
+2AD78	𪵸	ifbn	ifbn	ifbn
+2AD79	𪵹	iabh	iabh	iabh
+2AD7A	𪵺	ihqy	ihry	ihry
+2AD7B	𪵻	itlw	itlw	itlw
+2AD7C	𪵼	iqcb	iqcb	iqcb
+2AD7D	𪵽	iccc	iccc	iccc
+2AD7E	𪵾	iskg	iskg	iskg
+2AD7F	𪵿	sriy	sriy	sriy
+2AD80	𪶀	illn	ilet	ilet
+2AD81	𪶁	imgg	imgg	imgg
+2AD82	𪶂	ihqb	ihqb	ihqb
+2AD83	𪶃	iklj	ikej	ikej
+2AD84	𪶄	ijfy	ijfy	ijfy
+2AD85	𪶅	iwfi	iwfi	iwfi
+2AD86	𪶆	iqto	iqto	iqto
+2AD87	𪶇	itdf	itdf	itdf
+2AD88	𪶈	ionn	ionn	ionn
+2AD89	𪶉	ipql	ipqe	ipqe
+2AD8A	𪶊	iycf	ihcf	iyfy
+2AD8B	𪶋	ivit	ivit	ivit
+2AD8C	𪶌	igcj	igcj	igcj
+2AD8D	𪶍	igdh	igdg	igdg
+2AD8E	𪶎	irvk	irvk	irvk
+2AD8F	𪶏	ifch	ifch	ifch
+2AD90	𪶐	imdf	imdf	imdf
+2AD91	𪶑	ilnt	ilnt	ilnt
+2AD92	𪶒	ilqy	ilqy	ilqy
+2AD93	𪶓	itmd	itmd	itmd
+2AD94	𪶔	iwff	iwff	iwff
+2AD95	𪶕	iobh	iobh	iobh
+2AD96	𪶖	iblg	iblg	iblg
+2AD97	𪶗	ifaf	ifff	ifaf
+2AD98	𪶘	ibbh	ibbh	ibbh
+2AD99	𪶙	idff	idff	idff
+2AD9A	𪶚	ifin	ifny	ifin
+2AD9B	𪶛	shiu	shiu	shiu
+2AD9C	𪶜	irua	irua	irua
+2AD9D	𪶝	igck	igck	igck
+2AD9E	𪶞	imhd	imhd	imhd
+2AD9F	𪶟	imcw	iwcg	iwcw
+2ADA0	𪶠	iwct	iwct	iwct
+2ADA1	𪶡	iwgn	iwgn	iwgn
+2ADA2	𪶢	iwwt	iwws	iwws
+2ADA3	𪶣	itla	itla	itla
+2ADA4	𪶤	iwuy	iwug	iwuw
+2ADA5	𪶥	ingg	ingg	ingg
+2ADA6	𪶦	iyey	iyey	iyke
+2ADA7	𪶧	iyob	iyob	iyob
+2ADA8	𪶨	ivcn	ivcn	ivcn
+2ADA9	𪶩	ickn	ickn	ickn
+2ADAA	𪶪	isgn	isgn	isgn
+2ADAB	𪶫	idwy	idwy	idwy
+2ADAC	𪶬	iadd	iatd	iahd
+2ADAD	𪶭	igqo	igqo	igqo
+2ADAE	𪶮	igon	igon	igon
+2ADAF	𪶯	isdj	isdj	isdj
+2ADB0	𪶰	deiu	deiu	dcei
+2ADB1	𪶱	imuh	imuh	imuf
+2ADB2	𪶲	iald	iffd	iald
+2ADB3	𪶳	iqku	iqku	iqmu
+2ADB4	𪶴	iewj	iewj	iewj
+2ADB5	𪶵	itrw	ittg	itrw
+2ADB6	𪶶	iywf	iowf	iowf
+2ADB7	𪶷	ipqq	ipqk	ipqk
+2ADB8	𪶸	iyxi	iyxi	iyxi
+2ADB9	𪶹	iytp	iotp	iotp
+2ADBA	𪶺	iyoy	iyoy	iyoy
+2ADBB	𪶻	iuqe	iuqe	iuqe
+2ADBC	𪶼	iitk	iitk	iitk
+2ADBD	𪶽	iccs	iccs	iccs
+2ADBE	𪶾	ibgn	ibgn	ibgn
+2ADBF	𪶿	ixtw	ixtw	ixtw
+2ADC0	𪷀	ifir	igir	igir
+2ADC1	𪷁	imtt	imtt	imtt
+2ADC2	𪷂	ajdi	ffji	ajdi
+2ADC3	𪷃	ijcq	ijcq	ijcq
+2ADC4	𪷄	iewq	imuq	iewq
+2ADC5	𪷅	ipoo	ipoo	ipoo
+2ADC6	𪷆	ipju	ipju	ipjw
+2ADC7	𪷇	iuev	iuev	iuev
+2ADC8	𪷈	ixfm	ixmy	ixfm
+2ADC9	𪷉	ixlg	ixlg	ixlg
+2ADCA	𪷊	inug	inru	inug
+2ADCB	𪷋	iftf	iftf	iftf
+2ADCC	𪷌	idmo	idmo	idmo
+2ADCD	𪷍	igeq	igeq	igeq
+2ADCE	𪷎	iamt	ight	iamx
+2ADCF	𪷏	idgf	idgf	idgf
+2ADD0	𪷐	iahy	iahy	iahy
+2ADD1	𪷑	ijgf	ijgf	ijgf
+2ADD2	𪷒	iaqm	iffb	iaqm
+2ADD3	𪷓	ihal	ihxe	ihae
+2ADD4	𪷔	imcq	iwcq	iwcq
+2ADD5	𪷕	idjy	itdy	ihdy
+2ADD6	𪷖	iqdo	iqdo	iqdo
+2ADD7	𪷗	ierf	imuf	ierf
+2ADD8	𪷘	irmr	itgr	irmr
+2ADD9	𪷙	iuqg	iuqg	iywq
+2ADDA	𪷚	ipwh	ipwh	ipwh
+2ADDB	𪷛	ipgl	ipgl	ipgl
+2ADDC	𪷜	ixii	ixii	ixii
+2ADDD	𪷝	idyx	idox	idox
+2ADDE	𪷞	iajl	iajl	iajl
+2ADDF	𪷟	iope	ijue	iope
+2ADE0	𪷠	iaec	iffc	iaec
+2ADE1	𪷡	ijkr	ijkr	ijkr
+2ADE2	𪷢	ikgm	ikgw	ikgw
+2ADE3	𪷣	wnni	tnui	wnni
+2ADE4	𪷤	iyli	iyli	iyli
+2ADE5	𪷥	iuft	iuft	iuft
+2ADE6	𪷦	iplp	iplp	iplp
+2ADE7	𪷧	ivtd	ivtu	ivtg
+2ADE8	𪷨	iahn	iahn	iahn
+2ADE9	𪷩	idjs	idjs	idjs
+2ADEA	𪷪	ifnm	ifnm	ifnm
+2ADEB	𪷫	igei	iswi	igei
+2ADEC	𪷬	iahi	iahi	iahi
+2ADED	𪷭	iuff	iuff	iuff
+2ADEE	𪷮	itfk	itfd	itfk
+2ADEF	𪷯	iopi	iopi	iopi
+2ADF0	𪷰	iujk	iujk	iujk
+2ADF1	𪷱	ipfm	ipam	ipam
+2ADF2	𪷲	iyaf	iodf	ioaf
+2ADF3	𪷳	ifih	ifih	ifih
+2ADF4	𪷴	ifwo	ifwo	ifwo
+2ADF5	𪷵	iabc	iffc	iabc
+2ADF6	𪷶	iexc	iexc	iexc
+2ADF7	𪷷	ipdi	ipdi	ipdi
+2ADF8	𪷸	iynt	iont	iont
+2ADF9	𪷹	ujnk	ujnk	ujnk
+2ADFA	𪷺	iagn	iffn	iagn
+2ADFB	𪷻	iqaa	iqaa	iqaa
+2ADFC	𪷼	iqdk	iqdk	iqdk
+2ADFD	𪷽	itfm	itfm	itfm
+2ADFE	𪷾	iqxg	iqxg	iqxy
+2ADFF	𪷿	ixfm	ixfm	ixfm
+2AE00	𪸀	ifnc	ifnc	ifnc
+2AE01	𪸁	iyac	ioab	ioac
+2AE02	𪸂	ioyc	iyoc	iyoc
+2AE03	𪸃	igeo	igeo	igeo
+2AE04	𪸄	iahh	iahh	iahh
+2AE05	𪸅	iqyi	iqyi	iqyi
+2AE06	𪸆	iqpk	iqpk	iqpk
+2AE07	𪸇	iynf	ioxf	ionf
+2AE08	𪸈	ilff	ilff	ilff
+2AE09	𪸉	iqoi	iqoi	iqoi
+2AE0A	𪸊	ievq	ievq	ievq
+2AE0B	𪸋	ipfc	ipao	ipao
+2AE0C	𪸌	iunu	iunu	iunf
+2AE0D	𪸍	nou	nou	nou
+2AE0E	𪸎	otmn	otwn	otwn
+2AE0F	𪸏	otnn	otnn	otnn
+2AE10	𪸐	ovyy	ovyy	ovyy
+2AE11	𪸑	ofqn	ofqn	ofqn
+2AE12	𪸒	ogxg	ogxg	ogxg
+2AE13	𪸓	fqou	fqou	fqou
+2AE14	𪸔	ohg	ohg	ohg
+2AE15	𪸕	ornn	orn	ornn
+2AE16	𪸖	opwu	opwu	opwu
+2AE17	𪸗	ocqn	ocqn	ocqn
+2AE18	𪸘	ofcy	ofcy	ofcy
+2AE19	𪸙	ofiy	ofy	ofiy
+2AE1A	𪸚	odkg	odkg	odkg
+2AE1B	𪸛	ogyy	ogyy	ogyy
+2AE1C	𪸜	olwy	olwy	olwy
+2AE1D	𪸝	okln	oket	oken
+2AE1E	𪸞	oqiy	oqiy	oqiy
+2AE1F	𪸟	oqhy	oqhy	oqhy
+2AE20	𪸠	oyni	oyni	oyni
+2AE21	𪸡	oxcy	oxcy	oxcy
+2AE22	𪸢	onhy	onhy	onhy
+2AE23	𪸣	jou	jou	jfou
+2AE24	𪸤	odnt	odnn	odny
+2AE25	𪸥	obg	obg	obg
+2AE26	𪸦	ftxo	ftxo	ftxo
+2AE27	𪸧	okmh	okmh	okmh
+2AE28	𪸨	oesy	obsy	obsy
+2AE29	𪸩	oplh	oplh	oplh
+2AE2A	𪸪	ong	ong	ong
+2AE2B	𪸫	ogjq	ogjr	ogjr
+2AE2C	𪸬	oakd	oakg	oakg
+2AE2D	𪸭	omy	omy	omy
+2AE2E	𪸮	ojdy	ojdy	ojdy
+2AE2F	𪸯	oevg	oevg	oevg
+2AE30	𪸰	otlk	otlk	otlk
+2AE31	𪸱	oyfy	oofy	oofy
+2AE32	𪸲	ocvk	ocvk	ocvk
+2AE33	𪸳	orvk	orvk	orvk
+2AE34	𪸴	odsk	odsk	odsk
+2AE35	𪸵	ogah	ogay	ofhy
+2AE36	𪸶	oaat	oaay	oaay
+2AE37	𪸷	ofqf	ofqf	ofqf
+2AE38	𪸸	omaw	omaw	omaw
+2AE39	𪸹	ohet	ohet	ohet
+2AE3A	𪸺	ojqb	ojqb	ojqb
+2AE3B	𪸻	ojyc	ojyy	ojyy
+2AE3C	𪸼	omfk	omfk	omfk
+2AE3D	𪸽	owgf	owgf	owgf
+2AE3E	𪸾	oevh	oevh	oevh
+2AE3F	𪸿	ybou	ybou	ykbo
+2AE40	𪹀	poch	pocg	pocg
+2AE41	𪹁	oblg	oblg	oblg
+2AE42	𪹂	vocf	vocf	vocf
+2AE43	𪹃	vkbo	vkbo	vkbo
+2AE44	𪹄	ogmn	ogmn	ogmn
+2AE45	𪹅	odmf	odmf	odmf
+2AE46	𪹆	odae	odae	odae
+2AE47	𪹇	omdo	omdo	omdo
+2AE48	𪹈	ojgh	ojgh	ojgh
+2AE49	𪹉	qvmo	qvwo	qvwo
+2AE4A	𪹊	owgj	owgj	owgj
+2AE4B	𪹋	otky	otky	otky
+2AE4C	𪹌	qlqo	qlqo	qlqo
+2AE4D	𪹍	ownd	ownd	ownd
+2AE4E	𪹎	opfe	opfe	opfe
+2AE4F	𪹏	ougd	ougd	ougd
+2AE50	𪹐	oqko	oqko	oqko
+2AE51	𪹑	vkoo	vkoo	vkoo
+2AE52	𪹒	odaj	odaj	odaj
+2AE53	𪹓	ogoj	ogoj	ogoj
+2AE54	𪹔	ogtk	ogtk	ogtk
+2AE55	𪹕	jqjo	jqjo	jqjo
+2AE56	𪹖	omdt	omgt	omgt
+2AE57	𪹗	evoy	eeoy	eeoy
+2AE58	𪹘	otwt	otws	otws
+2AE59	𪹙	otec	otuc	otec
+2AE5A	𪹚	oupy	oyuy	oyuy
+2AE5B	𪹛	oube	oube	oube
+2AE5C	𪹜	oylh	oolh	oolh
+2AE5D	𪹝	oofo	oogo	oogo
+2AE5E	𪹞	opuh	opuh	opuf
+2AE5F	𪹟	ovmy	ovmy	ovmy
+2AE60	𪹠	ocwy	ocwy	ocwy
+2AE61	𪹡	osse	osse	osse
+2AE62	𪹢	okht	okht	okht
+2AE63	𪹣	ohag	ohog	ohag
+2AE64	𪹤	oqfc	orfc	orfc
+2AE65	𪹥	owfi	owfi	owfi
+2AE66	𪹦	olou	olou	olou
+2AE67	𪹧	oumd	oyud	oyud
+2AE68	𪹨	oyvh	oovh	oovh
+2AE69	𪹩	xjxo	xjxo	xjxo
+2AE6A	𪹪	ogfn	ogfn	ogfn
+2AE6B	𪹫	ofke	ofke	ofke
+2AE6C	𪹬	kkao	kkao	kkao
+2AE6D	𪹭	mhko	mhko	mhko
+2AE6E	𪹮	tfno	eeeo	tfno
+2AE6F	𪹯	owys	owys	owys
+2AE70	𪹰	oycy	ohcy	oywy
+2AE71	𪹱	ybdo	ybdo	ykbo
+2AE72	𪹲	oyct	oyct	oyct
+2AE73	𪹳	onty	onty	onty
+2AE74	𪹴	odap	odap	odap
+2AE75	𪹵	ossh	ossh	ossh
+2AE76	𪹶	jfto	jfto	jfto
+2AE77	𪹷	ojfe	ojae	ojae
+2AE78	𪹸	qsgo	qsgo	qsgo
+2AE79	𪹹	oujn	oujn	oujn
+2AE7A	𪹺	oodm	oodm	oodm
+2AE7B	𪹻	ovas	ovas	ovas
+2AE7C	𪹼	ojan	ojan	ojan
+2AE7D	𪹽	oopk	oopk	oopk
+2AE7E	𪹾	opwi	opwi	opwi
+2AE7F	𪹿	pgio	pgho	pgho
+2AE80	𪺀	onyf	onyf	onyf
+2AE81	𪺁	oflm	oflm	oflm
+2AE82	𪺂	syso	syso	syso
+2AE83	𪺃	oqnf	oqnf	oqnf
+2AE84	𪺄	oelb	oelb	oelb
+2AE85	𪺅	optn	optn	optn
+2AE86	𪺆	oelb	oelb	oelb
+2AE87	𪺇	oyby	oyry	oyby
+2AE88	𪺈	oght	odht	odht
+2AE89	𪺉	ohad	ohgd	ohay
+2AE8A	𪺊	olkp	olkp	olkp
+2AE8B	𪺋	tqxo	tqxo	tqxo
+2AE8C	𪺌	oipf	oipf	oipf
+2AE8D	𪺍	evf	evf	evf
+2AE8E	𪺎	rhyq	rhyq	rhyq
+2AE8F	𪺏	eeu	egeu	egeu
+2AE90	𪺐	rhyc	rhyc	rhyc
+2AE91	𪺑	rhye	rhye	rhye
+2AE92	𪺒	ehtu	ehtu	ehtu
+2AE93	𪺓	evhs	evhs	evhs
+2AE94	𪺔	epqe	epqf	epqh
+2AE95	𪺕	exxx	exxx	exxx
+2AE96	𪺖	rhys	rhys	rhyh
+2AE97	𪺗	evhq	evhq	evhq
+2AE98	𪺘	qvhm	qvhm	qvhm
+2AE99	𪺙	exty	exty	exty
+2AE9A	𪺚	eqoo	eqoo	eqoo
+2AE9B	𪺛	wqrm	wrtb	wrrm
+2AE9C	𪺜	wqvb	wrvb	wrvb
+2AE9D	𪺝	qqrh	rrtg	rrtg
+2AE9E	𪺞	nhdy	uyg	nhdy
+2AE9F	𪺟	nhdl	uvlg	nhdl
+2AEA0	𪺠	nhdn	utln	nhdn
+2AEA1	𪺡	nhdl	uull	nhdl
+2AEA2	𪺢	thge	thgv	thge
+2AEA3	𪺣	thgf	thgf	thgf
+2AEA4	𪺤	thgj	thgj	thgj
+2AEA5	𪺥	thgn	thgn	thgn
+2AEA6	𪺦	thgj	thgj	thgj
+2AEA7	𪺧	ahtw	ahtw	ahtw
+2AEA8	𪺨	ahtf	ahtf	ahtf
+2AEA9	𪺩	trta	ctan	ttan
+2AEAA	𪺪	trdx	cdxy	tdxy
+2AEAB	𪺫	verh	vbtg	vbtg
+2AEAC	𪺬	trvj	cvjg	tvjg
+2AEAD	𪺭	trtj	ctdj	ttdj
+2AEAE	𪺮	ycph	ycpg	ycpg
+2AEAF	𪺯	troo	cooy	tooy
+2AEB0	𪺰	trgl	cdhl	tdhl
+2AEB1	𪺱	trff	camf	tamf
+2AEB2	𪺲	trgf	cgkf	tgkf
+2AEB3	𪺳	tqth	tqtg	tqtg
+2AEB4	𪺴	trah	caph	taph
+2AEB5	𪺵	trdn	chdn	thdn
+2AEB6	𪺶	awnh	fftg	awng
+2AEB7	𪺷	qtwb	qtwb	qtwb
+2AEB8	𪺸	qtqv	qtqv	qtqv
+2AEB9	𪺹	qtvc	qtvc	qtvc
+2AEBA	𪺺	qtlt	qtlt	qtlt
+2AEBB	𪺻	qtpe	qtpe	qtpe
+2AEBC	𪺼	qtde	qtde	qtde
+2AEBD	𪺽	gody	gusd	gody
+2AEBE	𪺾	qtdf	qtdf	qtdf
+2AEBF	𪺿	qtug	qtug	qtug
+2AEC0	𪻀	qtwa	qtwa	qtwa
+2AEC1	𪻁	qtug	qtuo	qtug
+2AEC2	𪻂	qtrh	qtrh	qtrh
+2AEC3	𪻃	qtth	qttg	qttg
+2AEC4	𪻄	qtud	qtud	qtud
+2AEC5	𪻅	qtcm	qtcm	qtcm
+2AEC6	𪻆	qtrc	qttc	qtrc
+2AEC7	𪻇	qttk	qttk	qttk
+2AEC8	𪻈	qtxj	qtxj	qtxj
+2AEC9	𪻉	qtyy	qtyy	qtyy
+2AECA	𪻊	qtfe	qtfv	qtfe
+2AECB	𪻋	qtyf	qtof	qtof
+2AECC	𪻌	qtli	qtli	qtli
+2AECD	𪻍	gcy	gcy	gcy
+2AECE	𪻎	gqfg	gqfg	gqfg
+2AECF	𪻏	geyy	gby	gbyy
+2AED0	𪻐	gwwy	gwwy	gwwy
+2AED1	𪻑	gymn	gywn	gywn
+2AED2	𪻒	gny	gny	gny
+2AED3	𪻓	goy	goy	goy
+2AED4	𪻔	gpqn	gpqn	gpqn
+2AED5	𪻕	gdg	gdg	gdg
+2AED6	𪻖	gwfn	gwfn	gwfn
+2AED7	𪻗	gdfg	gdfg	gdfg
+2AED8	𪻘	ggjg	ggjg	ggjg
+2AED9	𪻙	gaag	gaay	gaag
+2AEDA	𪻚	gaqy	gffr	gary
+2AEDB	𪻛	gmgk	gmgk	gmgk
+2AEDC	𪻜	gwsy	gwsy	gwsy
+2AEDD	𪻝	gpgf	gpgf	gpgf
+2AEDE	𪻞	gynw	gynw	gynw
+2AEDF	𪻟	gndh	gndh	gndh
+2AEE0	𪻠	ggah	ggah	ggah
+2AEE1	𪻡	ggku	ggku	ggku
+2AEE2	𪻢	grrh	grrh	grrh
+2AEE3	𪻣	gmqk	gmqk	gmqk
+2AEE4	𪻤	grgw	grwy	grgw
+2AEE5	𪻥	gybh	gybh	gykb
+2AEE6	𪻦	gdfi	gdfi	gdfi
+2AEE7	𪻧	gfqf	gfqf	gfqf
+2AEE8	𪻨	gfnd	gfnd	gfnd
+2AEE9	𪻩	gsrh	gsrh	gsrh
+2AEEA	𪻪	gjeg	gjeg	gjeg
+2AEEB	𪻫	gmun	gmun	gmun
+2AEEC	𪻬	grgm	grmh	grgm
+2AEED	𪻭	gpgg	gpgg	gpgg
+2AEEE	𪻮	gogg	gogg	gogg
+2AEEF	𪻯	gyty	gyty	gyty
+2AEF0	𪻰	gcqt	gcqt	gcqt
+2AEF1	𪻱	gbib	gbib	gbib
+2AEF2	𪻲	gxfm	gxmy	gxfm
+2AEF3	𪻳	gfmf	gfmf	gfmf
+2AEF4	𪻴	ggwe	ggwe	ggwe
+2AEF5	𪻵	gdjf	gdjf	gdjf
+2AEF6	𪻶	gdjb	gdjb	gdjb
+2AEF7	𪻷	gadk	gffk	gadk
+2AEF8	𪻸	gask	gffk	gask
+2AEF9	𪻹	jtgy	jtgy	jtgy
+2AEFA	𪻺	gkhm	gkhm	gkhm
+2AEFB	𪻻	gith	gith	gith
+2AEFC	𪻼	grsy	grsy	grsy
+2AEFD	𪻽	gptk	gptk	gptk
+2AEFE	𪻾	gyde	gyde	gyde
+2AEFF	𪻿	gyac	goac	goac
+2AF00	𪼀	guph	gyuh	gyuh
+2AF01	𪼁	gyod	gyod	gyod
+2AF02	𪼂	guty	guty	guty
+2AF03	𪼃	gdwi	gdwi	gdwi
+2AF04	𪼄	gfke	gfke	gfke
+2AF05	𪼅	gepy	ggep	ggep
+2AF06	𪼆	gdri	gdri	gdri
+2AF07	𪼇	gmth	gmth	gmth
+2AF08	𪼈	wggg	wggg	wggg
+2AF09	𪼉	wgkg	wgkg	wgkg
+2AF0A	𪼊	gtfh	gtfj	gtfh
+2AF0B	𪼋	gttn	gten	gttn
+2AF0C	𪼌	gwyc	gwyc	gwyc
+2AF0D	𪼍	gpqg	gpqg	gpqg
+2AF0E	𪼎	gugc	gugc	gugc
+2AF0F	𪼏	gccs	gccs	gccs
+2AF10	𪼐	gdqq	gdrr	gdrr
+2AF11	𪼑	gahf	gahf	gahf
+2AF12	𪼒	gapq	gffq	gapq
+2AF13	𪼓	glag	glag	glag
+2AF14	𪼔	gwge	gwge	gwge
+2AF15	𪼕	gytd	gytd	gytd
+2AF16	𪼖	gpvw	gpew	gpew
+2AF17	𪼗	gfyy	gfyy	gfyy
+2AF18	𪼘	gapg	gffg	gapg
+2AF19	𪼙	gugg	gugg	gugg
+2AF1A	𪼚	gjqq	gjqq	gjqq
+2AF1B	𪼛	gwys	gwys	gwys
+2AF1C	𪼜	gwgn	gwgr	gwgn
+2AF1D	𪼝	gyin	gyiy	gyky
+2AF1E	𪼞	guaj	gyuj	gujy
+2AF1F	𪼟	gnih	gnig	gnig
+2AF20	𪼠	gwxc	gwxc	gwxc
+2AF21	𪼡	gglg	gglg	gglg
+2AF22	𪼢	glff	glff	glff
+2AF23	𪼣	gtmd	gtmd	gtmd
+2AF24	𪼤	gqdy	gqdy	gqdy
+2AF25	𪼥	gyuo	gouw	gouo
+2AF26	𪼦	gujn	gujn	gujn
+2AF27	𪼧	ggjk	ghgk	gawk
+2AF28	𪼨	gpxe	gpxe	gpxe
+2AF29	𪼩	gddj	gddj	gddj
+2AF2A	𪼪	gted	gtud	gted
+2AF2B	𪼫	gulb	gulb	gulb
+2AF2C	𪼬	gfss	gfss	gfss
+2AF2D	𪼭	gpdn	gpdn	gpdn
+2AF2E	𪼮	gple	gple	gple
+2AF2F	𪼯	gugt	gugy	gugy
+2AF30	𪼰	gwfr	gegr	gegr
+2AF31	𪼱	gygm	gygm	gyfm
+2AF32	𪼲	gipo	gipo	gipo
+2AF33	𪼳	rcyd	rcyd	rcyd
+2AF34	𪼴	rcyy	rcyy	rcyy
+2AF35	𪼵	duxy	duxy	duxy
+2AF36	𪼶	gnyn	gnnn	gnnn
+2AF37	𪼷	gnyg	gnng	gnng
+2AF38	𪼸	gnyo	gnno	gnno
+2AF39	𪼹	gnyg	gnng	gnng
+2AF3A	𪼺	kman	kmay	kmay
+2AF3B	𪼻	gnyw	gnnw	gnnw
+2AF3C	𪼼	gnyh	gnnh	gnnh
+2AF3D	𪼽	wwwn	thwy	wwwy
+2AF3E	𪼾	wwkn	wwky	wwky
+2AF3F	𪼿	gnyv	gnnv	gnnv
+2AF40	𪽀	tfkf	tfkf	tfkf
+2AF41	𪽁	tghy	tghy	tghy
+2AF42	𪽂	dtcg	dtcg	dttg
+2AF43	𪽃	tgdh	tgdg	tgdg
+2AF44	𪽄	tgik	tgik	tgik
+2AF45	𪽅	yqag	oqag	oqag
+2AF46	𪽆	tmfh	twgk	twgk
+2AF47	𪽇	lvn	lvn	lvn
+2AF48	𪽈	lnrt	lnrt	lnrt
+2AF49	𪽉	mgeu	mgeu	mgeu
+2AF4A	𪽊	lfqn	lfqn	lfqn
+2AF4B	𪽋	elf	elf	elf
+2AF4C	𪽌	lyy	lyy	lyy
+2AF4D	𪽍	lskf	lskf	lskf
+2AF4E	𪽎	lskg	lskg	lskg
+2AF4F	𪽏	lwgc	lwgc	lwgc
+2AF50	𪽐	tlwj	tlwj	tlwj
+2AF51	𪽑	lqrh	lqtg	lqtg
+2AF52	𪽒	lycq	lycq	lycq
+2AF53	𪽓	ldkh	ldkh	ldkh
+2AF54	𪽔	lhqn	lhqn	lhqn
+2AF55	𪽕	qnll	qnle	qnle
+2AF56	𪽖	vfbl	ngbl	ngbl
+2AF57	𪽗	nygb	nygb	nygb
+2AF58	𪽘	lfqf	lfqf	lfqf
+2AF59	𪽙	ldwh	ldwg	ldwg
+2AF5A	𪽚	wwal	wwal	wwal
+2AF5B	𪽛	nawl	nawl	nawl
+2AF5C	𪽜	lnhc	lnhc	lnhc
+2AF5D	𪽝	lfcm	lfcm	lfcm
+2AF5E	𪽞	ujnl	ujnl	ujnl
+2AF5F	𪽟	lqou	lqou	lqou
+2AF60	𪽠	riqm	riqm	riqm
+2AF61	𪽡	ctol	ctol	ctol
+2AF62	𪽢	lwyo	lwyo	lwyo
+2AF63	𪽣	pujl	pujl	pujl
+2AF64	𪽤	lllg	lllg	lllg
+2AF65	𪽥	lxxu	lxxu	lxxu
+2AF66	𪽦	lugt	lugy	lugy
+2AF67	𪽧	rgkh	rgkh	rgkh
+2AF68	𪽨	ugti	ugqi	ugqi
+2AF69	𪽩	uwev	uwbe	uwbe
+2AF6A	𪽪	utay	utay	utay
+2AF6B	𪽫	urhy	urhy	urhy
+2AF6C	𪽬	ufii	ufi	ufii
+2AF6D	𪽭	uge	ugai	ufxy
+2AF6E	𪽮	uhne	uhne	uhne
+2AF6F	𪽯	uxhj	uxhj	uxhj
+2AF70	𪽰	ukhi	ukhi	ukhi
+2AF71	𪽱	upwl	upwe	upwe
+2AF72	𪽲	ugmd	ugmd	ugmd
+2AF73	𪽳	usvd	ugvd	usvd
+2AF74	𪽴	uanm	uanm	uanm
+2AF75	𪽵	ubry	ubry	ubry
+2AF76	𪽶	ugkh	ugkh	ugkh
+2AF77	𪽷	ugun	ugun	ugun
+2AF78	𪽸	ufht	ufha	ufhy
+2AF79	𪽹	ubjy	ubjy	ubjy
+2AF7A	𪽺	udjq	utdr	uhdr
+2AF7B	𪽻	rsy	rsy	rsy
+2AF7C	𪽼	ryy	ryy	ryy
+2AF7D	𪽽	rrgg	rrg	rrgg
+2AF7E	𪽾	rmu	rmu	rmu
+2AF7F	𪽿	rqkq	rqkq	rqkq
+2AF80	𪾀	rakg	rakg	rakg
+2AF81	𪾁	rifc	rifc	rifc
+2AF82	𪾂	rgkq	rgkq	rgkq
+2AF83	𪾃	rnhh	rnkg	rnkh
+2AF84	𪾄	rrvc	rrvc	rrvc
+2AF85	𪾅	rugt	rugy	rugy
+2AF86	𪾆	hcqh	bqhh	hcqh
+2AF87	𪾇	hcty	bty	hcty
+2AF88	𪾈	hcsv	bsvg	hcsv
+2AF89	𪾉	hcbb	bbbj	hcbb
+2AF8A	𪾊	dnlf	dnyl	dnyf
+2AF8B	𪾋	jclf	jclf	jclf
+2AF8C	𪾌	sklf	sklf	sklf
+2AF8D	𪾍	kqlf	kqlf	kqlf
+2AF8E	𪾎	qblf	qblf	qblf
+2AF8F	𪾏	hlnl	hlnl	hmnl
+2AF90	𪾐	qkql	qkql	qkql
+2AF91	𪾑	rqnl	rqnl	rqnl
+2AF92	𪾒	itul	itul	itul
+2AF93	𪾓	fdnl	fdnl	fdnl
+2AF94	𪾔	edml	edml	edml
+2AF95	𪾕	eudl	eugl	eudl
+2AF96	𪾖	lwvo	lqou	lwvo
+2AF97	𪾗	wgvl	wgvl	wgvl
+2AF98	𪾘	qxxl	qxxl	qxxl
+2AF99	𪾙	wftl	etll	etll
+2AF9A	𪾚	ovpl	ovpl	ovpl
+2AF9B	𪾛	inhl	inhl	inhl
+2AF9C	𪾜	lful	lful	lful
+2AF9D	𪾝	telt	tult	telt
+2AF9E	𪾞	xnjl	xnjl	xnjl
+2AF9F	𪾟	hgng	hgng	hgng
+2AFA0	𪾠	hqyy	hqyy	hqyy
+2AFA1	𪾡	hdnn	hdny	hdny
+2AFA2	𪾢	hmqn	hmqn	hmqn
+2AFA3	𪾣	hpgg	hpgg	hpgg
+2AFA4	𪾤	hdnt	hdy	hdxy
+2AFA5	𪾥	hkgn	hkgn	hkgn
+2AFA6	𪾦	hhnt	hhnt	hhnt
+2AFA7	𪾧	hwgc	hwgc	hwgc
+2AFA8	𪾨	hkfn	hkfn	hkfn
+2AFA9	𪾩	hpgf	hpgf	hpgf
+2AFAA	𪾪	huqw	huqw	huqw
+2AFAB	𪾫	hegl	hege	hege
+2AFAC	𪾬	htdn	htdn	htdn
+2AFAD	𪾭	hssy	hssy	hssy
+2AFAE	𪾮	hetf	hetf	hetf
+2AFAF	𪾯	hrqw	hrqw	hrqw
+2AFB0	𪾰	hyty	hyty	hyty
+2AFB1	𪾱	hith	hith	hith
+2AFB2	𪾲	hujg	hujg	hujg
+2AFB3	𪾳	hnhh	hnkg	hnkh
+2AFB4	𪾴	hnoy	hnoy	hnoy
+2AFB5	𪾵	hgxi	hgxi	hgxi
+2AFB6	𪾶	htff	htgf	htgf
+2AFB7	𪾷	hwye	hwyb	hwyb
+2AFB8	𪾸	hprw	hprw	hprw
+2AFB9	𪾹	haqh	haqh	haqh
+2AFBA	𪾺	pnth	pnth	pnth
+2AFBB	𪾻	iwyh	iwyh	iwyh
+2AFBC	𪾼	hfpu	hfpu	hfpu
+2AFBD	𪾽	huyy	huyy	huyy
+2AFBE	𪾾	htwk	htwk	htwk
+2AFBF	𪾿	huoj	huoj	huoj
+2AFC0	𪿀	hpjy	hpjy	hpjy
+2AFC1	𪿁	ujnh	ujnh	ujnh
+2AFC2	𪿂	tmgh	tmgh	tmgh
+2AFC3	𪿃	rhvf	rhvf	rhvf
+2AFC4	𪿄	htun	htun	htun
+2AFC5	𪿅	hywo	howo	howo
+2AFC6	𪿆	cbtr	cnhr	cnhr
+2AFC7	𪿇	cbte	cnhe	cnhe
+2AFC8	𪿈	tdsy	tdsy	tdsy
+2AFC9	𪿉	tdit	tdit	tdit
+2AFCA	𪿊	tdgg	tdgo	tdgg
+2AFCB	𪿋	tdaw	tddw	tdaw
+2AFCC	𪿌	tdcs	tdcs	tdcs
+2AFCD	𪿍	tdkj	tdkj	tdkj
+2AFCE	𪿎	tdtf	tdtf	tdtf
+2AFCF	𪿏	tdga	tdga	tdga
+2AFD0	𪿐	tdlj	tdlj	tdlj
+2AFD1	𪿑	dfqn	dfqn	dfqn
+2AFD2	𪿒	dhbh	dhnn	dhbh
+2AFD3	𪿓	dxgg	dxgg	dxgg
+2AFD4	𪿔	daqn	daqn	daqn
+2AFD5	𪿕	dqkg	dqkg	dqkg
+2AFD6	𪿖	dyxy	dyxy	dyxy
+2AFD7	𪿗	dnxn	dnxn	dnxn
+2AFD8	𪿘	dckg	dckg	dckg
+2AFD9	𪿙	ddoy	ddoy	ddoy
+2AFDA	𪿚	dffy	dffy	dffy
+2AFDB	𪿛	djy	djy	djy
+2AFDC	𪿜	dpqn	dpqn	dpqn
+2AFDD	𪿝	iwdf	igwd	igwd
+2AFDE	𪿞	ddtf	ddtf	ddtf
+2AFDF	𪿟	ddfe	ddfe	ddfe
+2AFE0	𪿠	dkeg	dkmu	dkeg
+2AFE1	𪿡	dpqf	dpqf	dpqf
+2AFE2	𪿢	duh	duh	dufh
+2AFE3	𪿣	dvfb	dngb	dngb
+2AFE4	𪿤	ddqn	ddqn	ddqn
+2AFE5	𪿥	dsty	dsty	dsty
+2AFE6	𪿦	dgey	dgey	dgey
+2AFE7	𪿧	driy	driy	driy
+2AFE8	𪿨	ddjd	dtdd	dhdd
+2AFE9	𪿩	dndg	dndg	dndg
+2AFEA	𪿪	drdf	drdf	drdf
+2AFEB	𪿫	dcuq	dcgr	dcgr
+2AFEC	𪿬	ddun	ddun	ddun
+2AFED	𪿭	dpey	dpge	dpge
+2AFEE	𪿮	dpwk	dpwk	dpwk
+2AFEF	𪿯	depy	dgep	dgep
+2AFF0	𪿰	dwfw	dwfw	dwfw
+2AFF1	𪿱	dtel	dtul	dtel
+2AFF2	𪿲	dpqm	dpqb	dpqm
+2AFF3	𪿳	dyfq	dofq	dofq
+2AFF4	𪿴	dydg	dydg	dydg
+2AFF5	𪿵	dfwl	dggl	dfwl
+2AFF6	𪿶	ddhi	ddhi	ddhi
+2AFF7	𪿷	dpnh	dpnh	dpnh
+2AFF8	𪿸	dddh	dddh	dddh
+2AFF9	𪿹	dhby	dhny	dhby
+2AFFA	𪿺	dtuh	dtuh	dtuf
+2AFFB	𪿻	dahu	dahu	dahu
+2AFFC	𪿼	dbci	dbci	dbci
+2AFFD	𪿽	dria	dtfa	dria
+2AFFE	𪿾	datl	dffl	datl
+2AFFF	𪿿	dedt	dedt	dedt
+2B000	𫀀	gcfi	gcfi	gcfi
+2B001	𫀁	fivg	fhjv	fivg
+2B002	𫀂	ftyi	ftyi	ftyi
+2B003	𫀃	pymy	pymy	pymy
+2B004	𫀄	dfit	dfii	dfiy
+2B005	𫀅	pyhk	pyhk	pyhk
+2B006	𫀆	fiqn	fiqn	fiqn
+2B007	𫀇	pydi	pygf	pydi
+2B008	𫀈	pymk	pymk	pymk
+2B009	𫀉	pytl	pytl	pytl
+2B00A	𫀊	pyye	pyye	pyye
+2B00B	𫀋	pydw	pydw	pydw
+2B00C	𫀌	pygy	pygy	pygy
+2B00D	𫀍	pyjy	pyjy	pyjy
+2B00E	𫀎	pyyg	pyyg	pyyg
+2B00F	𫀏	fipq	fhjq	fipq
+2B010	𫀐	pygh	pygy	pyfy
+2B011	𫀑	pyhj	pyhj	pyhf
+2B012	𫀒	pyjr	pyjr	pyjr
+2B013	𫀓	pykn	pykn	pykn
+2B014	𫀔	pyqs	pyqs	pyqs
+2B015	𫀕	pyvn	pyen	pyen
+2B016	𫀖	pyrq	pyrq	pyrq
+2B017	𫀗	pyvq	pyeq	pyeq
+2B018	𫀘	pyvi	pyvi	pyvi
+2B019	𫀙	fict	fhjt	fict
+2B01A	𫀚	pyjl	pyjl	pyjl
+2B01B	𫀛	pybb	pygb	pybb
+2B01C	𫀜	dwti	dwti	dwti
+2B01D	𫀝	jlfi	jlgi	jlfi
+2B01E	𫀞	pywk	pywk	pywk
+2B01F	𫀟	fint	fins	fins
+2B020	𫀠	pyih	pyih	pyih
+2B021	𫀡	pytc	pytc	pytc
+2B022	𫀢	pymc	pymc	pymc
+2B023	𫀣	pytw	pytw	pytw
+2B024	𫀤	fikt	fhjt	fikt
+2B025	𫀥	ybmj	yrbj	yrbj
+2B026	𫀦	tfqy	tfqy	tfqy
+2B027	𫀧	taf	taf	taf
+2B028	𫀨	tmqn	tmqn	tmqn
+2B029	𫀩	ttfh	ttfh	ttfh
+2B02A	𫀪	tlg	tlg	tlg
+2B02B	𫀫	tmtn	tmtn	tmtn
+2B02C	𫀬	tqvg	tqvg	tqvg
+2B02D	𫀭	tvah	tvgh	tvah
+2B02E	𫀮	tivg	tivg	tivg
+2B02F	𫀯	tvjg	tvjg	tvjg
+2B030	𫀰	tiqb	tqiu	tqiu
+2B031	𫀱	trgk	trgk	trgk
+2B032	𫀲	tdqn	tdqn	tdqn
+2B033	𫀳	dqgt	dqgt	dqgt
+2B034	𫀴	tjfg	tjfg	tjfg
+2B035	𫀵	tpgn	tpgn	tpgn
+2B036	𫀶	tpfq	tpfq	tpfq
+2B037	𫀷	tvyn	tvyn	tvyn
+2B038	𫀸	tnnk	tnnk	tnnk
+2B039	𫀹	tjeg	tjeg	tjeg
+2B03A	𫀺	tqtt	tqtt	tqtt
+2B03B	𫀻	tyvw	tovw	tovw
+2B03C	𫀼	tlny	tlny	tlny
+2B03D	𫀽	tjmy	tjmy	tjmy
+2B03E	𫀾	trit	trit	trit
+2B03F	𫀿	txey	txey	txge
+2B040	𫁀	tvfp	tvgp	tvgp
+2B041	𫁁	tkhl	tkhl	tkhl
+2B042	𫁂	tlfc	tlfc	tlfc
+2B043	𫁃	tetl	tetl	tetl
+2B044	𫁄	tiie	tiie	tiie
+2B045	𫁅	hmtc	hmtc	hmtc
+2B046	𫁆	tfol	tfol	tfol
+2B047	𫁇	trie	trie	trie
+2B048	𫁈	tujn	tujn	tujn
+2B049	𫁉	temq	temr	temr
+2B04A	𫁊	pwyn	pwyt	pwyt
+2B04B	𫁋	pqmk	pqmk	pqmk
+2B04C	𫁌	pqgf	pqgf	pqgf
+2B04D	𫁍	pwri	pwtf	pwri
+2B04E	𫁎	pwan	pwan	pwan
+2B04F	𫁏	pwwt	pwwt	pwwt
+2B050	𫁐	pwvt	pwvt	pwvt
+2B051	𫁑	pqkn	pqkn	pqkn
+2B052	𫁒	pqwy	pqwy	pqwy
+2B053	𫁓	pwwb	pwwb	pwwb
+2B054	𫁔	pwag	pwag	pwag
+2B055	𫁕	pqql	pqqe	pqqe
+2B056	𫁖	pqrc	pqtc	pqrc
+2B057	𫁗	pqrm	pqrm	pqrm
+2B058	𫁘	pwxf	pwkv	pwxf
+2B059	𫁙	pqqv	pqrv	pqrv
+2B05A	𫁚	pqqf	pqqf	pqqf
+2B05B	𫁛	pqaa	pqaa	pqaa
+2B05C	𫁜	pwdq	pwdq	pwdq
+2B05D	𫁝	pqtk	pqtk	pqtk
+2B05E	𫁞	uqhh	uqhh	uqhh
+2B05F	𫁟	ufny	ufny	ufny
+2B060	𫁠	ummg	ummg	ummg
+2B061	𫁡	uqyg	uqgg	uqyg
+2B062	𫁢	upgf	upgf	upgf
+2B063	𫁣	uqeg	uqmf	uqeh
+2B064	𫁤	uvug	uvug	uvug
+2B065	𫁥	uyhk	uohk	uohk
+2B066	𫁦	undg	undg	undg
+2B067	𫁧	utff	utff	utff
+2B068	𫁨	unhh	unkg	unkh
+2B069	𫁩	ujng	ujng	ujng
+2B06A	𫁪	uuuf	uuuf	uuuf
+2B06B	𫁫	ubth	ubtg	ubth
+2B06C	𫁬	utjr	utjr	utjr
+2B06D	𫁭	uool	uooe	uooe
+2B06E	𫁮	gwmu	gwmu	gwmu
+2B06F	𫁯	ujtb	ujtb	ujfb
+2B070	𫁰	thu	thu	thu
+2B071	𫁱	tbgf	tbgf	tbgf
+2B072	𫁲	tfqb	tfqb	tfqb
+2B073	𫁳	tfnh	tfnh	tfnh
+2B074	𫁴	tuwu	tuwu	tuwu
+2B075	𫁵	tufj	tufj	tufj
+2B076	𫁶	tnyu	tnyu	tnyu
+2B077	𫁷	tccu	tccu	tccu
+2B078	𫁸	tdnt	tdu	tdxy
+2B079	𫁹	tamh	tamh	tamh
+2B07A	𫁺	togf	tof	togf
+2B07B	𫁻	twbf	twbf	twbf
+2B07C	𫁼	tmhy	tmhy	tmhy
+2B07D	𫁽	tnyw	tnyw	tnyw
+2B07E	𫁾	teu	tgeu	tgeu
+2B07F	𫁿	tlj	tlj	tlj
+2B080	𫂀	tfpb	tfpb	tfpb
+2B081	𫂁	tjdu	tjdu	tjdu
+2B082	𫂂	ttxu	ttxu	ttxu
+2B083	𫂃	tuyu	tuyu	tuyu
+2B084	𫂄	tlnb	tlnb	tlnb
+2B085	𫂅	trxj	trxj	trxj
+2B086	𫂆	tlgy	tlgy	tlgy
+2B087	𫂇	trqy	trqy	trqy
+2B088	𫂈	tyny	tonc	tony
+2B089	𫂉	tvcb	tvbj	tvcb
+2B08A	𫂊	tsgh	tsgh	tsgh
+2B08B	𫂋	tafs	tfsu	tafs
+2B08C	𫂌	tlwn	tlwe	tlwn
+2B08D	𫂍	tkjj	tkjj	tkjf
+2B08E	𫂎	tqjd	tqjd	tqjd
+2B08F	𫂏	tovy	tovy	tovy
+2B090	𫂐	tdwi	tdwi	tdwi
+2B091	𫂑	tdun	tdun	tdun
+2B092	𫂒	tgri	tgtf	tgri
+2B093	𫂓	tftj	tftj	tftj
+2B094	𫂔	tldt	tldu	tldy
+2B095	𫂕	twuk	twuk	twuk
+2B096	𫂖	tepc	tepc	tepc
+2B097	𫂗	toyp	topu	topu
+2B098	𫂘	tssg	tssg	tssg
+2B099	𫂙	tgkt	tskt	tgkt
+2B09A	𫂚	tstu	tstx	tstx
+2B09B	𫂛	tlki	tlki	tlki
+2B09C	𫂜	thmc	thmc	thmc
+2B09D	𫂝	tmwt	tmwq	tqmq
+2B09E	𫂞	tyvi	tovi	tovi
+2B09F	𫂟	tyfq	tofq	tofq
+2B0A0	𫂠	tgjn	tgjn	tgjn
+2B0A1	𫂡	tgmi	tsmm	tgmi
+2B0A2	𫂢	tdwm	tdwm	tdwm
+2B0A3	𫂣	tade	tdwe	tade
+2B0A4	𫂤	tqje	tqje	tqme
+2B0A5	𫂥	tglm	tglm	tglm
+2B0A6	𫂦	tpyi	tpyi	tpyi
+2B0A7	𫂧	tgki	tskk	tgki
+2B0A8	𫂨	tffl	tffl	tffl
+2B0A9	𫂩	tmgh	tmgy	tmfy
+2B0AA	𫂪	ttdv	ttdv	ttdv
+2B0AB	𫂫	tbuf	tbuf	tbuf
+2B0AC	𫂬	ttqh	ttqs	ttqs
+2B0AD	𫂭	teuy	teuy	teuy
+2B0AE	𫂮	tadn	tdwn	tadn
+2B0AF	𫂯	tyny	tyey	tyny
+2B0B0	𫂰	tfag	tfag	tfyy
+2B0B1	𫂱	tohh	tohh	tohh
+2B0B2	𫂲	eou	bou	bou
+2B0B3	𫂳	mou	mou	mou
+2B0B4	𫂴	obn	obn	obn
+2B0B5	𫂵	ojf	ojf	ojf
+2B0B6	𫂶	otfh	otgh	otgh
+2B0B7	𫂷	otyf	otyf	otyf
+2B0B8	𫂸	oamh	oamh	oamh
+2B0B9	𫂹	odg	odg	odg
+2B0BA	𫂺	olg	olg	olg
+2B0BB	𫂻	ohjg	ohjg	ohjg
+2B0BC	𫂼	oqiy	oqiy	oqiy
+2B0BD	𫂽	oadt	oadt	oadt
+2B0BE	𫂾	oldy	oldy	oldy
+2B0BF	𫂿	qsou	rsou	rsou
+2B0C0	𫃀	opvg	opvg	opvg
+2B0C1	𫃁	ofiy	ogiy	ogiy
+2B0C2	𫃂	obcy	obcy	obcy
+2B0C3	𫃃	orgb	orbh	orgb
+2B0C4	𫃄	owcn	owcn	owcn
+2B0C5	𫃅	oylk	oylk	oylk
+2B0C6	𫃆	jgho	jgho	jgho
+2B0C7	𫃇	okbg	okbg	okbg
+2B0C8	𫃈	ovhn	oehn	oehn
+2B0C9	𫃉	sogn	sogn	sogn
+2B0CA	𫃊	oafx	offx	oafx
+2B0CB	𫃋	oqfh	oqfh	oqfh
+2B0CC	𫃌	onae	onae	onae
+2B0CD	𫃍	oyvh	oovh	oovh
+2B0CE	𫃎	oyfq	oofq	oofq
+2B0CF	𫃏	ojyi	ojyi	ojyi
+2B0D0	𫃐	ouny	ouny	ouny
+2B0D1	𫃑	oool	oooe	oooe
+2B0D2	𫃒	oaan	oadn	oaan
+2B0D3	𫃓	omnp	omkp	omnp
+2B0D4	𫃔	ohkb	ohkb	ohkb
+2B0D5	𫃕	ouxn	ouxn	ouxn
+2B0D6	𫃖	otvb	otvb	otvb
+2B0D7	𫃗	ofno	ofno	ofno
+2B0D8	𫃘	olaf	olag	olag
+2B0D9	𫃙	lony	eony	eony
+2B0DA	𫃚	xhy	xhy	xhy
+2B0DB	𫃛	txnn	txnn	txnn
+2B0DC	𫃜	xkg	xkg	xkg
+2B0DD	𫃝	xwnn	xwnn	xwnn
+2B0DE	𫃞	xkhh	xkhh	xkhh
+2B0DF	𫃟	xfiy	xfy	xfiy
+2B0E0	𫃠	xqnn	xqnn	xqnn
+2B0E1	𫃡	xug	xug	xug
+2B0E2	𫃢	xwsy	xwsy	xwsy
+2B0E3	𫃣	xpbg	xpbg	xpbg
+2B0E4	𫃤	xivg	xivg	xivg
+2B0E5	𫃥	xkhy	xkhy	xkhy
+2B0E6	𫃦	xegc	xegc	xegc
+2B0E7	𫃧	xqjn	xqjn	xqjn
+2B0E8	𫃨	xujn	xujn	xujn
+2B0E9	𫃩	xvnf	xvng	xvnf
+2B0EA	𫃪	xgbu	xgbu	xgbu
+2B0EB	𫃫	xdah	xdah	xdah
+2B0EC	𫃬	xhic	xhic	xhic
+2B0ED	𫃭	xegd	xegd	xegd
+2B0EE	𫃮	xtyg	xtyg	xtyg
+2B0EF	𫃯	xveh	xveh	xveh
+2B0F0	𫃰	xcdd	xcdd	xcdd
+2B0F1	𫃱	xvgi	xvgi	xvgi
+2B0F2	𫃲	xivh	xivh	xivh
+2B0F3	𫃳	xjqy	xjqy	xjqy
+2B0F4	𫃴	xqmd	xqmd	xqmd
+2B0F5	𫃵	xovg	xovg	xovg
+2B0F6	𫃶	xitk	xitk	xitk
+2B0F7	𫃷	xnhg	xnhg	xnhg
+2B0F8	𫃸	xrev	xrev	xrev
+2B0F9	𫃹	xiqp	xqip	xqip
+2B0FA	𫃺	xjgg	xggj	xjgg
+2B0FB	𫃻	xpwk	xpwk	xpwk
+2B0FC	𫃼	xouf	xouf	xouf
+2B0FD	𫃽	xfvg	xfvg	xfvg
+2B0FE	𫃾	xagy	xffs	xagy
+2B0FF	𫃿	xefy	xegy	xegy
+2B100	𫄀	xpff	xpff	xpff
+2B101	𫄁	xaje	xaje	xaje
+2B102	𫄂	xith	xitg	xitg
+2B103	𫄃	xybt	xybt	xykt
+2B104	𫄄	xnov	xnov	xnov
+2B105	𫄅	xdgt	xdgn	xdgy
+2B106	𫄆	xdyf	xdyf	xdyf
+2B107	𫄇	xfal	xfal	xfly
+2B108	𫄈	xaik	xaik	xaik
+2B109	𫄉	xkhk	xkhk	xkhk
+2B10A	𫄊	xiyi	xiyi	xiyi
+2B10B	𫄋	xyff	xyff	xyff
+2B10C	𫄌	xkhv	xkhv	xkhv
+2B10D	𫄍	ximo	xiwo	xiwo
+2B10E	𫄎	xnlv	xnlv	xnlv
+2B10F	𫄏	xtdt	xtdk	xtdy
+2B110	𫄐	xwvd	xwvd	xwvd
+2B111	𫄑	xwyv	xwyv	xwyv
+2B112	𫄒	xist	xist	xist
+2B113	𫄓	xlfd	xlfd	xlfy
+2B114	𫄔	xiuo	xiuw	xiuo
+2B115	𫄕	xlhi	xlhi	xlhi
+2B116	𫄖	xidl	xidl	xidl
+2B117	𫄗	xiio	xiio	xiio
+2B118	𫄘	xtei	xtei	xtei
+2B119	𫄙	xnn	xnn	xnn
+2B11A	𫄚	xgxg	xgxg	xgxg
+2B11B	𫄛	xwyn	xwyn	xwyn
+2B11C	𫄜	xtfn	xen	xtfn
+2B11D	𫄝	xxhh	xxhh	xxhh
+2B11E	𫄞	xgig	xdhg	xdhg
+2B11F	𫄟	xtbn	xtbn	xtbn
+2B120	𫄠	xgjg	xgjg	xgjg
+2B121	𫄡	xmgk	xmgk	xmgk
+2B122	𫄢	xwdy	xwdy	xwdy
+2B123	𫄣	xpey	xpey	xpey
+2B124	𫄤	xdpy	xdpy	xdpy
+2B125	𫄥	xgmy	xgmy	xgmy
+2B126	𫄦	xfcl	xfce	xfce
+2B127	𫄧	xthp	xthp	xthp
+2B128	𫄨	xqdh	xrdh	xrdh
+2B129	𫄩	xtxu	xtxy	xtxy
+2B12A	𫄪	xfue	xfue	xfue
+2B12B	𫄫	xynd	xynd	xyny
+2B12C	𫄬	xans	xans	xans
+2B12D	𫄭	xtjt	xtjt	xtjt
+2B12E	𫄮	xecl	xbcl	xbcl
+2B12F	𫄯	xlwt	xlwt	xlwt
+2B130	𫄰	xupy	xyuy	xyuy
+2B131	𫄱	xfuk	xfuk	xfuk
+2B132	𫄲	xajd	xajd	xajd
+2B133	𫄳	xthh	xthh	xthh
+2B134	𫄴	xyxf	xyxf	xyxf
+2B135	𫄵	xfke	xfke	xfke
+2B136	𫄶	xxkj	xxkj	xxkj
+2B137	𫄷	xujn	xujn	xujn
+2B138	𫄸	xtgo	xtgo	xtgo
+2B139	𫄹	xmwk	xmwk	xmwk
+2B13A	𫄺	rmkf	tfbf	rmkf
+2B13B	𫄻	rmwy	tfby	rmwy
+2B13C	𫄼	rmas	tfbs	rmas
+2B13D	𫄽	vhgm	vhgb	vhgm
+2B13E	𫄾	rmem	tfbb	rmem
+2B13F	𫄿	aqkm	aqkb	aqkm
+2B140	𫅀	lfnb	lfnb	lfnb
+2B141	𫅁	lwxb	lwxb	lwxb
+2B142	𫅂	ldf	ldf	ldf
+2B143	𫅃	pqjj	pqjj	pwjf
+2B144	𫅄	liqb	lqiu	lqiu
+2B145	𫅅	lyjj	lyjj	lyjj
+2B146	𫅆	mqqv	mrrv	mrrv
+2B147	𫅇	lqf	lqf	lqf
+2B148	𫅈	lxxw	lxxw	lxxw
+2B149	𫅉	lsgn	lsgn	lsgn
+2B14A	𫅊	lkfk	lkfk	lkfk
+2B14B	𫅋	lwgj	lwgj	lwgj
+2B14C	𫅌	lfuf	lfuf	lfuf
+2B14D	𫅍	lued	lumd	lued
+2B14E	𫅎	udbj	ubk	ugbj
+2B14F	𫅏	uggh	uggh	uggh
+2B150	𫅐	udmd	umdy	ugmd
+2B151	𫅑	udjg	ujgg	ugjg
+2B152	𫅒	udna	unan	ugna
+2B153	𫅓	udud	uuj	ugug
+2B154	𫅔	udve	uvy	ugve
+2B155	𫅕	udda	udqy	ugda
+2B156	𫅖	ugdk	ugdk	ugdk
+2B157	𫅗	udfm	ufam	ugfm
+2B158	𫅘	ugak	ugfk	ugak
+2B159	𫅙	udmj	umuj	ugmj
+2B15A	𫅚	ugdi	ugdi	ugdi
+2B15B	𫅛	udme	umee	ugme
+2B15C	𫅜	wyck	wyck	wyck
+2B15D	𫅝	ugdg	ugdg	ugdg
+2B15E	𫅞	gvck	gvuk	gvck
+2B15F	𫅟	ugdc	ugdc	ugdc
+2B160	𫅠	ugds	ugds	ugds
+2B161	𫅡	udnk	unhk	ugnk
+2B162	𫅢	fnf	fnf	fnf
+2B163	𫅣	fqnd	fqng	fqnd
+2B164	𫅤	nwgc	nwgc	nwgc
+2B165	𫅥	mnng	mnng	mnng
+2B166	𫅦	ubtn	ubtn	ubtn
+2B167	𫅧	nudh	nuh	nugh
+2B168	𫅨	nlj	nlj	nlj
+2B169	𫅩	ngjq	nrnr	ngjr
+2B16A	𫅪	ndjd	ntdd	nhdd
+2B16B	𫅫	rdfn	rdfr	rdfn
+2B16C	𫅬	ujng	ujnr	ujnt
+2B16D	𫅭	prgn	prwn	prgn
+2B16E	𫅮	nujn	nrnn	nujn
+2B16F	𫅯	ngkp	nrnp	ngkp
+2B170	𫅰	djdn	hdhr	hdhn
+2B171	𫅱	thun	thun	thun
+2B172	𫅲	ntun	nrnn	ntun
+2B173	𫅳	ftxx	ftxx	ftxx
+2B174	𫅴	ftxc	ftxc	ftxc
+2B175	𫅵	ftxt	ftxt	ftxt
+2B176	𫅶	ftxy	ftxj	ftxy
+2B177	𫅷	awsx	awsx	awsx
+2B178	𫅸	ftxo	ftxw	ftxo
+2B179	𫅹	tfil	tflg	tfil
+2B17A	𫅺	tfij	tfdj	tfij
+2B17B	𫅻	tfia	tfma	tfia
+2B17C	𫅼	tfip	tflp	tfip
+2B17D	𫅽	tfij	tfdj	tfij
+2B17E	𫅾	tfil	tfql	tfil
+2B17F	𫅿	tfim	tfxm	tfim
+2B180	𫆀	bbh	bbh	bbh
+2B181	𫆁	bqwy	bqwy	bqwy
+2B182	𫆂	bwgg	btyg	btyg
+2B183	𫆃	nhtb	hghb	nhtb
+2B184	𫆄	bdgn	bdgn	bdgn
+2B185	𫆅	bktf	bktf	bktf
+2B186	𫆆	bctd	bctd	bctd
+2B187	𫆇	besy	besy	besy
+2B188	𫆈	rntb	rntb	rntb
+2B189	𫆉	tobf	tobf	tobf
+2B18A	𫆊	bamw	bamw	bamw
+2B18B	𫆋	bgkh	bgkh	bgkh
+2B18C	𫆌	buwl	buwl	buwl
+2B18D	𫆍	bgve	bgve	bgve
+2B18E	𫆎	thhb	thhb	thhb
+2B18F	𫆏	ilrb	ilrb	ilrb
+2B190	𫆐	bkkf	bkkf	bkkl
+2B191	𫆑	bwgj	bwgj	bwgj
+2B192	𫆒	bpqn	bpqn	bpqn
+2B193	𫆓	bgke	bgke	bgke
+2B194	𫆔	xfih	xfig	xfig
+2B195	𫆕	dfih	dfig	dfig
+2B196	𫆖	efyy	mufy	efyy
+2B197	𫆗	eqbh	muqb	eqbh
+2B198	𫆘	efyy	eghy	efyy
+2B199	𫆙	ipef	ipmu	ipef
+2B19A	𫆚	emg	mumg	emg
+2B19B	𫆛	eway	eway	eway
+2B19C	𫆜	mwwx	mwwx	mwwx
+2B19D	𫆝	euft	muut	euft
+2B19E	𫆞	evag	muva	evag
+2B19F	𫆟	eipl	eipe	eipe
+2B1A0	𫆠	eudj	eugj	eugj
+2B1A1	𫆡	yceh	yceh	yceh
+2B1A2	𫆢	fwte	fwte	fwte
+2B1A3	𫆣	eldg	eldg	eldg
+2B1A4	𫆤	eqg	eqg	eqg
+2B1A5	𫆥	yneq	yneq	yneq
+2B1A6	𫆦	eith	muih	eith
+2B1A7	𫆧	etvh	mutg	etvg
+2B1A8	𫆨	euej	euej	euej
+2B1A9	𫆩	ekkp	ekkp	ekkp
+2B1AA	𫆪	elqt	elqt	elqt
+2B1AB	𫆫	mwwc	mwwc	mwwc
+2B1AC	𫆬	idfe	idfe	idfe
+2B1AD	𫆭	mwwp	mwwp	mwwp
+2B1AE	𫆮	ebti	mubi	ebti
+2B1AF	𫆯	egwt	eghq	egwt
+2B1B0	𫆰	gqtw	gqtw	gqtw
+2B1B1	𫆱	esrc	esrc	esrc
+2B1B2	𫆲	eafb	muab	eafb
+2B1B3	𫆳	ejlc	mujc	ejlc
+2B1B4	𫆴	pnte	pntu	pnte
+2B1B5	𫆵	egjn	mugn	egjn
+2B1B6	𫆶	hjye	fjye	hjfe
+2B1B7	𫆷	eyfx	eyfx	eyfx
+2B1B8	𫆸	mwwf	mwwf	mwwf
+2B1B9	𫆹	eadi	effi	eadi
+2B1BA	𫆺	mwwh	mwwh	mwwh
+2B1BB	𫆻	exjq	muxq	exjq
+2B1BC	𫆼	eauy	efyy	eayy
+2B1BD	𫆽	ycex	ycex	ycex
+2B1BE	𫆾	eafy	effy	eafy
+2B1BF	𫆿	leop	leop	leop
+2B1C0	𫇀	edth	edth	edth
+2B1C1	𫇁	etgq	mutq	etgq
+2B1C2	𫇂	ngcb	ngcb	ngcb
+2B1C3	𫇃	egmx	egmx	egmx
+2B1C4	𫇄	ycee	ycee	ycee
+2B1C5	𫇅	ahnr	ahnr	ahnr
+2B1C6	𫇆	ahnh	ahnh	ahnh
+2B1C7	𫇇	ahnt	ahny	ahny
+2B1C8	𫇈	ahnf	ahnf	ahnf
+2B1C9	𫇉	ahnm	ahnw	ahnw
+2B1CA	𫇊	thpb	thpb	thpb
+2B1CB	𫇋	thri	thri	thri
+2B1CC	𫇌	thdn	thdn	thdn
+2B1CD	𫇍	thdl	thdl	thdl
+2B1CE	𫇎	gcfi	gcfk	gcfi
+2B1CF	𫇏	gcfw	gcfw	gcfw
+2B1D0	𫇐	gcfg	gcfg	gcfg
+2B1D1	𫇑	gcft	gcft	gcft
+2B1D2	𫇒	swwv	swwe	swwe
+2B1D3	𫇓	wfsg	essg	essg
+2B1D4	𫇔	fkmn	fkwn	fkwn
+2B1D5	𫇕	wfkg	wfkg	wfkg
+2B1D6	𫇖	tdyk	tdyk	tdyk
+2B1D7	𫇗	fkuo	fkuw	fkuo
+2B1D8	𫇘	tdgm	tdsm	tdgm
+2B1D9	𫇙	wfkl	wfkl	wfkl
+2B1DA	𫇚	tetf	tutf	tetf
+2B1DB	𫇛	tehl	tuhe	tehe
+2B1DC	𫇜	teak	tufk	teak
+2B1DD	𫇝	tenc	tunc	tenc
+2B1DE	𫇞	tejc	tujc	tejc
+2B1DF	𫇟	tedn	tuhn	tehn
+2B1E0	𫇠	teff	tuff	teff
+2B1E1	𫇡	teai	tual	teai
+2B1E2	𫇢	teut	tuuy	teuy
+2B1E3	𫇣	teut	tuuy	teuy
+2B1E4	𫇤	fclc	fclc	fclc
+2B1E5	𫇥	uhu	uhu	uhu
+2B1E6	𫇦	apb	apb	apb
+2B1E7	𫇧	awnb	ffwn	awnb
+2B1E8	𫇨	akj	ffkj	akj
+2B1E9	𫇩	agf	ffgf	agf
+2B1EA	𫇪	amqu	amru	amru
+2B1EB	𫇫	awqu	ffwr	awru
+2B1EC	𫇬	aqqu	ffqr	aqru
+2B1ED	𫇭	ayly	ayey	ayty
+2B1EE	𫇮	aant	ffan	agny
+2B1EF	𫇯	akgn	ffkn	akgn
+2B1F0	𫇰	ahjf	ffhj	ahjf
+2B1F1	𫇱	awbf	ffwb	awbf
+2B1F2	𫇲	awff	fftf	awff
+2B1F3	𫇳	awhf	ffwh	awhg
+2B1F4	𫇴	aqvf	aqvf	aqvf
+2B1F5	𫇵	aveb	ffvb	avbr
+2B1F6	𫇶	agmf	ffgf	agmf
+2B1F7	𫇷	aftn	fffn	aftn
+2B1F8	𫇸	atj	ffth	athh
+2B1F9	𫇹	awxw	ffww	awxw
+2B1FA	𫇺	ayff	ffof	aoff
+2B1FB	𫇻	aibb	ffib	aibb
+2B1FC	𫇼	aimy	ffiy	aiwy
+2B1FD	𫇽	apeu	apeu	apeu
+2B1FE	𫇾	aiff	ffif	aiff
+2B1FF	𫇿	agki	ffsk	agki
+2B200	𫈀	akqw	ffkw	akqw
+2B201	𫈁	alfj	fflj	alfj
+2B202	𫈂	amtu	ffmt	amtu
+2B203	𫈃	aqtg	aqtg	aqtg
+2B204	𫈄	awnw	ffww	awnw
+2B205	𫈅	awwk	ffwk	awwk
+2B206	𫈆	awlk	ffwk	awek
+2B207	𫈇	arxb	ffrx	arxb
+2B208	𫈈	awdk	awdk	awdk
+2B209	𫈉	aujf	aujf	aujf
+2B20A	𫈊	aiyb	ffiy	aiyr
+2B20B	𫈋	ayxx	ffox	aoxx
+2B20C	𫈌	apfw	ffpg	apfw
+2B20D	𫈍	anhu	ffnu	anhu
+2B20E	𫈎	acal	acae	acae
+2B20F	𫈏	acej	aceh	aceh
+2B210	𫈐	afuf	ffff	afuf
+2B211	𫈑	agyu	ffgy	agyu
+2B212	𫈒	ageu	ffge	ageu
+2B213	𫈓	agah	ffgy	afhy
+2B214	𫈔	ajqf	ffjf	ajqf
+2B215	𫈕	akib	ffkb	akib
+2B216	𫈖	aqju	ffqj	aqju
+2B217	𫈗	atkf	fftk	atkf
+2B218	𫈘	awyv	awuv	awyv
+2B219	𫈙	atgy	atgy	atgy
+2B21A	𫈚	aytu	ffyt	aytu
+2B21B	𫈛	apmf	ffom	apmf
+2B21C	𫈜	aimf	ffim	aimf
+2B21D	𫈝	annu	ffnn	annu
+2B21E	𫈞	aiyx	ffix	aiyx
+2B21F	𫈟	abai	abai	abai
+2B220	𫈠	alkf	ffef	aekf
+2B221	𫈡	agmp	fgmp	agmp
+2B222	𫈢	adjb	ffdb	adjb
+2B223	𫈣	albb	fflb	albb
+2B224	𫈤	agvi	ffgi	agvi
+2B225	𫈥	assk	assk	assk
+2B226	𫈦	amwt	ffmd	amwy
+2B227	𫈧	ajmy	ffjy	ajmy
+2B228	𫈨	alwj	alwj	alwj
+2B229	𫈩	ajfb	ajfb	ajfb
+2B22A	𫈪	awxi	awxs	awxs
+2B22B	𫈫	atdw	fftw	atdw
+2B22C	𫈬	apwn	ffpn	apwn
+2B22D	𫈭	aiud	ffiu	aiug
+2B22E	𫈮	ayeu	ffye	ayke
+2B22F	𫈯	augy	ffuy	aufy
+2B230	𫈰	aiwk	aiwk	aiwk
+2B231	𫈱	ayde	ffye	ayde
+2B232	𫈲	ainf	ainf	ainf
+2B233	𫈳	aiii	ffii	aiii
+2B234	𫈴	awga	ffwa	awga
+2B235	𫈵	axqc	axqc	axqc
+2B236	𫈶	agme	ffge	agme
+2B237	𫈷	asmk	ffsk	asmk
+2B238	𫈸	adun	ffdn	adun
+2B239	𫈹	adlj	ffdl	adlj
+2B23A	𫈺	asyw	asyw	asyw
+2B23B	𫈻	adfy	adfy	adfy
+2B23C	𫈼	aldt	ffld	aldy
+2B23D	𫈽	alfo	fflo	alfo
+2B23E	𫈾	awhh	ffwh	awhh
+2B23F	𫈿	awnc	fftc	awnc
+2B240	𫉀	arno	ffro	arno
+2B241	𫉁	aepc	aepc	aepc
+2B242	𫉂	apjs	ffps	apjs
+2B243	𫉃	aitj	ffij	aitj
+2B244	𫉄	ayfj	ayfj	ayfj
+2B245	𫉅	avkn	avkn	avkn
+2B246	𫉆	alle	ffeu	aeee
+2B247	𫉇	axic	ffxc	axic
+2B248	𫉈	agkr	ffsr	agkr
+2B249	𫉉	aalw	ffaw	aalw
+2B24A	𫉊	afwy	fffy	afwy
+2B24B	𫉋	agtj	agtj	agtj
+2B24C	𫉌	adfn	ffdn	adfn
+2B24D	𫉍	afwt	fffq	afwt
+2B24E	𫉎	asgk	asgk	asgk
+2B24F	𫉏	aakc	aakc	aakc
+2B250	𫉐	gjgy	hghy	hghy
+2B251	𫉑	aufj	ffuf	aufj
+2B252	𫉒	aiph	ffih	aiph
+2B253	𫉓	umhi	umhj	umhi
+2B254	𫉔	awnh	ffwg	awnh
+2B255	𫉕	awsk	awsk	awsk
+2B256	𫉖	aefb	ffeb	aefb
+2B257	𫉗	aifu	ffif	aifu
+2B258	𫉘	ayvh	ffoh	aovh
+2B259	𫉙	aiqo	ffio	aiqo
+2B25A	𫉚	ayyn	ayyn	ayyn
+2B25B	𫉛	abtv	ffbv	abtv
+2B25C	𫉜	axfm	ffxm	axfm
+2B25D	𫉝	aggn	ffgn	aggn
+2B25E	𫉞	akkf	ffkf	akkf
+2B25F	𫉟	aqqf	ffqf	aqqf
+2B260	𫉠	awfb	ffwb	awfb
+2B261	𫉡	aeyf	aeyf	aeyf
+2B262	𫉢	arrk	ffrk	arrk
+2B263	𫉣	aide	ffiu	aide
+2B264	𫉤	abjr	abjr	abjr
+2B265	𫉥	afwl	afqe	afwe
+2B266	𫉦	agqt	agqt	agqt
+2B267	𫉧	ajto	ajto	ajto
+2B268	𫉨	ajmc	ffjc	ajmc
+2B269	𫉩	akwo	akqo	akwo
+2B26A	𫉪	atxt	atxt	atxt
+2B26B	𫉫	awfh	ffwh	awfh
+2B26C	𫉬	aqtc	aqtc	aqtc
+2B26D	𫉭	aufq	ffuq	aufq
+2B26E	𫉮	aujw	ffuw	aujw
+2B26F	𫉯	aiwc	aiwc	aiwc
+2B270	𫉰	aigl	ffil	aigl
+2B271	𫉱	aoge	aogv	aoge
+2B272	𫉲	apff	apaf	apaf
+2B273	𫉳	ackc	ackc	ackc
+2B274	𫉴	annj	annj	annj
+2B275	𫉵	afce	afce	afce
+2B276	𫉶	gjgl	hghl	hghl
+2B277	𫉷	afuf	ffff	afuf
+2B278	𫉸	askw	askw	askw
+2B279	𫉹	asrf	ffsf	asrf
+2B27A	𫉺	aahi	aahi	aahi
+2B27B	𫉻	ajsb	ffjb	ajsb
+2B27C	𫉼	aldh	aldh	aldh
+2B27D	𫉽	gjgp	hghp	hghp
+2B27E	𫉾	gjgb	hghb	hghb
+2B27F	𫉿	gjgi	hghi	hghi
+2B280	𫊀	apwg	ffpg	apwg
+2B281	𫊁	ainf	ainf	ainf
+2B282	𫊂	ayyf	ayyf	ayyf
+2B283	𫊃	gjgk	hghk	hghk
+2B284	𫊄	axil	ffxl	axil
+2B285	𫊅	ajmi	ajmf	ajmi
+2B286	𫊆	atdc	atdc	atdc
+2B287	𫊇	atfk	fftk	atfk
+2B288	𫊈	awfh	awfg	awfg
+2B289	𫊉	aihh	aihh	aihh
+2B28A	𫊊	aode	aodu	aode
+2B28B	𫊋	aiws	ffis	aiws
+2B28C	𫊌	aglo	aglo	aglo
+2B28D	𫊍	aann	aann	aann
+2B28E	𫊎	awnf	atnf	awnf
+2B28F	𫊏	atlf	atlf	atlf
+2B290	𫊐	adfq	adfq	adfq
+2B291	𫊑	adtl	ffdl	adtl
+2B292	𫊒	aqof	ffqf	aqof
+2B293	𫊓	aiao	ffio	aiao
+2B294	𫊔	afto	afto	afto
+2B295	𫊕	atft	ffty	atfy
+2B296	𫊖	aeyj	ffej	aeyj
+2B297	𫊗	aahl	ffal	aahl
+2B298	𫊘	ajah	ffjh	ajfh
+2B299	𫊙	aqgf	aqgf	aqgf
+2B29A	𫊚	arii	arik	arii
+2B29B	𫊛	akhb	akhb	akhb
+2B29C	𫊜	allg	allg	allg
+2B29D	𫊝	hakd	hkd	hakd
+2B29E	𫊞	havd	hvd	havd
+2B29F	𫊟	hatf	htfd	hatf
+2B2A0	𫊠	hamh	hwtg	hawh
+2B2A1	𫊡	hath	hthd	hath
+2B2A2	𫊢	hayj	hyjd	hayj
+2B2A3	𫊣	haqo	hqoi	haqo
+2B2A4	𫊤	jxn	jxn	jxn
+2B2A5	𫊥	jfg	jfg	jfg
+2B2A6	𫊦	juhh	juhh	juhh
+2B2A7	𫊧	javn	javt	javn
+2B2A8	𫊨	jrnn	jrn	jrnn
+2B2A9	𫊩	jeyy	jbyy	jbyy
+2B2AA	𫊪	jtay	jtay	jtay
+2B2AB	𫊫	cuju	cuju	cuju
+2B2AC	𫊬	jmdy	jmdy	jmdy
+2B2AD	𫊭	mdju	mdju	mdju
+2B2AE	𫊮	jhnt	jhnt	jhnt
+2B2AF	𫊯	jtuh	jtuh	jtuf
+2B2B0	𫊰	jqhy	jqhy	jqhy
+2B2B1	𫊱	qiju	qiju	qiju
+2B2B2	𫊲	cdju	cdju	cdju
+2B2B3	𫊳	jgkq	jgkr	jgkr
+2B2B4	𫊴	jrta	jrta	jrta
+2B2B5	𫊵	jffy	jffy	jffy
+2B2B6	𫊶	jiqn	jigq	jigq
+2B2B7	𫊷	jqsy	hrsy	jrsy
+2B2B8	𫊸	jtdj	jtdj	jtdj
+2B2B9	𫊹	jwfc	jwfc	jwfc
+2B2BA	𫊺	jxiy	jxiy	jxiy
+2B2BB	𫊻	jvfy	jvfy	jvfy
+2B2BC	𫊼	nju	nju	nju
+2B2BD	𫊽	jkqj	jkqj	jkqj
+2B2BE	𫊾	jtmt	jtmt	jtmt
+2B2BF	𫊿	jwca	jwca	jwca
+2B2C0	𫋀	jpsy	jpsy	jpsy
+2B2C1	𫋁	juh	juh	jufh
+2B2C2	𫋂	jgvv	jgvv	jgvv
+2B2C3	𫋃	jfy	jfy	jfy
+2B2C4	𫋄	jrgb	jrbh	jrgb
+2B2C5	𫋅	jryp	jrpy	jrpy
+2B2C6	𫋆	jqg	jqg	jqg
+2B2C7	𫋇	jqys	jqsy	jqys
+2B2C8	𫋈	jrny	jrny	jrny
+2B2C9	𫋉	yntj	ftyj	fntj
+2B2CA	𫋊	gkmj	gkmj	gkmj
+2B2CB	𫋋	jgil	jdhl	jdhl
+2B2CC	𫋌	jwam	jwam	jwam
+2B2CD	𫋍	jptk	jptk	jptk
+2B2CE	𫋎	juth	juth	juth
+2B2CF	𫋏	jdfk	jdfk	jdfk
+2B2D0	𫋐	jamy	jamy	jamy
+2B2D1	𫋑	jgyg	jgtg	jgyg
+2B2D2	𫋒	dcjj	dcjj	dcjj
+2B2D3	𫋓	jawk	jffk	jawk
+2B2D4	𫋔	jyxf	jyxf	jyxf
+2B2D5	𫋕	jpey	jpge	jpge
+2B2D6	𫋖	jgkj	jgkj	jgkj
+2B2D7	𫋗	jiwy	jiwy	jiwy
+2B2D8	𫋘	jxil	jxil	jxil
+2B2D9	𫋙	jxcj	jxcj	jxcj
+2B2DA	𫋚	jfkf	jfkf	jfkf
+2B2DB	𫋛	jage	jffe	jage
+2B2DC	𫋜	jelf	jelf	jelf
+2B2DD	𫋝	jwys	jwys	jwys
+2B2DE	𫋞	jwgn	jwgr	jwgn
+2B2DF	𫋟	jahl	jahl	jahl
+2B2E0	𫋠	jmau	jmau	jmau
+2B2E1	𫋡	ynjj	ognj	onjj
+2B2E2	𫋢	jnup	jnup	jnup
+2B2E3	𫋣	jadj	jdwj	jadj
+2B2E4	𫋤	jfnf	jfnf	jfnf
+2B2E5	𫋥	jooe	jooe	jooe
+2B2E6	𫋦	jfhc	jfhc	jfhc
+2B2E7	𫋧	jyaw	joaw	joaw
+2B2E8	𫋨	jygi	jysl	jygi
+2B2E9	𫋩	jhqo	jhqo	jhqo
+2B2EA	𫋪	tlxx	tlxx	tlxx
+2B2EB	𫋫	dwtl	dwtl	dwtl
+2B2EC	𫋬	tluj	tluj	tluf
+2B2ED	𫋭	tmdh	tmds	tmds
+2B2EE	𫋮	tfkh	tfks	tfks
+2B2EF	𫋯	trgh	trgs	trgs
+2B2F0	𫋰	ttdh	ttds	ttds
+2B2F1	𫋱	tmmh	tmms	tmms
+2B2F2	𫋲	puaq	puar	puar
+2B2F3	𫋳	puyn	puyt	puyt
+2B2F4	𫋴	uyeu	uyeu	ywye
+2B2F5	𫋵	pujh	pujh	pujh
+2B2F6	𫋶	puvh	puvh	puvh
+2B2F7	𫋷	puch	pucg	pucg
+2B2F8	𫋸	pude	pude	pude
+2B2F9	𫋹	puaq	puaq	puaq
+2B2FA	𫋺	puiq	puqi	puqi
+2B2FB	𫋻	puwc	puwc	puwc
+2B2FC	𫋼	puxi	puxi	puxi
+2B2FD	𫋽	puqe	puqf	puqh
+2B2FE	𫋾	pudn	pudn	pudn
+2B2FF	𫋿	pust	pust	pust
+2B300	𫌀	pugm	pugm	pugm
+2B301	𫌁	pufn	pufn	pufn
+2B302	𫌂	putv	putv	putv
+2B303	𫌃	puth	puth	puth
+2B304	𫌄	pucd	pucd	pucd
+2B305	𫌅	pujr	pujr	pujr
+2B306	𫌆	puvc	puec	puec
+2B307	𫌇	pubc	pubc	pubc
+2B308	𫌈	puwm	puqm	puwm
+2B309	𫌉	puuo	puuo	puuo
+2B30A	𫌊	puaf	pudf	puaf
+2B30B	𫌋	puju	puju	puju
+2B30C	𫌌	pumi	pumi	pumi
+2B30D	𫌍	tdje	tdje	tdje
+2B30E	𫌎	ewke	ewke	ewke
+2B30F	𫌏	nhde	uqfe	nhde
+2B310	𫌐	puft	pufn	pufy
+2B311	𫌑	puuj	puuj	puoj
+2B312	𫌒	puxq	puxq	puxq
+2B313	𫌓	pumu	pumu	pumu
+2B314	𫌔	puvd	puvu	puvg
+2B315	𫌕	pudh	pudh	pudh
+2B316	𫌖	pufl	pugl	pufl
+2B317	𫌗	puyf	puyf	puyf
+2B318	𫌘	puoc	puoc	puoc
+2B319	𫌙	putj	putj	putj
+2B31A	𫌚	sty	sty	sty
+2B31B	𫌛	smth	smth	smth
+2B31C	𫌜	hqvd	hqvd	hqvd
+2B31D	𫌝	hqkq	hqkq	hqkq
+2B31E	𫌞	shqb	shqb	shqb
+2B31F	𫌟	gaeq	gaeq	gaeq
+2B320	𫌠	wsgq	wsgq	wsgq
+2B321	𫌡	fwfq	gghq	fwfq
+2B322	𫌢	hqff	hqff	hqff
+2B323	𫌣	hqas	hqas	hqas
+2B324	𫌤	fnmq	fnwq	fnwq
+2B325	𫌥	vhqq	vvhq	vhqq
+2B326	𫌦	tfqq	tfqq	tfqq
+2B327	𫌧	hqym	hqym	hqym
+2B328	𫌨	qimq	qimq	qimq
+2B329	𫌩	mqqk	mqqk	mqqk
+2B32A	𫌪	remq	remq	remq
+2B32B	𫌫	gliq	slmq	gliq
+2B32C	𫌬	sfiq	sfiq	sfiq
+2B32D	𫌭	mqtt	mqtt	mqtt
+2B32E	𫌮	qedn	qmfn	qehn
+2B32F	𫌯	qetj	qetj	qehj
+2B330	𫌰	qejr	qejr	qehr
+2B331	𫌱	qenh	qmfg	qehh
+2B332	𫌲	yaj	yaj	yaj
+2B333	𫌳	yvg	yvg	yvg
+2B334	𫌴	yyy	yyy	yyy
+2B335	𫌵	ccyf	ccyf	ccyf
+2B336	𫌶	ygig	ydhg	ydhg
+2B337	𫌷	jnyd	jnyd	jnyd
+2B338	𫌸	wayf	wayy	wayy
+2B339	𫌹	ycyg	ycyg	ycyg
+2B33A	𫌺	syf	syf	syf
+2B33B	𫌻	yyey	yyey	yyey
+2B33C	𫌼	ylh	ylh	ylh
+2B33D	𫌽	yevg	yevg	yevg
+2B33E	𫌾	ytxi	ytxi	ytxi
+2B33F	𫌿	ygvv	ygvv	ygvv
+2B340	𫍀	yqg	yqg	yqg
+2B341	𫍁	yakh	takh	yakh
+2B342	𫍂	yith	yith	yith
+2B343	𫍃	ycel	ycee	ycee
+2B344	𫍄	ynuh	ynuh	ynuh
+2B345	𫍅	ycbs	ycns	ycns
+2B346	𫍆	yrvn	ytgn	yrvn
+2B347	𫍇	ypwk	ypwk	ypwk
+2B348	𫍈	ypqv	tpqe	ypqe
+2B349	𫍉	yssy	yssy	yssy
+2B34A	𫍊	yahf	yahf	yahf
+2B34B	𫍋	yukg	tukg	yukg
+2B34C	𫍌	ycep	ycep	ycep
+2B34D	𫍍	yafy	yfsy	yafy
+2B34E	𫍎	ykbt	ykby	ykby
+2B34F	𫍏	ynty	ynty	ynty
+2B350	𫍐	hidy	hhdy	hhdy
+2B351	𫍑	yywy	yowy	yowy
+2B352	𫍒	ypxm	ypxm	ypxm
+2B353	𫍓	yuto	yutw	yuto
+2B354	𫍔	yhaa	yhga	yhaa
+2B355	𫍕	yntw	yntw	yntw
+2B356	𫍖	ynlw	ynrw	ynlw
+2B357	𫍗	yecu	yecu	yecf
+2B358	𫍘	ynfj	ynhj	ynij
+2B359	𫍙	ybn	ybn	ybn
+2B35A	𫍚	ytdy	ytdy	ytdy
+2B35B	𫍛	ywvn	ywvt	ywvt
+2B35C	𫍜	yfcy	yfcy	yfcy
+2B35D	𫍝	yanw	yanw	yanw
+2B35E	𫍞	ytuh	ytuh	ytuf
+2B35F	𫍟	ytbn	ytbn	ytbn
+2B360	𫍠	yqbn	yqbn	yqbn
+2B361	𫍡	ypxn	ypxn	ypxn
+2B362	𫍢	yatq	yatq	yatq
+2B363	𫍣	ymgk	ymgk	ymgk
+2B364	𫍤	ytdj	ytdj	ytdj
+2B365	𫍥	yiqn	yqiy	yqiy
+2B366	𫍦	ypey	ypey	ypey
+2B367	𫍧	ygoy	ygus	ygoy
+2B368	𫍨	ydfe	ydfe	ydfe
+2B369	𫍩	ykmw	ykmw	ykmw
+2B36A	𫍪	ynny	ynny	ynny
+2B36B	𫍫	ydjn	ydjn	ydjn
+2B36C	𫍬	ymun	ymun	ymun
+2B36D	𫍭	yuvg	yuvg	yuvg
+2B36E	𫍮	ynbm	ynbm	ynbm
+2B36F	𫍯	ydgt	ydgk	ydgy
+2B370	𫍰	ylny	ylny	ylny
+2B371	𫍱	ymdj	ymdj	ymdj
+2B372	𫍲	yvhc	yehc	yehc
+2B373	𫍳	ytgf	ytgf	ytgf
+2B374	𫍴	yovg	yovg	yovg
+2B375	𫍵	ygqt	ygqt	ygqt
+2B376	𫍶	ygct	ygct	ygct
+2B377	𫍷	yrqc	yrqc	yrqc
+2B378	𫍸	yynn	yynn	yynn
+2B379	𫍹	yhag	yheg	yhag
+2B37A	𫍺	ytlt	ytlt	ytlt
+2B37B	𫍻	yfkk	yfkk	yfkk
+2B37C	𫍼	yujf	yujf	yujf
+2B37D	𫍽	ylge	ylge	ylge
+2B37E	𫍾	ypns	ypns	ypns
+2B37F	𫍿	yuen	yuen	yuen
+2B380	𫎀	wwkw	wwkw	wwkw
+2B381	𫎁	fjwk	fjwk	fjwk
+2B382	𫎂	tvwk	tvwk	tvwk
+2B383	𫎃	ywfu	owfu	owfu
+2B384	𫎄	gkus	gkus	gkus
+2B385	𫎅	egf	gegf	gegf
+2B386	𫎆	ewwy	geww	geww
+2B387	𫎇	opge	opfe	opfe
+2B388	𫎈	eedy	geed	geed
+2B389	𫎉	sfie	sfie	sfie
+2B38A	𫎊	eeay	eayy	eayy
+2B38B	𫎋	eede	edeg	edeg
+2B38C	𫎌	eeov	eovg	eovg
+2B38D	𫎍	eedn	edan	edan
+2B38E	𫎎	hmhh	hmhh	hmhh
+2B38F	𫎏	mgfh	mgfh	mgfh
+2B390	𫎐	mtnn	mtnn	mtnn
+2B391	𫎑	mqhh	mqhh	mqhh
+2B392	𫎒	myn	myt	myt
+2B393	𫎓	mpgg	mpgg	mpgg
+2B394	𫎔	wfmu	wfmy	wfmu
+2B395	𫎕	mgmh	mymh	mymh
+2B396	𫎖	mwgk	mwgk	mwgk
+2B397	𫎗	mgik	mdhk	mdhk
+2B398	𫎘	rrmu	rrmu	rrmu
+2B399	𫎙	mukq	mukq	mukq
+2B39A	𫎚	lmqh	lmqh	lmqh
+2B39B	𫎛	qaqm	qaqm	qaqm
+2B39C	𫎜	fitm	ftmu	fitm
+2B39D	𫎝	mxxr	mxxr	mxxr
+2B39E	𫎞	mnhh	mnkg	mnkh
+2B39F	𫎟	mftj	mftj	mftj
+2B3A0	𫎠	ynam	ynam	ynam
+2B3A1	𫎡	ahnm	ahnm	ahnm
+2B3A2	𫎢	myin	myiy	myky
+2B3A3	𫎣	gcly	gclr	gcly
+2B3A4	𫎤	wvmm	wvmm	wvmm
+2B3A5	𫎥	jvdm	jvdm	jvdm
+2B3A6	𫎦	mdxt	mdxy	mdxy
+2B3A7	𫎧	mqkg	mqkg	mqkg
+2B3A8	𫎨	mwgi	mwgg	mwgg
+2B3A9	𫎩	mpws	mpws	mpws
+2B3AA	𫎪	musy	musy	musy
+2B3AB	𫎫	msjh	msjh	msjf
+2B3AC	𫎬	ujam	ujam	ujfm
+2B3AD	𫎭	foca	foca	foca
+2B3AE	𫎮	fogf	fogf	fogf
+2B3AF	𫎯	foaj	foaj	foaj
+2B3B0	𫎰	foxl	foxl	foxl
+2B3B1	𫎱	fhdl	fhde	fhde
+2B3B2	𫎲	fhfi	fhfi	fhfi
+2B3B3	𫎳	fhxf	fhxf	fhxf
+2B3B4	𫎴	fhmk	fhmk	fhmk
+2B3B5	𫎵	fhdq	fhdq	fhdq
+2B3B6	𫎶	fhai	fhai	fhai
+2B3B7	𫎷	fhbi	fhbi	fhbi
+2B3B8	𫎸	fhlr	fhlr	fhlr
+2B3B9	𫎹	fhjf	fhjf	fhjf
+2B3BA	𫎺	fhce	fhce	fhce
+2B3BB	𫎻	fhjg	fhjg	fhjg
+2B3BC	𫎼	fhnv	fhnv	fhnv
+2B3BD	𫎽	fhfl	fhfl	fhfl
+2B3BE	𫎾	fhsb	fhsb	fhsb
+2B3BF	𫎿	fhdq	fhdr	fhdr
+2B3C0	𫏀	khfy	khfy	khfy
+2B3C1	𫏁	khgu	khgu	khgu
+2B3C2	𫏂	khty	khty	khty
+2B3C3	𫏃	khty	khty	khty
+2B3C4	𫏄	khaf	khfg	khaf
+2B3C5	𫏅	khmd	khmd	khmd
+2B3C6	𫏆	khny	khny	khny
+2B3C7	𫏇	khaw	khaw	khaw
+2B3C8	𫏈	khiq	khiq	khiq
+2B3C9	𫏉	khqk	khqk	khqk
+2B3CA	𫏊	khwf	khwf	khwf
+2B3CB	𫏋	khtj	khtj	khtj
+2B3CC	𫏌	khgo	khgs	khgo
+2B3CD	𫏍	khnt	khnt	khnt
+2B3CE	𫏎	khvq	khvq	khvq
+2B3CF	𫏏	khge	khge	khge
+2B3D0	𫏐	lrkh	lrkh	lrkh
+2B3D1	𫏑	khlq	khlq	khlq
+2B3D2	𫏒	khwc	khwc	khwc
+2B3D3	𫏓	khtx	khtx	khtx
+2B3D4	𫏔	dmjh	dljh	dmjh
+2B3D5	𫏕	lcah	lcah	lcah
+2B3D6	𫏖	khec	khec	khec
+2B3D7	𫏗	khwc	khtc	khwc
+2B3D8	𫏘	khil	khil	khil
+2B3D9	𫏙	khrv	khrv	khrv
+2B3DA	𫏚	khwk	khwk	khwk
+2B3DB	𫏛	khyh	khoh	khoh
+2B3DC	𫏜	khlg	khlg	khlg
+2B3DD	𫏝	khog	khog	khog
+2B3DE	𫏞	khor	khor	khor
+2B3DF	𫏟	khul	khue	khue
+2B3E0	𫏠	khjq	khjq	khjq
+2B3E1	𫏡	khqe	khqe	khqe
+2B3E2	𫏢	khte	khte	khte
+2B3E3	𫏣	khgg	khgg	khgg
+2B3E4	𫏤	khye	khoe	khoe
+2B3E5	𫏥	khyn	khyn	khyn
+2B3E6	𫏦	khvh	khvg	khvg
+2B3E7	𫏧	khfj	khfj	khfj
+2B3E8	𫏨	khqd	khqu	khqg
+2B3E9	𫏩	khkp	khkp	khkp
+2B3EA	𫏪	tmdj	tmdj	tmdj
+2B3EB	𫏫	tmda	tmda	tmda
+2B3EC	𫏬	tmdt	tmdt	tmdt
+2B3ED	𫏭	tmdt	tmdt	tmdt
+2B3EE	𫏮	tmdp	tmdp	tmdp
+2B3EF	𫏯	tmdc	tmdc	tmdc
+2B3F0	𫏰	tmdu	tmdu	tmdu
+2B3F1	𫏱	tmdj	tmdj	tmdj
+2B3F2	𫏲	lfnn	lfnn	lfnn
+2B3F3	𫏳	lat	lay	lay
+2B3F4	𫏴	lrg	lrg	lrg
+2B3F5	𫏵	bilj	bilj	bilj
+2B3F6	𫏶	ldww	ldww	ldww
+2B3F7	𫏷	lhfg	lhfg	lhfg
+2B3F8	𫏸	lqdn	lqdn	lqdn
+2B3F9	𫏹	ltfh	ltgg	ltgg
+2B3FA	𫏺	lefc	legc	legc
+2B3FB	𫏻	ovlh	ovlh	ovlh
+2B3FC	𫏼	fwfl	ggpl	fwfl
+2B3FD	𫏽	ujnl	ujnl	ujnl
+2B3FE	𫏾	lltk	lltk	lltk
+2B3FF	𫏿	ltfl	ltfl	ltfl
+2B400	𫐀	lias	lias	lias
+2B401	𫐁	gjhl	gjgl	gjhl
+2B402	𫐂	plvl	plvl	plvl
+2B403	𫐃	llel	llel	llel
+2B404	𫐄	lgqn	lgqn	lgqn
+2B405	𫐅	lmh	lmh	lmh
+2B406	𫐆	ldln	ldet	ldet
+2B407	𫐇	lmwy	lmwy	lmwy
+2B408	𫐈	ldcy	ldcy	ldcy
+2B409	𫐉	lwyc	lwyc	lwyc
+2B40A	𫐊	cdlj	cdlj	cdlj
+2B40B	𫐋	rvyl	rvyl	rvyl
+2B40C	𫐌	luah	luah	luah
+2B40D	𫐍	ltmt	ltmt	ltmt
+2B40E	𫐎	ldsk	ldsk	ldsk
+2B40F	𫐏	lmfk	lmfk	lmfk
+2B410	𫐐	lvqn	leqn	leqn
+2B411	𫐑	lpnn	lpng	lpnn
+2B412	𫐒	lqyg	lqyg	lqyg
+2B413	𫐓	lcbs	lcns	lcns
+2B414	𫐔	lfcl	lfcl	lfcl
+2B415	𫐕	ldhv	ldhv	ldhv
+2B416	𫐖	lnwe	lnwe	lnwe
+2B417	𫐗	logy	loug	logw
+2B418	𫐘	ldgn	ldgn	ldgn
+2B419	𫐙	llll	llll	llll
+2B41A	𫐚	usnn	usnn	udsn
+2B41B	𫐛	ugmi	usmn	udgi
+2B41C	𫐜	ucny	ucny	udcn
+2B41D	𫐝	uyyw	uyyw	udyw
+2B41E	𫐞	hypk	hpk	hpk
+2B41F	𫐟	api	aypi	aypi
+2B420	𫐠	spi	spi	spi
+2B421	𫐡	wgnp	wgnp	wgnp
+2B422	𫐢	dpd	dpd	dpd
+2B423	𫐣	gmwp	gmwp	gmwp
+2B424	𫐤	ysyp	ospk	ospk
+2B425	𫐥	ftxp	ftxp	ftxp
+2B426	𫐦	dqpv	dqpv	dqpv
+2B427	𫐧	rfwp	rgpi	rfwp
+2B428	𫐨	fopi	fopi	fopi
+2B429	𫐩	wwfp	wwfp	wwfp
+2B42A	𫐪	lqip	eqip	eqip
+2B42B	𫐫	fqqp	fqqp	fqqp
+2B42C	𫐬	agfp	ffgp	agpd
+2B42D	𫐭	evhp	evhp	evhp
+2B42E	𫐮	wgmp	wgmp	wgmp
+2B42F	𫐯	vwyp	ewpi	ewpi
+2B430	𫐰	vqpv	eqpv	eqpv
+2B431	𫐱	pfip	pfip	pfip
+2B432	𫐲	pghp	pghp	pghp
+2B433	𫐳	ehfd	ehfu	ehfg
+2B434	𫐴	ewyp	gewp	gewp
+2B435	𫐵	topi	topi	topi
+2B436	𫐶	qkqp	qkqp	qkqp
+2B437	𫐷	ovpd	ovpd	ovpd
+2B438	𫐸	pahp	pnpd	pahp
+2B439	𫐹	nhyp	nhpd	nhpd
+2B43A	𫐺	rvnp	rvnp	rvnp
+2B43B	𫐻	qbtp	qbtp	qbtp
+2B43C	𫐼	upyp	yupp	yupp
+2B43D	𫐽	oitp	oitp	oitp
+2B43E	𫐾	egip	gedp	gedp
+2B43F	𫐿	gkip	skep	gkip
+2B440	𫑀	jfhp	jggp	jgwp
+2B441	𫑁	qtdp	qtdp	qtdp
+2B442	𫑂	qrmp	qtfp	qrmp
+2B443	𫑃	ynjp	ospi	onjp
+2B444	𫑄	fgpd	fgpd	fgpd
+2B445	𫑅	gkip	skwp	gkip
+2B446	𫑆	fcyp	fcyp	fcyp
+2B447	𫑇	radp	rdwp	radp
+2B448	𫑈	pjmp	pjmp	pjmp
+2B449	𫑉	ytmp	ytmp	ytmp
+2B44A	𫑊	lkmp	ekmp	ekmp
+2B44B	𫑋	gkip	skcp	gkip
+2B44C	𫑌	mnmp	mkyp	mnmp
+2B44D	𫑍	khgp	khgp	khgp
+2B44E	𫑎	tthp	tthp	tthp
+2B44F	𫑏	vfbp	ngbp	ngbp
+2B450	𫑐	gkip	skyp	gkip
+2B451	𫑑	mnmp	mktp	mnmp
+2B452	𫑒	gkip	skwp	gkip
+2B453	𫑓	wnnp	tnlp	wnnp
+2B454	𫑔	oopp	oopp	oopp
+2B455	𫑕	ujfp	ujfp	ujfp
+2B456	𫑖	djdp	djdp	djdp
+2B457	𫑗	qtbh	qtbh	qtbh
+2B458	𫑘	fnyb	fnyb	fnyb
+2B459	𫑙	qytb	qytb	qytb
+2B45A	𫑚	ghnb	ghnb	ghnb
+2B45B	𫑛	antb	anbh	gnxb
+2B45C	𫑜	iqbh	qibh	qibh
+2B45D	𫑝	atdb	atdb	atdb
+2B45E	𫑞	egnb	endb	egnb
+2B45F	𫑟	ybh	ybh	ybh
+2B460	𫑠	aabh	aabh	aabh
+2B461	𫑡	kjnb	kjnb	kjnb
+2B462	𫑢	tfth	dtbh	tgbh
+2B463	𫑣	kgmb	kgmb	kgmb
+2B464	𫑤	lebh	lebh	lebh
+2B465	𫑥	dfeb	dfeb	dfeb
+2B466	𫑦	jpvb	jpvb	jpvb
+2B467	𫑧	akkb	akkb	akkb
+2B468	𫑨	qobh	qobh	qobh
+2B469	𫑩	ugyb	ugyb	ugyb
+2B46A	𫑪	flbh	flbh	flbh
+2B46B	𫑫	uqwb	uqwb	uqwb
+2B46C	𫑬	slab	slab	slab
+2B46D	𫑭	ynjb	onnb	onjb
+2B46E	𫑮	djfb	djfb	djfb
+2B46F	𫑯	gvcf	gvbf	gvcf
+2B470	𫑰	uegb	uegb	uegb
+2B471	𫑱	gvce	gvbe	gvce
+2B472	𫑲	elvb	elvb	elvb
+2B473	𫑳	sgvy	sgvy	sgvy
+2B474	𫑴	sgdb	sgdb	sgdb
+2B475	𫑵	sgld	sgld	sgld
+2B476	𫑶	sggu	sggu	sggu
+2B477	𫑷	sgwi	sgwg	sgwg
+2B478	𫑸	sgnn	sgnn	sgnn
+2B479	𫑹	sgsw	sgsw	sgsw
+2B47A	𫑺	sgwh	sgth	sgwh
+2B47B	𫑻	sgtk	sgtk	sgtk
+2B47C	𫑼	sgwf	sgwf	sgwf
+2B47D	𫑽	sgni	sgnk	sgni
+2B47E	𫑾	sgyi	sgyi	sgyi
+2B47F	𫑿	sgao	sgfo	sgao
+2B480	𫒀	tltn	tltn	tltn
+2B481	𫒁	jfgh	jfgh	jfyh
+2B482	𫒂	qijf	qijf	qijf
+2B483	𫒃	tgjx	tgjx	tgjx
+2B484	𫒄	ocdf	ocdf	ocdf
+2B485	𫒅	tgjc	tgjc	tgjc
+2B486	𫒆	qhg	qhg	qhgg
+2B487	𫒇	qtan	qtan	qtan
+2B488	𫒈	qvf	qvf	qvf
+2B489	𫒉	qbh	qbh	qbh
+2B48A	𫒊	qdhh	qdhh	qdhh
+2B48B	𫒋	qty	qty	qty
+2B48C	𫒌	qwjh	qwjh	qwjh
+2B48D	𫒍	qtfh	qtfh	qtfh
+2B48E	𫒎	qiy	qiy	qiy
+2B48F	𫒏	qlg	qlg	qlg
+2B490	𫒐	qkxb	qkxb	qkxb
+2B491	𫒑	qwfn	qwfn	qwfn
+2B492	𫒒	qrgg	qrg	qrgg
+2B493	𫒓	qqhy	qqhy	qqhy
+2B494	𫒔	qcfg	qcfg	qcfg
+2B495	𫒕	qfff	qfff	qfff
+2B496	𫒖	qsg	qsg	qsg
+2B497	𫒗	qjxt	qjnt	qjxt
+2B498	𫒘	qrmh	qtfb	qrmh
+2B499	𫒙	qpfy	qpfy	qpfy
+2B49A	𫒚	qyoy	qyoy	qyoy
+2B49B	𫒛	qpbg	qpbg	qpbg
+2B49C	𫒜	qyfn	pyfn	qyfn
+2B49D	𫒝	qgjq	qgjr	qgjr
+2B49E	𫒞	qaah	qaah	qaah
+2B49F	𫒟	qwty	qwgs	qwgs
+2B4A0	𫒠	qtxi	qtxi	qtxi
+2B4A1	𫒡	qtnh	qtnh	qtnh
+2B4A2	𫒢	qpqf	qpqf	qpqf
+2B4A3	𫒣	yogq	yoqf	yogq
+2B4A4	𫒤	qybg	qybg	qybg
+2B4A5	𫒥	qynn	qynn	qynn
+2B4A6	𫒦	qfhg	qfhg	qfhg
+2B4A7	𫒧	qfy	qfy	qfy
+2B4A8	𫒨	qfjh	qfjh	qfjh
+2B4A9	𫒩	qdwf	qdwg	qdwg
+2B4AA	𫒪	qvqn	qeqn	qeqn
+2B4AB	𫒫	qrqy	qrqy	qrqy
+2B4AC	𫒬	qwqq	qwqq	qwqq
+2B4AD	𫒭	qpgy	qpgy	qpgy
+2B4AE	𫒮	qpxc	qpxc	qpxc
+2B4AF	𫒯	qcjq	qcjq	qcmq
+2B4B0	𫒰	qfth	qftg	qfth
+2B4B1	𫒱	qjtd	qjtd	qjtd
+2B4B2	𫒲	qrdf	qrdf	qrdf
+2B4B3	𫒳	qtky	qtky	qtky
+2B4B4	𫒴	qptk	qptk	qptk
+2B4B5	𫒵	qukc	qukc	qukc
+2B4B6	𫒶	qbkb	qbkb	qbkb
+2B4B7	𫒷	qngf	qngf	qngf
+2B4B8	𫒸	qfkq	qfkq	qfkq
+2B4B9	𫒹	qlqn	qlqn	qlqn
+2B4BA	𫒺	wnnq	tntq	wnnq
+2B4BB	𫒻	qych	qycg	qycg
+2B4BC	𫒼	qubp	qubp	qubp
+2B4BD	𫒽	qooq	qoor	qoor
+2B4BE	𫒾	qxmw	qxmw	qxmw
+2B4BF	𫒿	qaqh	qaqh	qaqh
+2B4C0	𫓀	qafl	qafe	qake
+2B4C1	𫓁	qmpi	qmpi	qmpi
+2B4C2	𫓂	qwga	qwga	qwga
+2B4C3	𫓃	qphw	wphw	qphw
+2B4C4	𫓄	qfkf	qfkf	qfkf
+2B4C5	𫓅	qduh	qduh	qduf
+2B4C6	𫓆	qfgf	qfsf	qfgf
+2B4C7	𫓇	qgmi	qsmm	qgmi
+2B4C8	𫓈	qgym	qgym	qgym
+2B4C9	𫓉	qjgf	qjgf	qjgf
+2B4CA	𫓊	qhgc	qhgc	qhgc
+2B4CB	𫓋	qhhh	qhhh	qhhh
+2B4CC	𫓌	qtwk	qtwk	qtwk
+2B4CD	𫓍	qttt	qttt	qttt
+2B4CE	𫓎	qxdx	qxdx	qxdx
+2B4CF	𫓏	qdgt	qdgn	qdgy
+2B4D0	𫓐	qmau	qmau	qmau
+2B4D1	𫓑	qaqn	qffn	qaqn
+2B4D2	𫓒	qmae	qmae	qmae
+2B4D3	𫓓	wftq	etpq	etpq
+2B4D4	𫓔	qugt	qugy	qugy
+2B4D5	𫓕	qyjg	qyjg	qyjg
+2B4D6	𫓖	fkuq	fkuq	fkuq
+2B4D7	𫓗	qhaf	qhff	qhaf
+2B4D8	𫓘	qyww	qoww	qoww
+2B4D9	𫓙	qxwy	qxwy	qxwy
+2B4DA	𫓚	qnyf	qnrf	qnyf
+2B4DB	𫓛	qddj	qddj	qddj
+2B4DC	𫓜	qyjd	qyju	qykg
+2B4DD	𫓝	qggq	qggq	qggq
+2B4DE	𫓞	qssk	qssk	qssk
+2B4DF	𫓟	qkkc	qkko	qkko
+2B4E0	𫓠	qfnb	qfnb	qfnb
+2B4E1	𫓡	qlft	qlft	qlft
+2B4E2	𫓢	qnlw	qnrw	qnlw
+2B4E3	𫓣	qjxo	qjjo	qjjo
+2B4E4	𫓤	qtag	qtag	qtag
+2B4E5	𫓥	qwy	qwy	qwy
+2B4E6	𫓦	qbg	qbg	qbg
+2B4E7	𫓧	qfwy	qgy	qfwy
+2B4E8	𫓨	qat	qay	qay
+2B4E9	𫓩	qwwy	qwwy	qwwy
+2B4EA	𫓪	qwcy	qwcy	qwcy
+2B4EB	𫓫	qwgn	qwgn	qwgn
+2B4EC	𫓬	qamh	qamh	qamh
+2B4ED	𫓭	qmdy	qmdy	qmdy
+2B4EE	𫓮	qqvg	qqvg	qqvg
+2B4EF	𫓯	qffg	qffg	qffg
+2B4F0	𫓰	qdgt	qdgg	qdgy
+2B4F1	𫓱	qtdj	qtdj	qtdj
+2B4F2	𫓲	qqjg	qqjg	qqjg
+2B4F3	𫓳	qpyn	qpyn	qpyn
+2B4F4	𫓴	qcrh	qctg	qctg
+2B4F5	𫓵	qdfe	qdfe	qdfe
+2B4F6	𫓶	qkeg	qkeg	qkeg
+2B4F7	𫓷	qtnh	qtnh	qtnh
+2B4F8	𫓸	qgot	qgot	qgot
+2B4F9	𫓹	qadw	qdwy	qadw
+2B4FA	𫓺	qhal	qhet	qhae
+2B4FB	𫓻	qwyn	qwyn	qwyn
+2B4FC	𫓼	qtkg	qtkg	qtkg
+2B4FD	𫓽	qpfi	qpfi	qpfi
+2B4FE	𫓾	qyce	qyce	qyce
+2B4FF	𫓿	qoqw	qoqw	qoqw
+2B500	𫔀	qgli	qslg	qgli
+2B501	𫔁	qfam	qfam	qfam
+2B502	𫔂	qjgh	qjgh	qjgh
+2B503	𫔃	qjtq	qjtq	qjtq
+2B504	𫔄	qcbs	qcns	qcns
+2B505	𫔅	qfpi	qfpi	qfpi
+2B506	𫔆	qlfc	qlfc	qlfc
+2B507	𫔇	qtlx	qtlx	qtlx
+2B508	𫔈	qube	qube	qube
+2B509	𫔉	qmmv	qmmv	qmmv
+2B50A	𫔊	qpwj	qpwj	qpwj
+2B50B	𫔋	qffw	qffw	qffw
+2B50C	𫔌	qaet	qaet	qaet
+2B50D	𫔍	qtol	qtol	qtol
+2B50E	𫔎	qcbk	qcnk	qcnk
+2B50F	𫔏	qnbb	qnbb	qnbb
+2B510	𫔐	qfkc	qfkc	qfkc
+2B511	𫔑	qylg	qylg	qylg
+2B512	𫔒	qceo	qceo	qceo
+2B513	𫔓	qfwy	qfwy	qfwy
+2B514	𫔔	qmwk	qmwk	qmwk
+2B515	𫔕	qodm	qodm	qodm
+2B516	𫔖	dpey	dpey	dcpe
+2B517	𫔗	dgdn	dgdn	dcgn
+2B518	𫔘	uhk	uhk	uhk
+2B519	𫔙	auf	auf	auf
+2B51A	𫔚	ukhk	ukhk	ukhk
+2B51B	𫔛	uwxv	uwxv	uwxv
+2B51C	𫔜	udd	udd	udd
+2B51D	𫔝	uhd	uhd	uhd
+2B51E	𫔞	umd	umd	umd
+2B51F	𫔟	uwai	uway	uway
+2B520	𫔠	utui	utui	utui
+2B521	𫔡	ugku	ugku	ugku
+2B522	𫔢	ukkh	ukkh	ukkh
+2B523	𫔣	utjk	utjk	utjk
+2B524	𫔤	uyfh	uygh	uygh
+2B525	𫔥	uadw	udwi	uadw
+2B526	𫔦	tfua	tfua	tfua
+2B527	𫔧	uwww	uwww	uwww
+2B528	𫔨	uwge	uwgv	uwge
+2B529	𫔩	uajd	uffd	uajd
+2B52A	𫔪	uujn	uujn	uujn
+2B52B	𫔫	ueed	uged	uged
+2B52C	𫔬	dnub	gqub	gqub
+2B52D	𫔭	ugak	ugak	ugak
+2B52E	𫔮	ued	ued	ued
+2B52F	𫔯	uufk	uufk	uufk
+2B530	𫔰	ucak	ucak	ucak
+2B531	𫔱	uyoi	uyoi	uyoi
+2B532	𫔲	uftb	uftb	uftb
+2B533	𫔳	uyfh	uygk	uygk
+2B534	𫔴	uwyd	uwyd	uwyd
+2B535	𫔵	ugct	ugct	ugct
+2B536	𫔶	uths	uths	uths
+2B537	𫔷	ugan	ugan	ugan
+2B538	𫔸	jfhu	jggu	jgwu
+2B539	𫔹	uyml	uyml	uyml
+2B53A	𫔺	bdy	bdy	bdy
+2B53B	𫔻	byy	byy	byy
+2B53C	𫔼	bmg	bmg	bmg
+2B53D	𫔽	bcfg	mcfg	bcfg
+2B53E	𫔾	bbg	bbg	bbg
+2B53F	𫔿	bjsh	bjsh	bjsh
+2B540	𫕀	budy	budy	budy
+2B541	𫕁	bgkg	bgkg	bgkg
+2B542	𫕂	bpqv	bpqv	bpqv
+2B543	𫕃	bcbb	bcnb	bcnb
+2B544	𫕄	bhwy	bhwy	bhwy
+2B545	𫕅	byjg	byjg	byjg
+2B546	𫕆	bgka	bgka	bgka
+2B547	𫕇	bgxf	bgxf	bgxf
+2B548	𫕈	bjqn	bjqn	bjqn
+2B549	𫕉	befc	begc	begc
+2B54A	𫕊	bexc	bexc	bexc
+2B54B	𫕋	bemf	bemf	bemf
+2B54C	𫕌	brna	brna	brna
+2B54D	𫕍	bpgg	bpgg	bpgg
+2B54E	𫕎	bwcn	bwcn	bwcn
+2B54F	𫕏	btnf	btnf	btnf
+2B550	𫕐	bdqq	bdrr	bdrr
+2B551	𫕑	bqgl	bqgl	bqgl
+2B552	𫕒	bumd	byud	byud
+2B553	𫕓	bcck	bcck	bcck
+2B554	𫕔	bdui	bdui	bdui
+2B555	𫕕	bafk	bafk	bafk
+2B556	𫕖	bskn	bskn	bskn
+2B557	𫕗	byti	byti	byti
+2B558	𫕘	bxgg	bxgg	bxgg
+2B559	𫕙	xtvi	xtvi	xtvi
+2B55A	𫕚	wyww	wyww	wyww
+2B55B	𫕛	fkwy	fkwy	fkwy
+2B55C	𫕜	wngy	qowy	wngy
+2B55D	𫕝	fbj	fbj	fbj
+2B55E	𫕞	fff	fff	fff
+2B55F	𫕟	fef	fef	fef
+2B560	𫕠	fcb	fcb	fcb
+2B561	𫕡	fuxb	fuxb	fuxb
+2B562	𫕢	fxgu	fxu	fxu
+2B563	𫕣	vyfv	vyfv	vyfv
+2B564	𫕤	fwtf	fwtf	fwtf
+2B565	𫕥	fkmu	fkmu	fkmu
+2B566	𫕦	fiyu	fiyu	fiyu
+2B567	𫕧	fawv	fffv	fawv
+2B568	𫕨	fcde	fcde	fcde
+2B569	𫕩	fjaf	fjaf	fjaf
+2B56A	𫕪	figj	figj	figj
+2B56B	𫕫	frde	frde	frde
+2B56C	𫕬	fafl	fafe	fake
+2B56D	𫕭	fihj	fihj	fihf
+2B56E	𫕮	fafb	fafb	fakb
+2B56F	𫕯	feto	feto	feto
+2B570	𫕰	fedh	fedg	fedg
+2B571	𫕱	fwys	fwys	fwys
+2B572	𫕲	fwgp	fwgp	fwgp
+2B573	𫕳	fafg	fafg	fakg
+2B574	𫕴	fujn	fujn	fujn
+2B575	𫕵	filf	filf	filf
+2B576	𫕶	fnkf	fnkf	fnkf
+2B577	𫕷	fidy	fidy	fidy
+2B578	𫕸	geqh	geqh	geqh
+2B579	𫕹	getg	getg	getg
+2B57A	𫕺	geuf	geug	geug
+2B57B	𫕻	gege	gege	gege
+2B57C	𫕼	geuq	geuq	geuq
+2B57D	𫕽	wgkd	wgkd	wgkd
+2B57E	𫕾	lfhd	lfhd	lfhd
+2B57F	𫕿	udwd	uqod	ugwd
+2B580	𫖀	dmjs	dljs	dmjs
+2B581	𫖁	dmjq	dlji	dmji
+2B582	𫖂	vfbd	ngbf	ngbd
+2B583	𫖃	dmjm	dljm	dmjm
+2B584	𫖄	wwnd	wthf	wwnd
+2B585	𫖅	afdx	afdy	akfy
+2B586	𫖆	akfw	akfw	akfw
+2B587	𫖇	afwf	afwf	akff
+2B588	𫖈	nafj	nafj	nakf
+2B589	𫖉	afae	afae	akfh
+2B58A	𫖊	afsj	afsj	akff
+2B58B	𫖋	afnc	afnc	akfc
+2B58C	𫖌	gkah	gkgj	gkah
+2B58D	𫖍	nhkh	nkgh	nkah
+2B58E	𫖎	yinh	ying	ykih
+2B58F	𫖏	nhkc	nkgc	nkac
+2B590	𫖐	fash	fffg	fash
+2B591	𫖑	fnhn	fnhn	fnhn
+2B592	𫖒	fnhf	fnhf	fnhf
+2B593	𫖓	fnhf	fnhf	fnhf
+2B594	𫖔	fnhe	fnhe	fnhh
+2B595	𫖕	fnhf	fnhf	fnhf
+2B596	𫖖	fnhu	fnhu	fnhu
+2B597	𫖗	ujuf	ujuf	ujuf
+2B598	𫖘	ujca	ujca	ujca
+2B599	𫖙	ujhm	ujhm	ujhm
+2B59A	𫖚	ujpw	ujpw	ujpw
+2B59B	𫖛	ujah	ujfg	ujaf
+2B59C	𫖜	ujte	ujte	ujte
+2B59D	𫖝	xxdm	xxdm	xxdm
+2B59E	𫖞	rydm	rydm	rydm
+2B59F	𫖟	svdm	svdm	svdm
+2B5A0	𫖠	ehdm	ehdm	ehdm
+2B5A1	𫖡	fpgm	fpgm	fpgm
+2B5A2	𫖢	jfim	jfim	jfim
+2B5A3	𫖣	hmdm	hmdm	hmdm
+2B5A4	𫖤	wngm	qodm	wngm
+2B5A5	𫖥	jgkm	jgkm	jgkm
+2B5A6	𫖦	kdmk	kdmk	kdmk
+2B5A7	𫖧	dmji	dmji	dmji
+2B5A8	𫖨	ejdm	gejm	gejm
+2B5A9	𫖩	vlqm	vlrm	vlrm
+2B5AA	𫖪	tndm	tndm	tndm
+2B5AB	𫖫	pqdm	pqdm	pqdm
+2B5AC	𫖬	dmwe	dmwe	dmwe
+2B5AD	𫖭	ckdm	ckdm	ckdm
+2B5AE	𫖮	mndm	mndm	mndm
+2B5AF	𫖯	iqdm	qidm	qidm
+2B5B0	𫖰	qqdm	qqdm	qqdm
+2B5B1	𫖱	vedm	vdmy	vedm
+2B5B2	𫖲	kmdm	kmdm	kmdm
+2B5B3	𫖳	vtkm	vtkm	vtkm
+2B5B4	𫖴	gmdm	gmdm	gmdm
+2B5B5	𫖵	rgmm	rmdm	rgmm
+2B5B6	𫖶	ynem	ynem	ynem
+2B5B7	𫖷	ansm	ansm	ansm
+2B5B8	𫖸	drim	drim	drim
+2B5B9	𫖹	dhim	dhim	dhim
+2B5BA	𫖺	sqqm	srrm	srrm
+2B5BB	𫖻	wcmj	wcwj	wcwj
+2B5BC	𫖼	mfgs	wfgs	wfgs
+2B5BD	𫖽	mftc	wftb	wftc
+2B5BE	𫖾	wgef	wgef	wgef
+2B5BF	𫖿	mfud	wfud	wfud
+2B5C0	𫗀	mfiu	wfix	wfix
+2B5C1	𫗁	mfvp	wfvp	wfvp
+2B5C2	𫗂	mfvp	wfvp	wfvp
+2B5C3	𫗃	mfwn	wfwn	wfwn
+2B5C4	𫗄	mfwn	wfwn	wfwn
+2B5C5	𫗅	thlj	thlj	thlj
+2B5C6	𫗆	mtjn	wtjn	wtjn
+2B5C7	𫗇	mqjd	wrjd	wrjd
+2B5C8	𫗈	mqfb	wrfb	wrfb
+2B5C9	𫗉	mqdh	wrdg	wrdg
+2B5CA	𫗊	mquj	wruj	wruj
+2B5CB	𫗋	mqgt	wrgt	wrgt
+2B5CC	𫗌	dfau	dfau	dfau
+2B5CD	𫗍	ftwe	ftwv	ftwe
+2B5CE	𫗎	wgvn	wvan	wgvn
+2B5CF	𫗏	wpde	wvde	wyde
+2B5D0	𫗐	wgvg	wvwg	wyvg
+2B5D1	𫗑	wpqc	wvqc	wyqc
+2B5D2	𫗒	wgvv	wgvv	wyvv
+2B5D3	𫗓	wptk	wvtk	wytk
+2B5D4	𫗔	wpsd	wvsd	wysd
+2B5D5	𫗕	wpff	wvff	wyff
+2B5D6	𫗖	wgvd	wvdf	wgvd
+2B5D7	𫗗	wpnh	wvnh	wynh
+2B5D8	𫗘	wptl	wvtl	wytl
+2B5D9	𫗙	wgvm	wvgm	wgvm
+2B5DA	𫗚	ilre	ilrv	ilre
+2B5DB	𫗛	wppj	whvj	wypj
+2B5DC	𫗜	wpfj	wvfj	wyfj
+2B5DD	𫗝	wgvl	wgvl	wgvl
+2B5DE	𫗞	qnfh	qnfh	qnfh
+2B5DF	𫗟	qnfq	qnfq	qnfq
+2B5E0	𫗠	qnty	qnty	qnty
+2B5E1	𫗡	qndg	qndg	qndg
+2B5E2	𫗢	qntf	qntf	qntf
+2B5E3	𫗣	qnnt	qnnt	qnnt
+2B5E4	𫗤	qndv	qndv	qndv
+2B5E5	𫗥	qnpl	qnpl	qnpl
+2B5E6	𫗦	qngy	qnsy	qngy
+2B5E7	𫗧	qngi	qnsk	qngi
+2B5E8	𫗨	qnye	qnyv	qnye
+2B5E9	𫗩	qnlq	qnlq	qnlq
+2B5EA	𫗪	qntv	qntv	qntv
+2B5EB	𫗫	qnde	qnde	qnde
+2B5EC	𫗬	qndd	qndd	qndd
+2B5ED	𫗭	qnle	qnle	qnle
+2B5EE	𫗮	qnrg	qnrg	qnrg
+2B5EF	𫗯	qnwd	qnwd	qnwd
+2B5F0	𫗰	qnwp	qntp	qnwp
+2B5F1	𫗱	qnuo	qnuw	qnuo
+2B5F2	𫗲	qnar	qndr	qnar
+2B5F3	𫗳	qnxj	qnxj	qnxj
+2B5F4	𫗴	qnyg	qnyg	qnyg
+2B5F5	𫗵	qnye	qnye	qnye
+2B5F6	𫗶	uthh	uthh	uthf
+2B5F7	𫗷	uths	uths	uths
+2B5F8	𫗸	uthj	uthj	uthj
+2B5F9	𫗹	uthy	uthy	uthy
+2B5FA	𫗺	utht	utht	utht
+2B5FB	𫗻	uthe	uthe	uthe
+2B5FC	𫗼	tjff	tjff	tjff
+2B5FD	𫗽	tjtg	tjtg	tjtg
+2B5FE	𫗾	tjfn	tjfn	tjfn
+2B5FF	𫗿	tjnh	tjnh	tjnh
+2B600	𫘀	tjft	tjgt	tjft
+2B601	𫘁	tjgm	tjgm	tjgm
+2B602	𫘂	tjws	tjws	tjws
+2B603	𫘃	tjuw	tjuw	tjuw
+2B604	𫘄	tjpm	tjpm	tjpm
+2B605	𫘅	ccyy	cocy	cocy
+2B606	𫘆	cfwy	cogy	cofw
+2B607	𫘇	caqn	coaq	coaq
+2B608	𫘈	cmcy	cowc	cowc
+2B609	𫘉	coy	cooy	cooy
+2B60A	𫘊	csg	cosg	cosg
+2B60B	𫘋	cgmg	cogg	cogg
+2B60C	𫘌	chaq	cohq	cohq
+2B60D	𫘍	ckmk	cokk	cokk
+2B60E	𫘎	trtc	ctco	ttco
+2B60F	𫘏	cdmd	codf	codd
+2B610	𫘐	ctgf	cotf	cotf
+2B611	𫘑	cugd	coud	coud
+2B612	𫘒	cgef	cosf	cogf
+2B613	𫘓	clwt	colt	colt
+2B614	𫘔	cwqj	cowj	cowj
+2B615	𫘕	cuvo	couw	couo
+2B616	𫘖	xqac	xqao	xqao
+2B617	𫘗	casw	cofw	coaw
+2B618	𫘘	khtc	khto	khto
+2B619	𫘙	cmgo	cowo	cowo
+2B61A	𫘚	colw	coow	coow
+2B61B	𫘛	cfh	cgfh	cgfh
+2B61C	𫘜	cyy	cgyy	cgyy
+2B61D	𫘝	cnwy	cgnw	cgnw
+2B61E	𫘞	ctbn	cgtb	cgtb
+2B61F	𫘟	chcy	cgby	cghc
+2B620	𫘠	cgcf	cggf	cggf
+2B621	𫘡	ciqn	cgiq	cgiq
+2B622	𫘢	cskg	cgsk	cgsk
+2B623	𫘣	cjfh	cgjf	cgjf
+2B624	𫘤	cctd	cgcd	cgcd
+2B625	𫘥	cjxx	cgjx	cgjx
+2B626	𫘦	cqrm	cgqb	cgqm
+2B627	𫘧	cviy	cgvi	cgvi
+2B628	𫘨	cjgh	cgjh	cgjh
+2B629	𫘩	crgg	cgrg	cgrg
+2B62A	𫘪	cdri	cgdi	cgdi
+2B62B	𫘫	cjpv	cgjv	cgjv
+2B62C	𫘬	cexd	cged	cged
+2B62D	𫘭	cdqq	cgdr	cgdr
+2B62E	𫘮	cumd	cgyd	cgyd
+2B62F	𫘯	culj	cguj	cguj
+2B630	𫘰	cylg	cgyg	cgyg
+2B631	𫘱	cmwk	cgmk	cgmk
+2B632	𫘲	mevj	mevj	mevj
+2B633	𫘳	mevp	mevp	mevp
+2B634	𫘴	menf	menf	menf
+2B635	𫘵	ymkb	ymkb	ykmb
+2B636	𫘶	rgyk	rymk	rgyk
+2B637	𫘷	ymkj	ymkj	ykmf
+2B638	𫘸	denb	denb	dcen
+2B639	𫘹	deqy	deqy	dcey
+2B63A	𫘺	devf	devf	dcev
+2B63B	𫘻	depm	depw	dcew
+2B63C	𫘼	demf	demf	dcem
+2B63D	𫘽	dewc	dewc	dcec
+2B63E	𫘾	dede	dede	dcee
+2B63F	𫘿	devk	devk	dcek
+2B640	𫙀	defj	defj	dcej
+2B641	𫙁	deqq	deqq	dceq
+2B642	𫙂	deov	deov	dcev
+2B643	𫙃	dejq	dejq	dceq
+2B644	𫙄	gkmh	gkmh	gkmh
+2B645	𫙅	gkme	gkme	gkmh
+2B646	𫙆	xwfh	xwfh	xwfh
+2B647	𫙇	xuwh	xuwh	xuwh
+2B648	𫙈	rqcw	tlqw	tlqw
+2B649	𫙉	rqcq	rqcr	rqcr
+2B64A	𫙊	rqcd	tlqu	tlqg
+2B64B	𫙋	tjrc	tjtc	tjrc
+2B64C	𫙌	ffhc	ffhc	ffhc
+2B64D	𫙍	rqcl	tlql	rqcl
+2B64E	𫙎	rqcf	tlqf	rqcl
+2B64F	𫙏	qofh	qofh	qofh
+2B650	𫙐	qoaj	qoaj	qoaj
+2B651	𫙑	qomc	qomc	qomc
+2B652	𫙒	qoxh	qoxh	qoxh
+2B653	𫙓	qdkq	qdkr	qdkr
+2B654	𫙔	qohn	qohn	qohn
+2B655	𫙕	qopw	qopw	qopw
+2B656	𫙖	qonx	qonx	qonx
+2B657	𫙗	qona	qona	qona
+2B658	𫙘	qosg	qosg	qosg
+2B659	𫙙	qoqc	qoqc	qoqc
+2B65A	𫙚	qoth	qots	qots
+2B65B	𫙛	qodi	qogf	qodi
+2B65C	𫙜	qoyv	qoyv	qoyv
+2B65D	𫙝	qoud	qoug	qoud
+2B65E	𫙞	qocc	qocc	qocc
+2B65F	𫙟	qovh	qovg	qovg
+2B660	𫙠	qoey	qoge	qoge
+2B661	𫙡	qorn	qorn	qorn
+2B662	𫙢	qogs	qogs	qogs
+2B663	𫙣	jfqo	jfqo	jfqo
+2B664	𫙤	qosm	qosw	qosw
+2B665	𫙥	qoik	qoik	qoik
+2B666	𫙦	trqo	cqro	trqo
+2B667	𫙧	qorp	qorp	qorp
+2B668	𫙨	qowc	qotc	qowc
+2B669	𫙩	qouk	qouk	qouk
+2B66A	𫙪	qovd	qovd	qovd
+2B66B	𫙫	qodn	qodn	qodn
+2B66C	𫙬	qoml	qoml	qoml
+2B66D	𫙭	qdqu	qdqu	qdqu
+2B66E	𫙮	qoqs	qoqs	qoqs
+2B66F	𫙯	qowe	qowe	qowe
+2B670	𫙰	qoxl	qoxl	qoxl
+2B671	𫙱	qofn	qofn	qofn
+2B672	𫙲	qoih	qoih	qoih
+2B673	𫙳	qotf	qotf	qotf
+2B674	𫙴	qoyw	qoow	qoow
+2B675	𫙵	qonj	qonj	qonj
+2B676	𫙶	qoxl	qoxl	qoxl
+2B677	𫙷	qokm	qokm	qokm
+2B678	𫙸	qoua	qoua	qoua
+2B679	𫙹	qomj	qomj	qomj
+2B67A	𫙺	qokt	qoky	qoky
+2B67B	𫙻	qopl	qopl	qopl
+2B67C	𫙼	qowu	qowu	qowu
+2B67D	𫙽	qoay	qofy	qoay
+2B67E	𫙾	qohf	qohf	qohh
+2B67F	𫙿	qoqc	qoqc	qoqc
+2B680	𫚀	qour	qour	qour
+2B681	𫚁	qoum	qoum	qoum
+2B682	𫚂	qofy	qofy	qofy
+2B683	𫚃	wfqo	erro	erro
+2B684	𫚄	qodl	qotl	qohl
+2B685	𫚅	qovq	qovi	qovi
+2B686	𫚆	qodm	qodm	qodm
+2B687	𫚇	qonj	qonj	qonj
+2B688	𫚈	qggg	qggg	qggg
+2B689	𫚉	qgag	qgag	qgag
+2B68A	𫚊	qgnr	qgnr	qgnr
+2B68B	𫚋	qgfy	qgfy	qgfy
+2B68C	𫚌	qgit	qgit	qgit
+2B68D	𫚍	qgwv	qgwv	qgwv
+2B68E	𫚎	qggw	qggw	qggw
+2B68F	𫚏	qgsg	qgsg	qgsg
+2B690	𫚐	qgmd	qgmd	qgmd
+2B691	𫚑	qgnt	qgnt	qgnt
+2B692	𫚒	qgxj	qgxj	qgxj
+2B693	𫚓	gqjg	gqjg	gqjg
+2B694	𫚔	qglk	qglk	qglk
+2B695	𫚕	qgjh	qgjh	qgjh
+2B696	𫚖	hxqg	hxqg	hxqg
+2B697	𫚗	qgwk	qgwk	qgwk
+2B698	𫚘	qgwf	qgwf	qgwf
+2B699	𫚙	qggy	qgsy	qggy
+2B69A	𫚚	qgbn	qgbn	qgbn
+2B69B	𫚛	qguq	qguq	qguq
+2B69C	𫚜	qgfq	qggq	qgfq
+2B69D	𫚝	qgjs	qgjs	qgjs
+2B69E	𫚞	tqtg	tqtg	tqtg
+2B69F	𫚟	tryg	cywg	tywg
+2B6A0	𫚠	qgub	qgub	qgub
+2B6A1	𫚡	qgvh	qgvh	qgvh
+2B6A2	𫚢	qgav	qgav	qgav
+2B6A3	𫚣	qgwq	qgwr	qgwr
+2B6A4	𫚤	qgux	qgux	qgux
+2B6A5	𫚥	qgnc	qgnc	qgnc
+2B6A6	𫚦	qgpk	qgpk	qgpk
+2B6A7	𫚧	qggj	qggj	qggj
+2B6A8	𫚨	qgub	qgub	qgub
+2B6A9	𫚩	qgfe	qgfe	qgfe
+2B6AA	𫚪	qgck	qgck	qgck
+2B6AB	𫚫	qgks	qgks	qgks
+2B6AC	𫚬	qgpe	qgpe	qgpe
+2B6AD	𫚭	qgvn	qgvn	qgvn
+2B6AE	𫚮	nwvo	nqoy	nwvo
+2B6AF	𫚯	dmwo	dwqo	dwwo
+2B6B0	𫚰	xxwo	xxqo	xxwo
+2B6B1	𫚱	wvgc	qoqc	wvgc
+2B6B2	𫚲	pqwo	pqqo	pqwo
+2B6B3	𫚳	wvgk	qohk	wvgk
+2B6B4	𫚴	twvo	tqoy	twvo
+2B6B5	𫚵	qtbo	qtbo	qtbo
+2B6B6	𫚶	tuho	tuho	tufo
+2B6B7	𫚷	mmgo	mmgo	mmgo
+2B6B8	𫚸	wvge	qode	wvge
+2B6B9	𫚹	qbwo	qbqo	qbwo
+2B6BA	𫚺	rewo	reqo	rewo
+2B6BB	𫚻	vbwo	vbqo	vbwo
+2B6BC	𫚼	wvge	qoku	wvge
+2B6BD	𫚽	mtfo	mtfo	mtfo
+2B6BE	𫚾	kgdo	kgdo	kgdo
+2B6BF	𫚿	whto	whto	whto
+2B6C0	𫛀	vfbo	ngbo	ngbo
+2B6C1	𫛁	gaho	gaho	fhno
+2B6C2	𫛂	jqao	jqao	jqao
+2B6C3	𫛃	mgyo	mgyo	mgyo
+2B6C4	𫛄	hiwo	hhqo	hhwo
+2B6C5	𫛅	ufho	ugqo	ugwo
+2B6C6	𫛆	veho	veho	veho
+2B6C7	𫛇	vcxo	vcxo	vcxo
+2B6C8	𫛈	wvgy	qoby	wvgy
+2B6C9	𫛉	bbwo	bbqo	bbwo
+2B6CA	𫛊	nuto	nuto	nuto
+2B6CB	𫛋	ckno	cknp	ckno
+2B6CC	𫛌	skso	skso	skso
+2B6CD	𫛍	dwfo	dwfo	dwfo
+2B6CE	𫛎	ttdo	ttdo	ttdo
+2B6CF	𫛏	pwyo	pwyo	pwyo
+2B6D0	𫛐	lako	lako	lako
+2B6D1	𫛑	fkko	fkko	fkko
+2B6D2	𫛒	rgjo	rhgo	raqo
+2B6D3	𫛓	wvgh	qofg	wvgf
+2B6D4	𫛔	etno	etno	etno
+2B6D5	𫛕	pqto	pqto	pqto
+2B6D6	𫛖	qtco	qtco	qtco
+2B6D7	𫛗	kako	kako	kako
+2B6D8	𫛘	rrro	rrro	rrro
+2B6D9	𫛙	pqto	pqto	pqto
+2B6DA	𫛚	gaqg	gaqg	gaqg
+2B6DB	𫛛	fcqg	fcqg	fcqg
+2B6DC	𫛜	giqg	dhqg	dhqg
+2B6DD	𫛝	myqg	myqg	myqg
+2B6DE	𫛞	qynw	qgnw	qynw
+2B6DF	𫛟	dxqg	dxyg	dxyg
+2B6E0	𫛠	snqg	snqg	snqg
+2B6E1	𫛡	tpqg	tpqg	tpqg
+2B6E2	𫛢	psqg	psqg	psqg
+2B6E3	𫛣	qynw	qgpw	qynw
+2B6E4	𫛤	lkqg	ekqg	ekqg
+2B6E5	𫛥	guwg	gudg	gudg
+2B6E6	𫛦	dfng	dfng	dfng
+2B6E7	𫛧	hiqg	hiqg	hgig
+2B6E8	𫛨	uaqg	uaqg	uaqg
+2B6E9	𫛩	pvqg	pvqg	pvqg
+2B6EA	𫛪	vkqg	vkqg	vkqg
+2B6EB	𫛫	kmqg	kmqg	kmqg
+2B6EC	𫛬	wtqg	wgsg	wgsg
+2B6ED	𫛭	qtgg	qtgg	qtgg
+2B6EE	𫛮	umig	iqgg	umig
+2B6EF	𫛯	xyqg	xyqg	xyqg
+2B6F0	𫛰	adwg	dwqg	adwg
+2B6F1	𫛱	hjqg	hjqg	hjfg
+2B6F2	𫛲	mfkg	mfkg	mfkg
+2B6F3	𫛳	ebcg	ebcg	ebcg
+2B6F4	𫛴	ujfg	ujfg	ulqg
+2B6F5	𫛵	nbmg	nbmg	nbmg
+2B6F6	𫛶	gkig	skeg	gkig
+2B6F7	𫛷	deqg	deqg	deqg
+2B6F8	𫛸	jghg	jghg	jghg
+2B6F9	𫛹	hitg	hitg	hitg
+2B6FA	𫛺	qynd	qgwd	qynd
+2B6FB	𫛻	yacg	oacg	oacg
+2B6FC	𫛼	wgdg	wgdg	wgdg
+2B6FD	𫛽	ssqg	ssqg	ssqg
+2B6FE	𫛾	qegg	qegg	qegg
+2B6FF	𫛿	fotg	fotg	fotg
+2B700	𫜀	jdfg	jdfg	jdfg
+2B701	𫜁	umig	itqg	umig
+2B702	𫜂	ujqg	ujqg	ujfg
+2B703	𫜃	sjqg	sjqg	sjfg
+2B704	𫜄	usgg	usgg	usgg
+2B705	𫜅	qyne	qgle	qyne
+2B706	𫜆	ynwg	onwg	onwg
+2B707	𫜇	hlqo	hloo	hloo
+2B708	𫜈	txgo	txho	txho
+2B709	𫜉	hlqy	hloy	hloy
+2B70A	𫜊	hlql	hlrl	hlrl
+2B70B	𫜋	ynjl	oxxe	onje
+2B70C	𫜌	ynjw	oxxw	onjw
+2B70D	𫜍	ynjk	oxxk	onjk
+2B70E	𫜎	ynjj	oxxj	onjj
+2B70F	𫜏	oqax	oqgx	oqax
+2B710	𫜐	swwm	swww	swww
+2B711	𫜑	gtdh	gtdh	gtdh
+2B712	𫜒	gtpx	gtpx	gtpx
+2B713	𫜓	gtke	gtke	gtke
+2B714	𫜔	gtrf	gtrf	gtrf
+2B715	𫜕	fpgt	fpgt	fpgt
+2B716	𫜖	yfqk	ofqk	ofqk
+2B717	𫜗	yssj	ossj	ossj
+2B718	𫜘	gmhw	gmhw	gmhw
+2B719	𫜙	lfon	lfon	lfon
+2B71A	𫜚	lfon	lfon	lfon
+2B71B	𫜛	lfoh	lfoh	lfoh
+2B71C	𫜜	wgnj	wgnj	wgnj
+2B71D	𫜝	kkxf	kkxf	kkxf
+2B71E	𫜞	lfox	lfox	lfox
+2B71F	𫜟	usgn	usgn	usgn
+2B720	𫜠	hndb	hndb	hndb
+2B721	𫜡	hndy	hndy	hndy
+2B722	𫜢	vnug	enug	enug
+2B723	𫜣	vnuu	enuu	enuu
+2B724	𫜤	thld	thld	thly
+2B725	𫜥	hbmm	hbmw	hbmw
+2B726	𫜦	hbgy	hbsy	hbgy
+2B727	𫜧	hbps	jbps	hbps
+2B728	𫜨	hwbc	hwbc	hwbc
+2B729	𫜩	dhvb	dhvb	dhvb
+2B72A	𫜪	hwbq	hwbr	hwbr
+2B72B	𫜫	hwby	hwbs	hwby
+2B72C	𫜬	hwbj	hwbj	hwbj
+2B72D	𫜭	hwbr	hwbr	hwbr
+2B72E	𫜮	hwbe	hwbe	hwbe
+2B72F	𫜯	hwbk	hwbk	hwbk
+2B730	𫜰	fmub	fmub	fmub
+2B731	𫜱	amhd	amhd	amhd
+2B732	𫜲	dedx	dedy	dedy
+2B733	𫜳	mfqn	mfqn	mfqn
+2B734	𫜴	ssoa	ssoa	ssoa
+2B735				
+2B736				
+2B737				
+2B738				
+2B739				
+2B73A				
+2B73B				
+2B73C				
+2B73D				
+2B73E				
+2B73F				
