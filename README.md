@@ -26,4 +26,14 @@
 
 * [https://data.gov.tw/dataset/5961](https://data.gov.tw/dataset/5961)
 
-## [五笔编码编校软件Python版使用介绍](https://github.com/CNMan/UnicodeCJK-WuBi/issues/5)
+## 五笔编码编校软件
+
+Python 版: https://github.com/program-in-chinese/wubi_code_editor
+
+![editor_screenshot_python](https://user-images.githubusercontent.com/8692234/46274926-a8ed8880-c58d-11e8-935f-3b20a427c51c.png)
+
+* [使用介绍](https://github.com/CNMan/UnicodeCJK-WuBi/issues/5)
+
+## 友情链接
+
+* [万事屋](https://github.com/program-in-chinese/house_of_10000_business)
