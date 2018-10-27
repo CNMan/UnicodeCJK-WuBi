@@ -7,9 +7,9 @@
 第二列：Unicode 字符
 第三列：86版五笔字型编码（CJK仅前20902字，缺CJK-F，需校对）
 第四列：98版五笔字型编码（CJK仅前20902字，缺CJK-F，需校对）
-第五列：06版五笔字型编码（需依GB 18030国家标准字形校对）
-第六列：中国大陆笔顺（CJK仅前20902字，缺CJK-C、CJK-D、CJK-E、CJK-F）
-第七列：中国台湾笔顺
+第五列：06版五笔字型编码（需依国家标准字形校对）
+第六列：中国大陆笔顺（CJK仅前20902字，缺CJK-F，需依国家标准字形和规范笔顺校对）
+第七列：中国台湾笔顺（与CNS11643数据同步）
 ```
 
 ## 数据来源
@@ -23,6 +23,8 @@
 * [http://club.excelhome.net/thread-649531-1-1.html](http://club.excelhome.net/thread-649531-1-1.html)
 
 * [http://mirrors.ctan.org/indexing/zhmakeindex/CJK/sunwb_strokeorder.txt](http://mirrors.ctan.org/indexing/zhmakeindex/CJK/sunwb_strokeorder.txt)
+
+* [http://bbs.unispim.com/forum.php?mod=viewthread&tid=63234](http://bbs.unispim.com/forum.php?mod=viewthread&tid=63234)
 
 * [https://data.gov.tw/dataset/5961](https://data.gov.tw/dataset/5961)
 
