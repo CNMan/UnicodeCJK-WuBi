@@ -1748,7 +1748,7 @@
 2BEF3,𫻳,adkh,adkh,adkh,15341342512,
 2BEF4,𫻴,hent,hhae,hexy,21212511534,
 2BEF5,𫻵,tfka,tfka,tfka,31212511534,
-2BEF6,𫻶,dndt,aukd,dndy,,
+2BEF6,𫻶,dndt,aukd,dndy,13513251534,
 2BEF7,𫻷,ftja,ftja,ftja,1213251141534,
 2BEF8,𫻸,adad,adad,adad,113534113534,
 2BEF9,𫻹,imka,imka,imka,234252511534,
