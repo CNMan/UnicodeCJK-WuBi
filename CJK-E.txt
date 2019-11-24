@@ -5031,7 +5031,7 @@ U+2CBC5,𬯅,bagw,bags,bagd,5211431345,
 U+2CBC6,𬯆,bjqr,bjqr,bjqr,5225113533,55225113533
 U+2CBC7,𬯇,brfg,brfg,brfg,5232511121,
 U+2CBC8,𬯈,wnnm,tnfb,wnnm,3251511235311252,3251511235311252
-U+2CBC9,𬯉,bqg,,bqg,5234112431,
+U+2CBC9,𬯉,bqg,bqg,bqg,5234112431,
 U+2CBCA,𬯊,bcde,bqg,bcde,52314134333,
 U+2CBCB,𬯋,badn,bdwn,badn,52122111355,
 U+2CBCC,𬯌,bdwj,bdwj,bdwj,52111342511,
