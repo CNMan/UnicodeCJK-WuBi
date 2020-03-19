@@ -376,7 +376,7 @@ U+2F976,罺,lvvs,lves,lves,,2522155532115111234
 U+2F977,𦌾,lxie,lxie,lxie,,252215545342522112513534
 U+2F978,羕,ugyi,ugyi,ugyi,,431121415534
 U+2F979,翺,thdn,thdn,thdn,,3251111113544544
-U+2F97A,者,ftjy,ftjy,ftjy,,121342511
+U+2F97A,者,ftjy,ftjy,ftyj,,121342511
 U+2F97B,𦓚,rgnj,rgnj,rgnj,,331515252132522
 U+2F97C,𦔣,tfid,tfdd,tfid,,3112341355435531
 U+2F97D,聠,btff,btgf,btgf,,12211131123112
