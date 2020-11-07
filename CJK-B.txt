@@ -42710,11 +42710,11 @@ U+2A6D4,𪛔,twgq,twgw,twgw,3143143412512512512512221531535,31431434125125125125
 U+2A6D5,𪛕,wgkx,wgkx,wgkx,3412512512512512232511255115115341,341251251251251223525112555151134
 U+2A6D6,𪛖,wgko,wgko,wgko,34125125125125122325112551151153414444,3412512512512512235251125551511344444
 U+2A6D7,𪛗,,wgkf,wgkf,,
-U+2A6D8,𪛘,,lhng,lhng,,
-U+2A6D9,𪛙,,nnll,ggll,,
-U+2A6DA,𪛚,,hhgg,hgd,,
-U+2A6DB,𪛛,,nyi,nyi,,
-U+2A6DC,𪛜,,aaaa,aaaa,,
-U+2A6DD,𪛝,,wyi,wyi,,
+U+2A6D8,𪛘,lhng,lhng,lhng,,
+U+2A6D9,𪛙,ggll,nnll,ggll,,
+U+2A6DA,𪛚,hhgg,hhgg,hgd,,
+U+2A6DB,𪛛,nyi,nyi,nyi,,
+U+2A6DC,𪛜,aaaa,aaaa,aaaa,,
+U+2A6DD,𪛝,myi,wyi,wyi,,
 U+2A6DE,,,,,,
 U+2A6DF,,,,,,

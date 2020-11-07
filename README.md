@@ -22,6 +22,8 @@
 
 		* CJK-F by ☂¹₄²₈⁵₇☂
 
+		* CJK-G by [CPC中文印刷社区](http://www.cnprint.org/)网友[dingsir](http://www.cnprint.org/bbs/members/697305/)
+
 	* [98版五笔字型超大字符集编码](https://github.com/yanhuacuo/98wubi-unicode) by [98五笔吧](http://tieba.baidu.com/f?kw=98五笔&ie=utf-8)吧主[yanhuacuo](http://tieba.baidu.com/home/main?un=yanhuacuo&ie=utf-8)
 
 	* [06版五笔字型超大字符集编码](https://github.com/CNMan/UnicodeCJK-WuBi06)
