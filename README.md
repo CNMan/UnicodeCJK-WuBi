@@ -38,7 +38,7 @@
 
 		* [CJK/CJK-A/CJK-B/CJK-C/CJK-D/CJK-E](http://bbs.unispim.com/forum.php?mod=viewthread&tid=63234) by 徐孟罗(xml00)
 
-		* CJK/CJK-A/CJK-B/CJK-C/CJK-D/CJK-E/CJK-F by sanwsw
+		* [CJK/CJK-A/CJK-B/CJK-C/CJK-D/CJK-E/CJK-F/CJK-G](http://bbs.unispim.com/forum.php?mod=viewthread&tid=73553) by sanwsw
 
 	* 中国台湾
 

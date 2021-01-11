@@ -56,7 +56,7 @@ U+2F836,及,,byi,byi,,3554
 U+2F837,叟,jhcu,jncu,jhcu,,2511254
 U+2F838,𠭣,vecy,vecy,vecy,,51135333454
 U+2F839,叫,,knhh,knhh,,25152
-U+2F83A,叱,kxn,kxn,kxn,,25115
+U+2F83A,叱,kxn,kxn,kxn,25135,25115
 U+2F83B,吆,ktcy,ktxy,ktcy,,251354
 U+2F83C,咞,,kgah,kgah,,2511132
 U+2F83D,吸,,kbyy,kbyy,,2513554
@@ -162,7 +162,7 @@ U+2F8A0,悁,nceg,ncmu,nceg,,424543544
 U+2F8A1,㤺,nynq,nynk,nynk,,424415325
 U+2F8A2,㤜,ndgt,ndgg,ndgy,,424131543
 U+2F8A3,悔,ntxf,ntnd,ntxf,,424315521
-U+2F8A4,𢛔,ngli,nslg,ngli,,424125431234
+U+2F8A4,𢛔,ngli,nslg,ngli,442125431234,424125431234
 U+2F8A5,惇,nyjb,nyjb,nyjb,,424412211551
 U+2F8A6,慈,axxn,axxn,axxn,,21125545544544
 U+2F8A7,慌,nawq,nawk,nawk,,4242112345325
@@ -524,7 +524,7 @@ U+2FA0A,鬒,defw,defw,decw,,21111543331225111534
 U+2FA0B,鱀,tvxo,tvao,tvxo,,3251115153535251214444
 U+2FA0C,鳽,ftfo,gdfo,gdfo,,11211232511154444
 U+2FA0D,䳎,vwvo,eqoy,ewvo,,321151132511154444
-U+2FA0E,䳭,,vbqo,vcbo,,511545232511154444
+U+2FA0E,䳭,,vbqo,vcbo,511545232511154444,511545232511154444
 U+2FA0F,鵧,tfto,tgdo,tgdo,,3112311232511154444
 U+2FA10,𪃎,wgeo,wgeo,wgeo,,34135115532511154444
 U+2FA11,䳸,yfqo,ofqo,osso,,4131235123532511154444
