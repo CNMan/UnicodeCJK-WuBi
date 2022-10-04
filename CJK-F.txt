@@ -1322,7 +1322,7 @@ U+2D3D8,𭏘,fudp,fudp,fudp,121431134454,
 U+2D3D9,𭏙,cexf,cexf,cexf,5425113535121,
 U+2D3DA,𭏚,bwtf,bwgf,bwgf,523411234121,
 U+2D3DB,𭏛,fpkl,fpkl,fpkl,1214525125221,
-U+2D3DC,𭏜,ftec,ftuc,ftec,1213354143554,
+U+2D3DC,𭏜,ftec,ftuc,ftec,1213354143554,1213354143554
 U+2D3DD,𭏝,sqsf,qssf,sqsf,1213541234121,
 U+2D3DE,𭏞,awwf,awwf,awwf,12343413434121,
 U+2D3DF,𭏟,fhag,fhrg,fhag,1212131232121,
