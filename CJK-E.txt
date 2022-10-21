@@ -2477,7 +2477,7 @@ U+2C1CB,𬇋,ynqa,ynqa,ynqa,451332115,
 U+2C1CC,𬇌,qask,qask,qask,3211512512,
 U+2C1CD,𬇍,uqqa,urqa,ywra,41343432115,4134343515
 U+2C1CE,𬇎,qakk,qakk,qakk,35152513515251,
-U+2C1CF,𬇏,rnsi,rsi,rnsi,31151234,
+U+2C1CF,𬇏,rnsi,rsi,rnsu,31151234,
 U+2C1D0,𬇐,rnjn,rjnv,rnjn,311525115,
 U+2C1D1,𬇑,rnsh,rshi,rnsh,3115123424,
 U+2C1D2,𬇒,rndi,rdri,rndi,31151332511234,
